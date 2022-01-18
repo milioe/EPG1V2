@@ -1,0 +1,1009 @@
+RegCode,ParkName,ParkCode,Location,Count,TypeCode
+SE,Abraham Lincoln Birthplace National Historical Park,ABLI,TRAFFIC COUNT AT KNOB CREEK,496,NHP
+SE,Abraham Lincoln Birthplace National Historical Park,ABLI,TRAFFIC COUNT AT MAIN ENTRANCE,"1,302",NHP
+SE,Abraham Lincoln Birthplace National Historical Park,ABLI,TRAFFIC COUNT AT PICNIC PARKING LOT,361,NHP
+NE,Acadia National Park,ACAD,TRAFFIC COUNT AT SAND BEACH,"4,029",NP
+NE,Acadia National Park,ACAD,TRAFFIC COUNT AT SCHOODIC,"1,950",NP
+NE,Allegheny Portage Railroad National Historic Site,ALPO,TRAFFIC COUNT AT DRY RUN ROAD TRAILHEAD,"1,309",NHS
+NE,Allegheny Portage Railroad National Historic Site,ALPO,TRAFFIC COUNT FROM STAPLE BEND TUNNEL,784,NHS
+NE,Allegheny Portage Railroad National Historic Site,ALPO,Traffic Count at Main Entrance,784,NHS
+NE,Allegheny Portage Railroad National Historic Site,ALPO,Traffic Count at Picnic Area,"1,954",NHS
+IM,Amistad National Recreation Area,AMIS,TRAFFIC COUNT AT BLACK BRUSH POINT,"1,732",NRA
+IM,Amistad National Recreation Area,AMIS,TRAFFIC COUNT AT BOX CANYON,"1,639",NRA
+IM,Amistad National Recreation Area,AMIS,TRAFFIC COUNT AT DAM VC,962,NRA
+IM,Amistad National Recreation Area,AMIS,TRAFFIC COUNT AT DIABLO EAST,"3,435",NRA
+IM,Amistad National Recreation Area,AMIS,TRAFFIC COUNT AT GOVERNORS LANDING,"1,572",NRA
+IM,Amistad National Recreation Area,AMIS,TRAFFIC COUNT AT OLD 277 NORTH,334,NRA
+IM,Amistad National Recreation Area,AMIS,TRAFFIC COUNT AT PECOS RIVER,660,NRA
+IM,Amistad National Recreation Area,AMIS,TRAFFIC COUNT AT ROUGH CANYON ROAD,"1,556",NRA
+IM,Amistad National Recreation Area,AMIS,TRAFFIC COUNT AT SAN PEDRO,155,NRA
+IM,Amistad National Recreation Area,AMIS,TRAFFIC COUNT AT SPUR 406,194,NRA
+IM,Amistad National Recreation Area,AMIS,TRAFFIC COUNT AT SPUR 454,"2,140",NRA
+IM,Amistad National Recreation Area,AMIS,TRAFFIC COUNT AT U.S.A.F. MARINA,"1,341",NRA
+SE,Andersonville National Historic Site,ANDE,TRAFFIC COUNT AT MAIN ENTRANCE,"2,146",NHS
+SE,Andrew Johnson National Historic Site,ANJO,TRAFFIC COUNT AT CEMETERY ROAD,271,NHS
+SE,Andrew Johnson National Historic Site,ANJO,TRAFFIC COUNT AT JOHNSON'S GRAVE/MONUMENT ROAD,363,NHS
+MW,Apostle Islands National Lakeshore,APIS,TRAFFIC COUNT AT LITTLE SAND BAY,429,NL
+MW,Apostle Islands National Lakeshore,APIS,TRAFFIC COUNT AT MEYERS ROAD,442,NL
+NE,Appomattox Court House National Historical Park,APCO,TRAFFIC COUNT AT VILLAGE ENTRANCE,"1,133",NHP
+IM,Arches National Park,ARCH,Total Vehicles entering Park,"8,439",NP
+MW,Arkansas Post National Memorial,ARPO,TRAFFIC COUNT AT ENTRANCE LANE,902,NMEM
+NE,Assateague Island National Seashore,ASIS,TRAFFIC COUNT AT BAYBERRY DRIVE,"8,513",NS
+NE,Assateague Island National Seashore,ASIS,TRAFFIC COUNT AT FWS ENTRANCE,"9,625",NS
+MW,Badlands National Park,BADL,TOTAL TRAFFIC COUNT AT INTERIOR ENTRANCE (2602),"2,987",NP
+MW,Badlands National Park,BADL,TOTAL TRAFFIC COUNT AT NORTHEAST ENTRANCE (2601),"2,640",NP
+MW,Badlands National Park,BADL,TOTAL TRAFFIC COUNT AT PINNACLES ENTRANCE (2603),"1,094",NP
+IM,Bandelier National Monument,BAND,TRAFFIC COUNT AT ENTRANCE,0,NM
+IM,Big Bend National Park,BIBE,TRAFFIC COUNT AT ROUTE 11-PERS.GAP,"4,322",NP
+IM,Big Bend National Park,BIBE,TRAFFIC COUNT AT ROUTE 13-MAVERICK,"8,661",NP
+SE,Big Cypress National Preserve,BICY,TRAFFIC COUNT AT BEAR ISLAND,589,PRESERVE
+SE,Big Cypress National Preserve,BICY,TRAFFIC COUNT AT DONA DRIVE,"1,732",PRESERVE
+SE,Big Cypress National Preserve,BICY,TRAFFIC COUNT AT KIRBY STORTER,"2,925",PRESERVE
+SE,Big Cypress National Preserve,BICY,TRAFFIC COUNT AT MITCHELL'S LANDING,778,PRESERVE
+SE,Big Cypress National Preserve,BICY,TRAFFIC COUNT AT MONUMENT LAKE CG,"1,270",PRESERVE
+SE,Big Cypress National Preserve,BICY,TRAFFIC COUNT AT OASIS PARKING LOT,"11,978",PRESERVE
+SE,Big Cypress National Preserve,BICY,TRAFFIC COUNT AT PINECREST,0,PRESERVE
+SE,Big Cypress National Preserve,BICY,TRAFFIC COUNT AT TURNER RIVER CANOE LAUNCH,"2,372",PRESERVE
+SE,Big Cypress National Preserve,BICY,TRAFFIC COUNT AT WEST LOOP,"2,052",PRESERVE
+SE,Big Cypress National Preserve,BICY,TRAFFIC COUNT EAST LOOP ROAD,"1,851",PRESERVE
+PW,Big Hole National Battlefield,BIHO,TRAFFIC COUNT AT BATTLE ROAD,0,NB
+PW,Big Hole National Battlefield,BIHO,TRAFFIC COUNT AT ENTRANCE ROAD,0,NB
+SE,Big South Fork National River and Recreation Area,BISO,TRAFFIC COUNT AT ALUM FORD,744,NR
+SE,Big South Fork National River and Recreation Area,BISO,TRAFFIC COUNT AT BEAR CREEK RECREATION AREA,127,NR
+SE,Big South Fork National River and Recreation Area,BISO,TRAFFIC COUNT AT BLUE HERON,370,NR
+SE,Big South Fork National River and Recreation Area,BISO,TRAFFIC COUNT AT BURNT MILL ROAD,233,NR
+SE,Big South Fork National River and Recreation Area,BISO,TRAFFIC COUNT AT DIVIDE ROAD,717,NR
+SE,Big South Fork National River and Recreation Area,BISO,TRAFFIC COUNT AT EAST O&W,188,NR
+SE,Big South Fork National River and Recreation Area,BISO,TRAFFIC COUNT AT LEATHERWOOD FORD EAST,"2,570",NR
+SE,Big South Fork National River and Recreation Area,BISO,TRAFFIC COUNT AT LEATHERWOOD FORD WEST,"2,301",NR
+SE,Big South Fork National River and Recreation Area,BISO,TRAFFIC COUNT AT PETERS MOUNTAIN,368,NR
+SE,Big South Fork National River and Recreation Area,BISO,TRAFFIC COUNT AT RUGBY HISTORIC DISTRICT,483,NR
+SE,Big South Fork National River and Recreation Area,BISO,TRAFFIC COUNT AT STATION CAMP,286,NR
+SE,Big South Fork National River and Recreation Area,BISO,TRAFFIC COUNT AT YAHOO FALLS,244,NR
+SE,Big South Fork National River and Recreation Area,BISO,TRAFFIC COUNT AT ZENITH RIVER ACCESS,85,NR
+IM,Big Thicket National Preserve,BITH,RAW TRAFFIC COUNT AT BIG SANDY TRAIL,20,PRESERVE
+IM,Big Thicket National Preserve,BITH,RAW TRAFFIC COUNT AT KIRBY NATURE TRAIL,742,PRESERVE
+IM,Big Thicket National Preserve,BITH,RAW TRAFFIC COUNT AT LNVA SALT WATER BARRIER BOAT LAUNCH,0,PRESERVE
+IM,Big Thicket National Preserve,BITH,RAW TRAFFIC COUNT AT TURKEY CREEK TRAIL NORTH,64,PRESERVE
+IM,Big Thicket National Preserve,BITH,TRAFFIC COUNT AT CONFLUENCE,0,PRESERVE
+IM,Big Thicket National Preserve,BITH,TRAFFIC COUNT AT LAKEVIEW,183,PRESERVE
+IM,Big Thicket National Preserve,BITH,TRAFFIC COUNT AT LANCE ROSIER,161,PRESERVE
+IM,Big Thicket National Preserve,BITH,TRAFFIC COUNT AT TIMBERSLOUGH,325,PRESERVE
+IM,Big Thicket National Preserve,BITH,Traffic Count at Beech Woods Trail,10,PRESERVE
+IM,Big Thicket National Preserve,BITH,Traffic Count at Pitcher Plant Trail,191,PRESERVE
+IM,Big Thicket National Preserve,BITH,Traffic Count at Sundew Trail,57,PRESERVE
+IM,Big Thicket National Preserve,BITH,Traffic Count at Turkey/Gore North,15,PRESERVE
+IM,Big Thicket National Preserve,BITH,Traffic Count at Turkey/Gore South,15,PRESERVE
+IM,Big Thicket National Preserve,BITH,Traffic Count at Woodlands Trail,20,PRESERVE
+IM,Bighorn Canyon National Recreation Area,BICA,TRAFFIC COUNT AT AFTERBAY,599,NRA
+IM,Bighorn Canyon National Recreation Area,BICA,TRAFFIC COUNT AT HABITAT,0,NRA
+IM,Bighorn Canyon National Recreation Area,BICA,TRAFFIC COUNT AT HIGHWAY 313,0,NRA
+IM,Bighorn Canyon National Recreation Area,BICA,TRAFFIC COUNT AT MASON-LOVELL,0,NRA
+IM,Bighorn Canyon National Recreation Area,BICA,TRAFFIC COUNT AT OK-A-BEH,514,NRA
+IM,Bighorn Canyon National Recreation Area,BICA,TRAFFIC COUNT AT SOUTH ENTRANCE,628,NRA
+IM,Bighorn Canyon National Recreation Area,BICA,TRAFFIC COUNT AT THREE MILE RANCE,"1,471",NRA
+IM,Black Canyon of the Gunnison National Park,BLCA,TRAFFIC COUNT AT NORTH RIM DRIVE COUNTER,0,NP
+IM,Black Canyon of the Gunnison National Park,BLCA,TRAFFIC COUNT AT SOUTH RIM DRIVE COUNTER,"1,711",NP
+SE,Blue Ridge Parkway,BLRI,TRAFFIC COUNT AT MP 112.2 (SR 24 LEFT),"13,396",PKWY
+SE,Blue Ridge Parkway,BLRI,TRAFFIC COUNT AT MP 121.3 (U.S. 220 LEFT),"13,845",PKWY
+SE,Blue Ridge Parkway,BLRI,TRAFFIC COUNT AT MP 121.5 (U.S. 220 RIGHT),"13,582",PKWY
+SE,Blue Ridge Parkway,BLRI,TRAFFIC COUNT AT MP 199.4 (U.S. 52 LEFT),"1,960",PKWY
+SE,Blue Ridge Parkway,BLRI,TRAFFIC COUNT AT MP 2.2 (SOUTH OF ROCKFISH GAP),"4,486",PKWY
+SE,Blue Ridge Parkway,BLRI,TRAFFIC COUNT AT MP 229.6 (U.S. 21 AT ROARING GAP LEFT),571,PKWY
+SE,Blue Ridge Parkway,BLRI,TRAFFIC COUNT AT MP 291.8 (U.S. 221 & U.S. 321 RIGHT),"8,254",PKWY
+SE,Blue Ridge Parkway,BLRI,TRAFFIC COUNT AT MP 330.9 (SR 222 AT GILLESPIE GAP RIGHT),"8,259",PKWY
+SE,Blue Ridge Parkway,BLRI,TRAFFIC COUNT AT MP 382.5 (U.S. 70 RIGHT),"26,261",PKWY
+SE,Blue Ridge Parkway,BLRI,TRAFFIC COUNT AT MP 384.7 (U.S. 74 RIGHT),"22,351",PKWY
+SE,Blue Ridge Parkway,BLRI,TRAFFIC COUNT AT MP 388.7 (U.S. 25 RIGHT),"48,143",PKWY
+SE,Blue Ridge Parkway,BLRI,TRAFFIC COUNT AT MP 388.9 (U.S. 25 LEFT),"12,710",PKWY
+SE,Blue Ridge Parkway,BLRI,TRAFFIC COUNT AT MP 443.2 (U.S. 23-74 BALSAM GAP RIGHT),945,PKWY
+SE,Blue Ridge Parkway,BLRI,TRAFFIC COUNT AT MP 61.6 (STATE ROUTE 130 RIGHT),"3,420",PKWY
+SE,Blue Ridge Parkway,BLRI,TRAFFIC COUNT AT MP 85.9 (SR 43 PEAKS OF OTTER RIGHT),"5,177",PKWY
+NE,Booker T. Washington National Monument,BOWA,TRAFFIC COUNT AT MAIN ENTRANCE,364,NM
+IM,Bryce Canyon National Park,BRCA,TRAFFIC COUNT AT ENTRANCE STATION,"9,423",NP
+MW,Buffalo National River,BUFF,TRAFFIC COUNT AT 65 BRIDGE ROAD,"1,506",RVR
+MW,Buffalo National River,BUFF,TRAFFIC COUNT AT BAKER FORD (ROUTE 232),98,RVR
+MW,Buffalo National River,BUFF,TRAFFIC COUNT AT BUFFALO ROAD,"1,456",RVR
+MW,Buffalo National River,BUFF,TRAFFIC COUNT AT CARVER ROAD (ROUTE 460),349,RVR
+MW,Buffalo National River,BUFF,TRAFFIC COUNT AT ERBIE ROAD (ROUTE 145),225,RVR
+MW,Buffalo National River,BUFF,TRAFFIC COUNT AT GIBERT ROAD (ROUTE 930),430,RVR
+MW,Buffalo National River,BUFF,TRAFFIC COUNT AT HASTY ROAD (ROUTE 943),135,RVR
+MW,Buffalo National River,BUFF,TRAFFIC COUNT AT HWY 14 BRIDGE ROAD (ROUTE 284),"2,451",RVR
+MW,Buffalo National River,BUFF,TRAFFIC COUNT AT KYLES LANDING ROAD (ROUTE 144),343,RVR
+MW,Buffalo National River,BUFF,TRAFFIC COUNT AT LOST VALLEY ROAD (ROUTE 244),579,RVR
+MW,Buffalo National River,BUFF,TRAFFIC COUNT AT LOWER PRUITT ROAD (ROUTE 942),586,RVR
+MW,Buffalo National River,BUFF,TRAFFIC COUNT AT MAUMEE ROAD (ROUTE 228),225,RVR
+MW,Buffalo National River,BUFF,TRAFFIC COUNT AT MAUMEE SOUTH ROAD (ROUTE 229),53,RVR
+MW,Buffalo National River,BUFF,TRAFFIC COUNT AT NIYNT HERSEY (ROUTE 132),23,RVR
+MW,Buffalo National River,BUFF,TRAFFIC COUNT AT OZARK CG ROAD (ROUTE 248),212,RVR
+MW,Buffalo National River,BUFF,TRAFFIC COUNT AT RUSH ROAD (ROUTE 121),750,RVR
+MW,Buffalo National River,BUFF,TRAFFIC COUNT AT SHINEYE ROAD,20,RVR
+MW,Buffalo National River,BUFF,TRAFFIC COUNT AT SPRING CREEK,52,RVR
+MW,Buffalo National River,BUFF,TRAFFIC COUNT AT STEEL CREEK ROAD (ROUTE 143),"1,326",RVR
+MW,Buffalo National River,BUFF,TRAFFIC COUNT AT TYLER BEND,147,RVR
+MW,Buffalo National River,BUFF,TRAFFIC COUNT AT UPPER PRUITT ROAD (ROUTE 942),846,RVR
+MW,Buffalo National River,BUFF,TRAFFIC COUNT AT WOOLUM ROAD (ROUTE 131),423,RVR
+PW,Cabrillo National Monument,CABR,TRAFFIC COUNT AT MAIN ENTRANCE,"30,994",NM
+SE,Canaveral National Seashore,CANA,TRAFFIC COUNT AT APOLLO BEACH,"13,508",NS
+SE,Canaveral National Seashore,CANA,TRAFFIC COUNT AT PLAYALINDA BEACH,"18,190",NS
+SE,Cane River Creole National Historical Park,CARI,MAGNOLIA TRAFFIC COUNT,278,NHP
+SE,Cane River Creole National Historical Park,CARI,OAKLAND TRAFFIC COUNT,315,NHP
+IM,Canyon De Chelly National Monument,CACH,TRAFFIC COUNT AT MAIN ENTRANCE,"151,500",NM
+IM,Canyon De Chelly National Monument,CACH,TRAFFIC COUNT AT NORTH RIM,"51,000",NM
+IM,Canyon De Chelly National Monument,CACH,TRAFFIC COUNT AT SOUTH RIM,"22,000",NM
+IM,Canyonlands National Park,CANY,TRAFFIC COUNT AT ELEPHANT HILL,0,NP
+IM,Canyonlands National Park,CANY,TRAFFIC COUNT AT HORSESHOE CANYON,19,NP
+IM,Canyonlands National Park,CANY,TRAFFIC COUNT AT ISLAND PROPER ENTRANCE,"1,714",NP
+IM,Canyonlands National Park,CANY,TRAFFIC COUNT AT MAZE OVERLOOK,2,NP
+IM,Canyonlands National Park,CANY,TRAFFIC COUNT AT NEEDLES PROPER,575,NP
+IM,Canyonlands National Park,CANY,TRAFFIC COUNT AT SHAFER TRAIL,0,NP
+IM,Canyonlands National Park,CANY,TRAFFIC COUNT AT STANDING ROCKS,1,NP
+IM,Canyonlands National Park,CANY,TRAFFIC COUNT AT WHITE RIM EAST SIDE,0,NP
+IM,Canyonlands National Park,CANY,TRAFFIC COUNT AT WHITE RIM WEST SIDE,0,NP
+NE,Cape Cod National Seashore,CACO,TRAFFIC COUNT AT BEECH FOREST,"1,441",NS
+NE,Cape Cod National Seashore,CACO,TRAFFIC COUNT AT COAST GUARD BEACH (LOW-USE SEASON),"3,521",NS
+NE,Cape Cod National Seashore,CACO,TRAFFIC COUNT AT DOANE ROCK,798,NS
+NE,Cape Cod National Seashore,CACO,TRAFFIC COUNT AT FORT HILL,"4,959",NS
+NE,Cape Cod National Seashore,CACO,TRAFFIC COUNT AT GREAT ISLAND,746,NS
+NE,Cape Cod National Seashore,CACO,TRAFFIC COUNT AT HEAD OF THE MEADOW BEACH,"3,081",NS
+NE,Cape Cod National Seashore,CACO,TRAFFIC COUNT AT HERRING COVE BEACH,"6,940",NS
+NE,Cape Cod National Seashore,CACO,TRAFFIC COUNT AT LITTLE CREEK AREA (HIGH-USE SEASON),0,NS
+NE,Cape Cod National Seashore,CACO,TRAFFIC COUNT AT MARCONI BEACH,"1,156",NS
+NE,Cape Cod National Seashore,CACO,TRAFFIC COUNT AT MARCONI STATION,536,NS
+NE,Cape Cod National Seashore,CACO,TRAFFIC COUNT AT NAUSET LIGHT BEACH,"7,240",NS
+NE,Cape Cod National Seashore,CACO,TRAFFIC COUNT AT PILGRIM HEIGHTS,"1,416",NS
+NE,Cape Cod National Seashore,CACO,TRAFFIC COUNT AT PROVINCETOWN AIRPORT,213,NS
+NE,Cape Cod National Seashore,CACO,TRAFFIC COUNT AT PROVINCETOWN VISITOR CENTER,522,NS
+NE,Cape Cod National Seashore,CACO,TRAFFIC COUNT AT RACE POINT BEACH,"2,495",NS
+NE,Cape Cod National Seashore,CACO,TRAFFIC COUNT AT SALT POND VISITOR CENTER,"4,825",NS
+SE,Cape Hatteras National Seashore,CAHA,TRAFFIC COUNT AT Coquina Beach,979,NS
+SE,Cape Hatteras National Seashore,CAHA,TRAFFIC COUNT AT RAMP 34,"2,413",NS
+SE,Cape Hatteras National Seashore,CAHA,TRAFFIC COUNT AT RAMP 43/44,"2,124",NS
+SE,Cape Hatteras National Seashore,CAHA,TRAFFIC COUNT AT RAMP 55,41,NS
+SE,Cape Hatteras National Seashore,CAHA,TRAFFIC COUNT AT RAMP 70,146,NS
+SE,Cape Hatteras National Seashore,CAHA,TRAFFIC COUNT AT WHALEBONE JUNCTION,"34,046",NS
+SE,Cape Lookout National Seashore,CALO,TRAFFIC COUNT AT PICNIC AREA,"2,950",NS
+IM,Capitol Reef National Park,CARE,TRAFFIC COUNT AT BULLFROG,108,NP
+IM,Capitol Reef National Park,CARE,TRAFFIC COUNT AT BURR TRAIL,150,NP
+IM,Capitol Reef National Park,CARE,TRAFFIC COUNT AT CEDAR MESA,144,NP
+IM,Capitol Reef National Park,CARE,TRAFFIC COUNT AT GOOSENECKS,638,NP
+IM,Capitol Reef National Park,CARE,TRAFFIC COUNT AT NORTH DISTRICT,40,NP
+IM,Capitol Reef National Park,CARE,TRAFFIC COUNT AT PETROGLYPHS ENTRANCE,848,NP
+IM,Capitol Reef National Park,CARE,TRAFFIC COUNT AT SCENIC DRIVE,489,NP
+IM,Capitol Reef National Park,CARE,TRAFFIC COUNT AT US 24 EAST ONLY (pre 2010),0,NP
+IM,Capitol Reef National Park,CARE,TRAFFIC COUNT AT VC,"2,100",NP
+IM,Capitol Reef National Park,CARE,TRAFFIC COUNT ON US 24 EAST/WEST effective 2010,"5,149",NP
+IM,Capulin Volcano National Monument,CAVO,Highway 325,253,NM
+IM,Capulin Volcano National Monument,CAVO,Main Park Road,424,NM
+IM,Carlsbad Caverns National Park,CAVE,TRAFFIC COUNT AT MAIN ENTRANCE,"5,581",NP
+IM,Carlsbad Caverns National Park,CAVE,TRAFFIC COUNT AT RATTLESNAKE SPRINGS,712,NP
+IM,Cedar Breaks National Monument,CEBR,TRAFFIC COUNT AT EAST ENTRANCE,"1,874",NM
+IM,Cedar Breaks National Monument,CEBR,TRAFFIC COUNT AT NORTH ENTRANCE,"2,527",NM
+IM,Cedar Breaks National Monument,CEBR,TRAFFIC COUNT AT SOUTH ENTRANCE,"1,085",NM
+SE,Charles Pinckney National Historic Site,CHPI,TRAFFIC COUNT AT THE MAIN ENTRANCE,"1,262",NHS
+SE,Chattahoochee River National Recreation Area,CHAT,TRAFFIC COUNT AT ABBOTTS BRIDGE,489,NRA
+SE,Chattahoochee River National Recreation Area,CHAT,TRAFFIC COUNT AT BOWMAN'S ISLAND,"5,142",NRA
+SE,Chattahoochee River National Recreation Area,CHAT,TRAFFIC COUNT AT COCHRAN SHOALS,"14,868",NRA
+SE,Chattahoochee River National Recreation Area,CHAT,TRAFFIC COUNT AT COLUMNS DRIVE,"5,468",NRA
+SE,Chattahoochee River National Recreation Area,CHAT,TRAFFIC COUNT AT GOLD BRANCH,"2,236",NRA
+SE,Chattahoochee River National Recreation Area,CHAT,TRAFFIC COUNT AT ISLAND FORD,"4,358",NRA
+SE,Chattahoochee River National Recreation Area,CHAT,TRAFFIC COUNT AT JOHNSON FERRY SOUTH UNIT 1,937,NRA
+SE,Chattahoochee River National Recreation Area,CHAT,TRAFFIC COUNT AT JOHNSON'S FERRY NORTH,"3,309",NRA
+SE,Chattahoochee River National Recreation Area,CHAT,TRAFFIC COUNT AT JONES BRIDGE,"3,129",NRA
+SE,Chattahoochee River National Recreation Area,CHAT,TRAFFIC COUNT AT MEDLOCK BRIDGE,"1,277",NRA
+SE,Chattahoochee River National Recreation Area,CHAT,TRAFFIC COUNT AT PACES MILL,"5,981",NRA
+SE,Chattahoochee River National Recreation Area,CHAT,TRAFFIC COUNT AT PALISADES EAST (INDIAN TRAIL),"2,225",NRA
+SE,Chattahoochee River National Recreation Area,CHAT,TRAFFIC COUNT AT PALISADES WEST ATLANTA RANGER STATION,"1,400",NRA
+SE,Chattahoochee River National Recreation Area,CHAT,TRAFFIC COUNT AT POWERS ISLAND,"2,446",NRA
+SE,Chattahoochee River National Recreation Area,CHAT,TRAFFIC COUNT AT SOPE CREEK,930,NRA
+SE,Chattahoochee River National Recreation Area,CHAT,TRAFFIC COUNT AT VICKERY CREEK,"1,400",NRA
+SE,Chattahoochee River National Recreation Area,CHAT,TRAFFIC COUNT AT WHITEWATER CREEK,868,NRA
+NC,Chesapeake and Ohio Canal National Historical Park,CHOH,TRAFFIC COUNT  AT CARDEROCK,"1,856",NHP
+NC,Chesapeake and Ohio Canal National Historical Park,CHOH,TRAFFIC COUNT  AT PENNYFIELD,"1,056",NHP
+NC,Chesapeake and Ohio Canal National Historical Park,CHOH,TRAFFIC COUNT AT BRUNSWICK,"1,776",NHP
+NC,Chesapeake and Ohio Canal National Historical Park,CHOH,TRAFFIC COUNT AT DAM-5 PARKING LOT,466,NHP
+NC,Chesapeake and Ohio Canal National Historical Park,CHOH,TRAFFIC COUNT AT DARGAN BEND,651,NHP
+NC,Chesapeake and Ohio Canal National Historical Park,CHOH,TRAFFIC COUNT AT EDWARDS FERRY,"2,550",NHP
+NC,Chesapeake and Ohio Canal National Historical Park,CHOH,TRAFFIC COUNT AT FIFTEEN MILE,737,NHP
+NC,Chesapeake and Ohio Canal National Historical Park,CHOH,TRAFFIC COUNT AT FLETCHER'S,"1,293",NHP
+NC,Chesapeake and Ohio Canal National Historical Park,CHOH,TRAFFIC COUNT AT FOUR LOCKS,794,NHP
+NC,Chesapeake and Ohio Canal National Historical Park,CHOH,TRAFFIC COUNT AT GREAT FALLS TAVERN BOOTH,"7,833",NHP
+NC,Chesapeake and Ohio Canal National Historical Park,CHOH,TRAFFIC COUNT AT LANDER,"1,227",NHP
+NC,Chesapeake and Ohio Canal National Historical Park,CHOH,TRAFFIC COUNT AT LITTLE TONOLOWAY,"1,176",NHP
+NC,Chesapeake and Ohio Canal National Historical Park,CHOH,TRAFFIC COUNT AT LOCK 44,"3,320",NHP
+NC,Chesapeake and Ohio Canal National Historical Park,CHOH,TRAFFIC COUNT AT LOCK 7,975,NHP
+NC,Chesapeake and Ohio Canal National Historical Park,CHOH,TRAFFIC COUNT AT LOCK 8,856,NHP
+NC,Chesapeake and Ohio Canal National Historical Park,CHOH,TRAFFIC COUNT AT LOCKHOUSE 74,0,NHP
+NC,Chesapeake and Ohio Canal National Historical Park,CHOH,TRAFFIC COUNT AT MONOCACY,965,NHP
+NC,Chesapeake and Ohio Canal National Historical Park,CHOH,TRAFFIC COUNT AT NOLAND'S FERRY,"1,963",NHP
+NC,Chesapeake and Ohio Canal National Historical Park,CHOH,TRAFFIC COUNT AT OLDTOWN,156,NHP
+NC,Chesapeake and Ohio Canal National Historical Park,CHOH,TRAFFIC COUNT AT PAW PAW TUNNEL PARKING LOT,856,NHP
+NC,Chesapeake and Ohio Canal National Historical Park,CHOH,TRAFFIC COUNT AT POINT OF ROCKS,"2,829",NHP
+NC,Chesapeake and Ohio Canal National Historical Park,CHOH,TRAFFIC COUNT AT SENECA/RILEYS LOCK,393,NHP
+NC,Chesapeake and Ohio Canal National Historical Park,CHOH,TRAFFIC COUNT AT SLACKWATER,382,NHP
+NC,Chesapeake and Ohio Canal National Historical Park,CHOH,TRAFFIC COUNT AT SWAINS LOCK,"2,580",NHP
+NC,Chesapeake and Ohio Canal National Historical Park,CHOH,TRAFFIC COUNT AT TOWN CREEK AQUEDUCT,140,NHP
+NC,Chesapeake and Ohio Canal National Historical Park,CHOH,TRAFFIC COUNT AT VIOLETTES LOCK,491,NHP
+NC,Chesapeake and Ohio Canal National Historical Park,CHOH,TRAFFIC COUNT AT WILLIAMSPORT,"7,743",NHP
+NC,Chesapeake and Ohio Canal National Historical Park,CHOH,TRAIL COUNT AT COHILL STATION,130,NHP
+SE,Chickamauga and Chattanooga National Military Park,CHCH,TRAFFIC COUNT AT MCFARLAND GAP ROAD EASTBOUND LANE,"28,514",NMP
+SE,Chickamauga and Chattanooga National Military Park,CHCH,TRAFFIC COUNT AT OLD LAFAYETTE ROAD NORTHBOUND LANE,"79,414",NMP
+SE,Chickamauga and Chattanooga National Military Park,CHCH,TRAFFIC COUNT AT OLD LAFAYETTE ROAD SOUTHBOUND LANE,"77,330",NMP
+SE,Chickamauga and Chattanooga National Military Park,CHCH,TRAFFIC COUNT AT REEDS BRIDGE ROAD WESTBOUND LANE,"31,108",NMP
+SE,Chickamauga and Chattanooga National Military Park,CHCH,TRAFFIC COUNT AT SANDERS ROAD PICNIC AREA (ENTRANCE LANE),0,NMP
+SE,Chickamauga and Chattanooga National Military Park,CHCH,TRAFFIC COUNT AT SIGNAL POINT PARKING AREA (ENTRANCE),"1,414",NMP
+IM,Chickasaw National Recreation Area,CHIC,TRAFFIC COUNT AT 12TH STREET,"5,019",NRA
+IM,Chickasaw National Recreation Area,CHIC,TRAFFIC COUNT AT 177 SOUTH (NON-REC TRAFFIC),"102,775",NRA
+IM,Chickasaw National Recreation Area,CHIC,TRAFFIC COUNT AT CEDAR BLUE,602,NRA
+IM,Chickasaw National Recreation Area,CHIC,TRAFFIC COUNT AT GUY SANDY EAST,234,NRA
+IM,Chickasaw National Recreation Area,CHIC,TRAFFIC COUNT AT GUY SANDY HARBOR (MAIN ENTRANCE),"1,294",NRA
+IM,Chickasaw National Recreation Area,CHIC,TRAFFIC COUNT AT GUY SANDY WEST AREA,92,NRA
+IM,Chickasaw National Recreation Area,CHIC,TRAFFIC COUNT AT MAIN ENTRANCE ROAD (BUCKHORN RD),"1,158",NRA
+IM,Chickasaw National Recreation Area,CHIC,TRAFFIC COUNT AT NORTHEAST DRIVE (WESTBOUND),"10,803",NRA
+IM,Chickasaw National Recreation Area,CHIC,TRAFFIC COUNT AT NORTHWEST DRIVE (EASTBOUND),"4,761",NRA
+IM,Chickasaw National Recreation Area,CHIC,TRAFFIC COUNT AT POINT ACCESS ROAD,"1,204",NRA
+IM,Chickasaw National Recreation Area,CHIC,TRAFFIC COUNT AT SOUTHWEST PERIMETER DRIVE (LAKE),"2,414",NRA
+IM,Chickasaw National Recreation Area,CHIC,TRAFFIC COUNT AT STATE LAUNCH RAMP,0,NRA
+PW,City Of Rocks National Reserve,CIRO,TRAFFIC COUNT AT CIRCLE CREEK ENTRANCE,0,NRES
+PW,City Of Rocks National Reserve,CIRO,TRAFFIC COUNT AT EMERY ENTRANCE,0,NRES
+PW,City Of Rocks National Reserve,CIRO,TRAFFIC COUNT AT EMIGRANT ENTRANCE,0,NRES
+NE,Colonial National Historical Park,COLO,TRAFFIC COUNT AT COLLEGE CREEK #1,"11,262",NHP
+NE,Colonial National Historical Park,COLO,TRAFFIC COUNT AT COLLEGE CREEK #2,"12,298",NHP
+NE,Colonial National Historical Park,COLO,TRAFFIC COUNT AT WILLIAMSBURG T/C #1,"41,703",NHP
+NE,Colonial National Historical Park,COLO,TRAFFIC COUNT AT WILLIAMSBURG T/C #3,"59,311",NHP
+NE,Colonial National Historical Park,COLO,TRAFFIC COUNT AT WILLIAMSBURG T/C #6,"46,591",NHP
+NE,Colonial National Historical Park,COLO,TRAFFIC COUNT AT YORKTOWN CREEK #1,"14,472",NHP
+NE,Colonial National Historical Park,COLO,TRAFFIC COUNT AT YORKTOWN CREEK #2,"21,811",NHP
+IM,Colorado National Monument,COLM,TRAFFIC COUNT AT EAST GLADE MILE 25.3 AT DS ROAD,"10,517",NM
+IM,Colorado National Monument,COLM,TRAFFIC COUNT AT FRUITA ENTRANCE MILE .1,"2,607",NM
+IM,Colorado National Monument,COLM,TRAFFIC COUNT AT GRAND JUNCTION ENTRANCE MILE 22.3,"14,954",NM
+IM,Colorado National Monument,COLM,TRAFFIC COUNT AT WEST GLADE RIMROCK DRIVE & 16 1/2 ROAD,"1,313",NM
+SE,Congaree National Park,CONG,NUMBER OF VEHICLES AT ENTRANCE,"2,382",NP
+SE,Congaree National Park,CONG,TRAFFIC COUNT ADJ BANNISTER,108,NP
+SE,Congaree National Park,CONG,TRAFFIC COUNT ADJ SOUTH CEDAR CREEK,120,NP
+IM,Coronado National Memorial,CORO,TRAFFIC COUNT AT EAST ENTRANCE,"1,510",NMEM
+IM,Coronado National Memorial,CORO,TRAFFIC COUNT AT PICNIC AREA,528,NMEM
+IM,Coronado National Memorial,CORO,TRAFFIC COUNT AT WEST ENTRANCE,"1,677",NMEM
+SE,Cowpens National Battlefield,COWP,TRAFFIC COUNT AT MAIN GATE,"3,989",NB
+SE,Cowpens National Battlefield,COWP,TRAFFIC COUNT AT PICNIC AREA,"1,496",NB
+SE,Cowpens National Battlefield,COWP,TRAFFIC COUNT AT TOUR ROAD,"2,992",NB
+PW,Crater Lake National Park,CRLA,TRAFFIC COUNT AT ANNIE SPRINGS ENTRANCE,"1,230",NP
+PW,Crater Lake National Park,CRLA,TRAFFIC COUNT AT NORTH ENTRANCE,0,NP
+PW,Craters of the Moon National Monument and Preserve,CRMO,TRAFFIC COUNT AT MAIN ENTRANCE,"1,358",NM
+SE,Cumberland Gap National Historical Park,CUGA,TRAFFIC COUNT  AT DANIEL BOONE PARKING AREA,402,NHP
+SE,Cumberland Gap National Historical Park,CUGA,TRAFFIC COUNT AT HIGHWAY 988,"5,952",NHP
+SE,Cumberland Gap National Historical Park,CUGA,TRAFFIC COUNT AT IRON FURNACE,718,NHP
+SE,Cumberland Gap National Historical Park,CUGA,TRAFFIC COUNT AT MAIN GATE,"11,754",NHP
+SE,Cumberland Gap National Historical Park,CUGA,TRAFFIC COUNT AT PINNACLES,515,NHP
+SE,Cumberland Gap National Historical Park,CUGA,TRAFFIC COUNT AT SUGAR RUN PICNIC AREA,473,NHP
+SE,Cumberland Gap National Historical Park,CUGA,TRAFFIC COUNT AT THOMAS WALKER PARKING AREA,367,NHP
+SE,Cumberland Gap National Historical Park,CUGA,TRAFFIC COUNT AT US 25E (NORTH BOUND LEFT LANE),"131,219",NHP
+SE,Cumberland Gap National Historical Park,CUGA,TRAFFIC COUNT AT US 25E (NORTH BOUND RIGHT LANE),"205,152",NHP
+SE,Cumberland Gap National Historical Park,CUGA,TRAFFIC COUNT AT US 25E (SOUTH BOUND LEFT LANE),"131,219",NHP
+SE,Cumberland Gap National Historical Park,CUGA,TRAFFIC COUNT AT US 25E (SOUTH BOUND RIGHT LANE),"205,152",NHP
+SE,Cumberland Gap National Historical Park,CUGA,TRAFFIC COUNT AT W.R. CAMPING AREA,0,NHP
+IM,Curecanti National Recreation Area,CURE,TRAFFIC COUNT AT  MM 135.5 PULLOUT,53,NRA
+IM,Curecanti National Recreation Area,CURE,TRAFFIC COUNT AT 0.5 MILE ROAD PULLOUT MM 72.9 CO HWY 92,0,NRA
+IM,Curecanti National Recreation Area,CURE,TRAFFIC COUNT AT CIMARRON BRIDGE MM 112.4,599,NRA
+IM,Curecanti National Recreation Area,CURE,TRAFFIC COUNT AT COOPER RANCH MM 151.2 US HWY 50,0,NRA
+IM,Curecanti National Recreation Area,CURE,TRAFFIC COUNT AT EAST CIMARRON PULLOUT MM 113.2,0,NRA
+IM,Curecanti National Recreation Area,CURE,TRAFFIC COUNT AT EAST ELK CREEK AREA MM 140.9,80,NRA
+IM,Curecanti National Recreation Area,CURE,TRAFFIC COUNT AT ELK CREEK V/C AREA MM 142.0,"1,600",NRA
+IM,Curecanti National Recreation Area,CURE,TRAFFIC COUNT AT IOLA MM 115.3 CO HWY 149,500,NRA
+IM,Curecanti National Recreation Area,CURE,TRAFFIC COUNT AT LAKE FORK RAMP AREA MM 73.0 CO HWY 92,150,NRA
+IM,Curecanti National Recreation Area,CURE,TRAFFIC COUNT AT MIDDLE BRIDGE PARKING MM 136.4,"1,831",NRA
+IM,Curecanti National Recreation Area,CURE,TRAFFIC COUNT AT MM 136.6 PULLOUT,102,NRA
+IM,Curecanti National Recreation Area,CURE,TRAFFIC COUNT AT MM 137.2 PULLOUT,45,NRA
+IM,Curecanti National Recreation Area,CURE,TRAFFIC COUNT AT MM 149.5 US HWY 50 PULLOUT,200,NRA
+IM,Curecanti National Recreation Area,CURE,TRAFFIC COUNT AT PINE CREEK MM 130.0,134,NRA
+IM,Curecanti National Recreation Area,CURE,TRAFFIC COUNT AT SAPINERO OVERLOOK MM 133.0,156,NRA
+IM,Curecanti National Recreation Area,CURE,TRAFFIC COUNT AT SOAP CREEK ROAD MM 71.8,196,NRA
+IM,Curecanti National Recreation Area,CURE,TRAFFIC COUNT AT STEVENS CREEK CAMP MM 146.1,0,NRA
+MW,Cuyahoga Valley National Park,CUVA,ADJ TRAFFIC COUNT AT BLUE HEN FALLS,763,NP
+MW,Cuyahoga Valley National Park,CUVA,ADJ TRAFFIC COUNT AT BOSTON STORE,331,NP
+MW,Cuyahoga Valley National Park,CUVA,ADJ TRAFFIC COUNT AT BOSTON TRAILHEAD,"1,934",NP
+MW,Cuyahoga Valley National Park,CUVA,ADJ TRAFFIC COUNT AT BRANDYWINE OVERFLOW,0,NP
+MW,Cuyahoga Valley National Park,CUVA,ADJ TRAFFIC COUNT AT CROWFOOT GULLY,727,NP
+MW,Cuyahoga Valley National Park,CUVA,ADJ TRAFFIC COUNT AT EVERETT BRIDGE,585,NP
+MW,Cuyahoga Valley National Park,CUVA,ADJ TRAFFIC COUNT AT FRAZEE HOUSE,963,NP
+MW,Cuyahoga Valley National Park,CUVA,ADJ TRAFFIC COUNT AT HAPPY DAYS SOUTH,912,NP
+MW,Cuyahoga Valley National Park,CUVA,ADJ TRAFFIC COUNT AT HIKE AND BIKE TRAILHEAD,507,NP
+MW,Cuyahoga Valley National Park,CUVA,ADJ TRAFFIC COUNT AT HORSESHOE POND,891,NP
+MW,Cuyahoga Valley National Park,CUVA,ADJ TRAFFIC COUNT AT INDIGO LAKE,940,NP
+MW,Cuyahoga Valley National Park,CUVA,ADJ TRAFFIC COUNT AT LITTLE MEADOWS TRAFFIC,170,NP
+MW,Cuyahoga Valley National Park,CUVA,ADJ TRAFFIC COUNT AT PINE LANE,188,NP
+MW,Cuyahoga Valley National Park,CUVA,ADJ TRAFFIC COUNT AT STANFORD HOUSE,267,NP
+MW,Cuyahoga Valley National Park,CUVA,OCTAGON PARKING TRAFFIC,860,NP
+MW,Cuyahoga Valley National Park,CUVA,TRAFFIC COUNT AT BOTZUM,782,NP
+MW,Cuyahoga Valley National Park,CUVA,TRAFFIC COUNT AT BRANDYWINE,"1,491",NP
+MW,Cuyahoga Valley National Park,CUVA,TRAFFIC COUNT AT CANAL VISITOR CENTER,"2,426",NP
+MW,Cuyahoga Valley National Park,CUVA,TRAFFIC COUNT AT HAPPY DAYS NORTH,"2,528",NP
+MW,Cuyahoga Valley National Park,CUVA,TRAFFIC COUNT AT HUNT FARM TRAILHEAD,673,NP
+MW,Cuyahoga Valley National Park,CUVA,TRAFFIC COUNT AT IRA TRAILHEAD,"1,486",NP
+MW,Cuyahoga Valley National Park,CUVA,TRAFFIC COUNT AT KENDALL LAKE,"2,434",NP
+MW,Cuyahoga Valley National Park,CUVA,TRAFFIC COUNT AT LEDGES,"1,290",NP
+MW,Cuyahoga Valley National Park,CUVA,TRAFFIC COUNT AT LOCK 29 OVERFLOW,727,NP
+MW,Cuyahoga Valley National Park,CUVA,TRAFFIC COUNT AT LOCK 29 TRAILHEAD,"1,304",NP
+MW,Cuyahoga Valley National Park,CUVA,TRAFFIC COUNT AT LOCK 39 TRAILHEAD,"2,977",NP
+MW,Cuyahoga Valley National Park,CUVA,TRAFFIC COUNT AT OAK HILL,940,NP
+MW,Cuyahoga Valley National Park,CUVA,TRAFFIC COUNT AT PINE HOLLOW EAST,840,NP
+MW,Cuyahoga Valley National Park,CUVA,TRAFFIC COUNT AT PINE HOLLOW WEST,"2,268",NP
+MW,Cuyahoga Valley National Park,CUVA,TRAFFIC COUNT AT REDLOCK TRAILHEAD,787,NP
+MW,Cuyahoga Valley National Park,CUVA,TRAFFIC COUNT AT STATION ROAD TRAILHEAD,"5,028",NP
+MW,Cuyahoga Valley National Park,CUVA,TRAFFIC COUNT AT WETMORE TRAILHEAD,330,NP
+SE,DeSoto National Memorial,DESO,TRAFFIC COUNT AT THE MAIN ENTRANCE,"6,513",NMEM
+PW,Death Valley National Park,DEVA,Traffic Count at Ashford Road,0,NP
+PW,Death Valley National Park,DEVA,Traffic Count at Big Pine Road,202,NP
+PW,Death Valley National Park,DEVA,Traffic Count at Daylight Pass,0,NP
+PW,Death Valley National Park,DEVA,Traffic Count at Grapevine Canyon,0,NP
+PW,Death Valley National Park,DEVA,Traffic Count at Ryan,"13,214",NP
+PW,Death Valley National Park,DEVA,Traffic Count at Slaine Valley,0,NP
+PW,Death Valley National Park,DEVA,Traffic Count at Townes Pass,"9,488",NP
+PW,Death Valley National Park,DEVA,Traffic Count at Wildrose,387,NP
+PW,Devils Postpile National Monument,DEPO,TRAFFIC COUNT AT MAIN ENTRACE,0,NM
+IM,Devils Tower National Monument,DETO,TRAFFIC COUNT AT ENTRANCE LANE,"1,247",NM
+IM,Dinosaur National Monument,DINO,TRAFFIC COUNT AT DEERLODGE PARK ENTRANCE,189,NM
+IM,Dinosaur National Monument,DINO,TRAFFIC COUNT AT ELK SPRINGS ROAD,8,NM
+IM,Dinosaur National Monument,DINO,TRAFFIC COUNT AT GATES OF LODORE ENTRANCE ROAD,45,NM
+IM,Dinosaur National Monument,DINO,TRAFFIC COUNT AT ISLAND PARK ROAD,291,NM
+IM,Dinosaur National Monument,DINO,TRAFFIC COUNT AT QUARRY ENTRANCE STATION,"1,276",NM
+IM,El Malpais National Monument,ELMA,TRAFFIC COUNT AT BANDERA CRATER/ICE CAVE ROAD,0,NM
+IM,El Malpais National Monument,ELMA,TRAFFIC COUNT AT BIG TUBES,32,NM
+IM,El Malpais National Monument,ELMA,TRAFFIC COUNT AT EL CALDERON,670,NM
+IM,El Malpais National Monument,ELMA,TRAFFIC COUNT AT LAVA FALLS,350,NM
+IM,El Malpais National Monument,ELMA,TRAFFIC COUNT AT SANDSTONE BLUFFS ROAD,866,NM
+IM,El Malpais National Monument,ELMA,TRAFFIC COUNT AT ZUNI-ACOMA TRAIL,"1,157",NM
+IM,El Morro National Monument,ELMO,TRAFFIC COUNT AT ENTRANCE ROAD,"1,246",NM
+SE,Everglades National Park,EVER,TRAFFIC COUNT AT EVERGLADES CITY,"6,958",NP
+SE,Everglades National Park,EVER,TRAFFIC COUNT AT ROYAL PALM ENTRANCE,"17,060",NP
+SE,Everglades National Park,EVER,TRAFFIC COUNT AT SHARK VALLEY,"8,463",NP
+IM,Florissant Fossil Beds National Monument,FLFO,TRAFFIC COUNT AT VISITOR CENTER ROAD Teller Country Road 1,"1,792",NM
+SE,Fort Caroline National Memorial,FOCA,TRAFFIC COUNT AT RIBAULT'S COLUMN,388,NMEM
+SE,Fort Caroline National Memorial,FOCA,TRAFFIC COUNT AT SPANISH POND ENTRANCE,"2,495",NMEM
+SE,Fort Caroline National Memorial,FOCA,TRAFFIC COUNT AT VISITOR CENTER ENTRANCE,"2,366",NMEM
+SE,Fort Donelson National Battlefield,FODO,TRAFFIC COUNT AT HIGHWAY 18,"32,618",NB
+SE,Fort Donelson National Battlefield,FODO,TRAFFIC COUNT AT MAIN ENTRANCE,"5,816",NB
+SE,Fort Donelson National Battlefield,FODO,TRAFFIC COUNT AT NATIONAL CEMETERY,"1,017",NB
+SE,Fort Frederica National Monument,FOFR,TRAFFIC COUNT AT PARKING LOT ENTRANCE,"1,886",NM
+IM,Fort Laramie National Historic Site,FOLA,TRAFFIC COUNT AT MAIN GATE,706,NHS
+MW,Fort Larned National Historic Site,FOLS,TRAFFIC COUNT AT FORT MAIN ENTRANCE,587,NHS
+SE,Fort Matanzas National Monument,FOMA,TRAFFIC COUNT AT THE BEACH RAMP,"4,067",NM
+SE,Fort Matanzas National Monument,FOMA,TRAFFIC COUNT AT THE EAST PARKING LOT,"1,656",NM
+SE,Fort Matanzas National Monument,FOMA,TRAFFIC COUNT AT THE VISITOR CENTER,"3,807",NM
+SE,Fort Matanzas National Monument,FOMA,TRAFFIC COUNT AT THE WEST PARKING LOT,"1,494",NM
+NE,Fort McHenry National Monument and Historic Shrine,FOMC,TRAFFIC COUNT AT MAIN ENTRANCE,"6,413",NM
+NE,Fort Necessity National Battlefield,FONE,TRAFFIC COUNT AT BRADDOCK'S GRAVE,90,NB
+NE,Fort Necessity National Battlefield,FONE,TRAFFIC COUNT AT JUMONVILLE GLEN,0,NB
+NE,Fort Necessity National Battlefield,FONE,TRAFFIC COUNT AT PICNIC LOOP ROAD,0,NB
+NE,Fort Necessity National Battlefield,FONE,TRAFFIC COUNT AT VISITOR CENTER,"1,229",NB
+PW,Fort Point National Historic Site,FOPO,TRAFFIC COUNT AT MAIN ENTRANCE,"15,007",NHS
+SE,Fort Pulaski National Monument,FOPU,TRAFFIC COUNT AT COCKSPUR ISLAND,"7,300",NM
+SE,Fort Pulaski National Monument,FOPU,TRAFFIC COUNT AT MCQUEEN'S ISLAND,"1,362",NM
+SE,Fort Raleigh National Historic Site,FORA,TRAFFIC COUNT AT MAIN ENTRANCE,"2,193",NHS
+PW,Fort Vancouver National Historic Site,FOVA,TRAFFIC COUNT AT EAST BARRACKS,"4,355",NHS
+PW,Fort Vancouver National Historic Site,FOVA,TRAFFIC COUNT AT FORT SITE,"1,517",NHS
+PW,Fort Vancouver National Historic Site,FOVA,TRAFFIC COUNT AT VISITOR CENTER,"2,662",NHS
+IM,Fossil Butte National Monument,FOBU,TRAFFIC COUNT AT THE PICNIC AREA,0,NM
+NE,Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park,FRSP,TRAFFIC COUNT AT BULLOCK ROAD,"2,527",NMP
+NE,Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park,FRSP,TRAFFIC COUNT AT HILL-EWELL DRIVE,"9,643",NMP
+NE,Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park,FRSP,TRAFFIC COUNT AT MCLAWS ROAD,"17,130",NMP
+NE,Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park,FRSP,TRAFFIC COUNT AT NORTH LEE DRIVE,"13,184",NMP
+NE,Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park,FRSP,TRAFFIC COUNT AT SOUTH LEE DRIVE,"1,511",NMP
+NE,Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park,FRSP,TRAFFIC COUNT AT STUART DRIVE,"1,138",NMP
+NE,Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park,FRSP,TRAFFIC COUNT ON GRANT DRIVE,"3,972",NMP
+NE,Gateway National Recreation Area,GATE,(MF) Traffic Count Father Capodanno Entrance,0,NRA
+NE,Gateway National Recreation Area,GATE,(MF) Traffic Count Mill Road Entrance,0,NRA
+NE,Gateway National Recreation Area,GATE,(MF) Traffic Count New Dorp Lane,0,NRA
+NE,Gateway National Recreation Area,GATE,CROSSBAY TRAFFIC,"550,186",NRA
+NE,Gateway National Recreation Area,GATE,FLATBUSH TRAFFIC,"646,411",NRA
+NE,Gauley River National Recreation Area,GARI,TRAFFIC COUNT AT GAULEY RIVER DAM,580,NRA
+NE,George Washington Birthplace National Monument,GEWA,TRAFFIC COUNT AT BEACH/PICNIC AREA,"1,310",NM
+NE,George Washington Birthplace National Monument,GEWA,TRAFFIC COUNT AT VISITOR CENTER,"1,499",NM
+MW,George Washington Carver National Monument,GWCA,TRAFFIC COUNT AT MAIN ENTRANCE,634,NM
+NC,George Washington Memorial Parkway,GWMP,TRAFFIC COUNT AT BELLE HAVEN,"22,145",PKWY
+NC,George Washington Memorial Parkway,GWMP,TRAFFIC COUNT AT DAINGERFIELD,"28,791",PKWY
+NC,George Washington Memorial Parkway,GWMP,TRAFFIC COUNT AT FORT HUNT PARK,"4,172",PKWY
+NC,George Washington Memorial Parkway,GWMP,TRAFFIC COUNT AT FORT MARCY,650,PKWY
+NC,George Washington Memorial Parkway,GWMP,TRAFFIC COUNT AT GRAVELLY POINT,"16,484",PKWY
+NC,George Washington Memorial Parkway,GWMP,TRAFFIC COUNT AT GREAT FALLS PARK,"9,018",PKWY
+NC,George Washington Memorial Parkway,GWMP,TRAFFIC COUNT AT RIVERSIDE PARK,"9,028",PKWY
+NC,George Washington Memorial Parkway,GWMP,TRAFFIC COUNT AT STATION 600010 LANES 3&4,"638,011",PKWY
+NC,George Washington Memorial Parkway,GWMP,TRAFFIC COUNT AT STATION 60021 LANE 1,"458,211",PKWY
+NC,George Washington Memorial Parkway,GWMP,"TRAFFIC COUNT AT STATION 60023 LANES 2,3,4,5","578,739",PKWY
+NC,George Washington Memorial Parkway,GWMP,TRAFFIC COUNT AT STATION 6005 Lane 1,"256,541",PKWY
+NC,George Washington Memorial Parkway,GWMP,TRAFFIC COUNT AT TURKEY RUN PARK,"7,845",PKWY
+NC,George Washington Memorial Parkway,GWMP,TRAFFIC COUNT AT U.S. MARINE MEMORIAL,"19,220",PKWY
+NE,Gettysburg National Military Park,GETT,TRAFFIC COUNT AT HANCOCK ROAD,"5,943",NMP
+NE,Gettysburg National Military Park,GETT,TRAFFIC COUNT AT WEST CONFEDERATE ROAD SOUTHBOUND,"5,371",NMP
+IM,Glacier National Park,GLAC,TRAFFIC COUNT AT CAMAS,0,NP
+IM,Glacier National Park,GLAC,TRAFFIC COUNT AT GOAT LICK,0,NP
+IM,Glacier National Park,GLAC,TRAFFIC COUNT AT MANY GLACIER,0,NP
+IM,Glacier National Park,GLAC,TRAFFIC COUNT AT POLEBRIDGE,336,NP
+IM,Glacier National Park,GLAC,TRAFFIC COUNT AT SAINT MARY LANE 1,230,NP
+IM,Glacier National Park,GLAC,TRAFFIC COUNT AT SAINT MARY LANE 2,0,NP
+IM,Glacier National Park,GLAC,TRAFFIC COUNT AT SAINT MARY LANE 3,0,NP
+IM,Glacier National Park,GLAC,TRAFFIC COUNT AT TWO MEDICINE,0,NP
+IM,Glacier National Park,GLAC,TRAFFIC COUNT AT WEST ENTRANCE,"5,190",NP
+IM,Glen Canyon National Recreation Area,GLCA,TRAFFIC COUNT AT ANTELOPE POINT,0,NRA
+IM,Glen Canyon National Recreation Area,GLCA,TRAFFIC COUNT AT BULLFROG,"1,159",NRA
+IM,Glen Canyon National Recreation Area,GLCA,TRAFFIC COUNT AT CHAINS,0,NRA
+IM,Glen Canyon National Recreation Area,GLCA,TRAFFIC COUNT AT DAM OVERLOOK ROAD,"1,997",NRA
+IM,Glen Canyon National Recreation Area,GLCA,TRAFFIC COUNT AT LONE ROCK,"2,040",NRA
+IM,Glen Canyon National Recreation Area,GLCA,TRAFFIC COUNT AT NORTH LAKE SHORE,"4,969",NRA
+IM,Glen Canyon National Recreation Area,GLCA,TRAFFIC COUNT AT SOUTH LAKE SHORE,"13,035",NRA
+IM,Glen Canyon National Recreation Area,GLCA,TRAFFIC COUNT AT SUNRISE POINT,"1,918",NRA
+IM,Glen Canyon National Recreation Area,GLCA,TRAIL COUNT AT HORSESHOE BEND,0,NRA
+PW,Golden Gate National Recreation Area,GOGA,TRAFFIC COUNT AT BAKER BEACH,"13,625",NRA
+PW,Golden Gate National Recreation Area,GOGA,TRAFFIC COUNT AT BOLINAS RIDGE,"1,530",NRA
+PW,Golden Gate National Recreation Area,GOGA,TRAFFIC COUNT AT EAST BEACH PARKING (CRISSY FIELD),"38,567",NRA
+PW,Golden Gate National Recreation Area,GOGA,TRAFFIC COUNT AT EAST FORT BAKER BUNKER ROAD,"27,986",NRA
+PW,Golden Gate National Recreation Area,GOGA,TRAFFIC COUNT AT EAST FORT BAKER EAST ROAD,"18,533",NRA
+PW,Golden Gate National Recreation Area,GOGA,TRAFFIC COUNT AT FORT FUNSTON,"34,522",NRA
+PW,Golden Gate National Recreation Area,GOGA,TRAFFIC COUNT AT FORT SCOTT OVERLOOK,0,NRA
+PW,Golden Gate National Recreation Area,GOGA,TRAFFIC COUNT AT LOWER FORT MASON,"26,980",NRA
+PW,Golden Gate National Recreation Area,GOGA,TRAFFIC COUNT AT MERRIE WAY,"29,439",NRA
+PW,Golden Gate National Recreation Area,GOGA,TRAFFIC COUNT AT MUIR BEACH ENTRANCE,"10,343",NRA
+PW,Golden Gate National Recreation Area,GOGA,TRAFFIC COUNT AT MUIR BEACH OVERLOOK,"4,589",NRA
+PW,Golden Gate National Recreation Area,GOGA,TRAFFIC COUNT AT NAVY MEMORIAL PARKING AREA,"17,315",NRA
+PW,Golden Gate National Recreation Area,GOGA,TRAFFIC COUNT AT OCEAN BEACH AT BALBOA STREET,"13,830",NRA
+PW,Golden Gate National Recreation Area,GOGA,TRAFFIC COUNT AT OCEAN BEACH AT FULTON STREET,"22,618",NRA
+PW,Golden Gate National Recreation Area,GOGA,TRAFFIC COUNT AT OCEAN BEACH AT SECOND OVERLOOK,"12,379",NRA
+PW,Golden Gate National Recreation Area,GOGA,TRAFFIC COUNT AT OCEAN BEACH AT SLOAT BLVD,"25,512",NRA
+PW,Golden Gate National Recreation Area,GOGA,TRAFFIC COUNT AT RODEO VALLEY BUNKER ROAD,"23,052",NRA
+PW,Golden Gate National Recreation Area,GOGA,TRAFFIC COUNT AT RODEO VALLEY CONZELMAN ROAD,"43,279",NRA
+PW,Golden Gate National Recreation Area,GOGA,TRAFFIC COUNT AT STINSON BEACH,"9,414",NRA
+PW,Golden Gate National Recreation Area,GOGA,TRAFFIC COUNT AT TENNESSEE VALLEY ROAD,"21,466",NRA
+PW,Golden Gate National Recreation Area,GOGA,TRAFFIC COUNT AT WEST BLUFF PARKING LOT (CRISSY FIELD),"23,751",NRA
+IM,Grand Canyon National Park,GRCA,TRAFFIC COUNT (DESERT VIEW),"8,411",NP
+IM,Grand Canyon National Park,GRCA,TRAFFIC COUNT (NORTH RIM),0,NP
+IM,Grand Canyon National Park,GRCA,TRAFFIC COUNT (SOUTH DISTRICT),"64,805",NP
+IM,Grand Canyon National Park,GRCA,TRAFFIC COUNT (TUWEEP),"1,005",NP
+MW,Grand Portage National Monument,GRPO,TRAFFIC COUNT AT HERITAGE CENTER PARKING LOT,595,NM
+MW,Grand Portage National Monument,GRPO,TRAFFIC COUNT AT OVERFLOW PARKING LOT,0,NM
+IM,Grand Teton National Park,GRTE,TRAFFIC COUNT AT BUFFALO ENTRANCE,"4,914",NP
+IM,Grand Teton National Park,GRTE,TRAFFIC COUNT AT GROS VENTRE JUNCTION,"82,057",NP
+IM,Grand Teton National Park,GRTE,TRAFFIC COUNT AT JDR (SOUTHBOUND) (REC'D FROM JDR),"1,151",NP
+IM,Grand Teton National Park,GRTE,TRAFFIC COUNT AT MOOSE ENTRANCE,"5,586",NP
+IM,Grand Teton National Park,GRTE,TRAFFIC COUNT AT MOOSE WILSON ENTRANCE,"2,306",NP
+IM,Grand Teton National Park,GRTE,TRAFFIC COUNT AT US 89 (WESTBOUND),"10,457",NP
+PW,Great Basin National Park,GRBA,TRAFFIC COUNT AT BAKER CREEK,102,NP
+PW,Great Basin National Park,GRBA,TRAFFIC COUNT AT GREAT BASIN VC,321,NP
+PW,Great Basin National Park,GRBA,TRAFFIC COUNT AT LEHMAN,152,NP
+PW,Great Basin National Park,GRBA,TRAFFIC COUNT AT LEHMAN CAVES VC,903,NP
+PW,Great Basin National Park,GRBA,TRAFFIC COUNT AT ROUTE 488 MAIN ENTRANCE,987,NP
+PW,Great Basin National Park,GRBA,TRAFFIC COUNT AT SNAKE CREEK,4,NP
+PW,Great Basin National Park,GRBA,TRAFFIC COUNT AT STRAWBERRY CREEK,2,NP
+PW,Great Basin National Park,GRBA,TRAFFIC COUNT AT WHEELER PEAK,0,NP
+IM,Great Sand Dunes National Park and Preserve,GRSA,TRAFFIC COUNT AT MEDANO PASS ROAD,0,NP
+IM,Great Sand Dunes National Park and Preserve,GRSA,TRAFFIC COUNT AT PARK ENTRANCE,"1,027",NP
+SE,Great Smoky Mountains National Park,GRSM,TRAFFIC COUNT AT BIG CREEK,31,NP
+SE,Great Smoky Mountains National Park,GRSM,TRAFFIC COUNT AT GATLINBURG SPUR (STATION 405 LANES 1 AND 2 NORTHBOUND),"321,644",NP
+SE,Great Smoky Mountains National Park,GRSM,TRAFFIC COUNT AT GATLINBURG SPUR (STATION 405 LANES 1 AND 2 SOUTHBOUND),"309,279",NP
+SE,Great Smoky Mountains National Park,GRSM,TRAFFIC COUNT AT GREENBRIER,"3,116",NP
+SE,Great Smoky Mountains National Park,GRSM,TRAFFIC COUNT ON HOLIDAYS AT GATLINBURG (STATION 401 LANE 2 SOUTHBOUND),"9,014",NP
+SE,Great Smoky Mountains National Park,GRSM,TRAFFIC COUNT ON HOLIDAYS AT OCONALUFTEE (STATION 403 LANES 3 AND 4),"1,125",NP
+SE,Great Smoky Mountains National Park,GRSM,TRAFFIC COUNT ON HOLIDAYS AT OCONALUFTEE (STATION 403 LANES 3 AND 4),"3,541",NP
+SE,Great Smoky Mountains National Park,GRSM,TRAFFIC COUNT ON HOLIDAYS AT TOWNSEND (STATION 404 LANE 2 SOUTHBOUND),"3,092",NP
+SE,Great Smoky Mountains National Park,GRSM,TRAFFIC COUNT ON SATURDAYS AT GATLINBURG (STATION 401 LANE 2 SOUTHBOUND),"16,956",NP
+SE,Great Smoky Mountains National Park,GRSM,TRAFFIC COUNT ON SATURDAYS AT OCONALUFTEE (STATION 403 LANES 3 AND 4),"2,357",NP
+SE,Great Smoky Mountains National Park,GRSM,TRAFFIC COUNT ON SATURDAYS AT OCONALUFTEE (STATION 403 LANES 3 AND 4),"7,547",NP
+SE,Great Smoky Mountains National Park,GRSM,TRAFFIC COUNT ON SATURDAYS AT TOWNSEND (STATION 404 LANE 2 SOUTHBOUND),"8,020",NP
+SE,Great Smoky Mountains National Park,GRSM,TRAFFIC COUNT ON SUNDAYS AT GATLINBURG (STATION 401 LANE 2 SOUTHBOUND),"15,297",NP
+SE,Great Smoky Mountains National Park,GRSM,TRAFFIC COUNT ON SUNDAYS AT OCONALUFTEE (STATION 403 LANES 3 AND 4),"4,410",NP
+SE,Great Smoky Mountains National Park,GRSM,TRAFFIC COUNT ON SUNDAYS AT OCONALUFTEE (STATION 403 LANES 3 AND 4),"1,336",NP
+SE,Great Smoky Mountains National Park,GRSM,TRAFFIC COUNT ON SUNDAYS AT TOWNSEND (STATION 404 LANE 2 SOUTHBOUND),"6,308",NP
+SE,Great Smoky Mountains National Park,GRSM,TRAFFIC COUNT ON WEEKDAYS AT GATLINBURG (STATION 401 LANE 2 SOUTHBOUND),"21,612",NP
+SE,Great Smoky Mountains National Park,GRSM,TRAFFIC COUNT ON WEEKDAYS AT OCONALUFTEE (STATION 403 LANES 3 AND 4),"3,322",NP
+SE,Great Smoky Mountains National Park,GRSM,TRAFFIC COUNT ON WEEKDAYS AT OCONALUFTEE (STATION 403 LANES 3 AND 4),"13,902",NP
+SE,Great Smoky Mountains National Park,GRSM,TRAFFIC COUNT ON WEEKDAYS AT TOWNSEND (STATION 404 LANE 2 SOUTHBOUND),"8,914",NP
+IM,Guadalupe Mountains National Park,GUMO,TRAFFIC COUNT AT DOG CANYON,89,NP
+IM,Guadalupe Mountains National Park,GUMO,TRAFFIC COUNT AT FRIJOLE,342,NP
+IM,Guadalupe Mountains National Park,GUMO,TRAFFIC COUNT AT MCKITTRICK CANYON,531,NP
+IM,Guadalupe Mountains National Park,GUMO,TRAFFIC COUNT AT PINE SPRINGS,"3,146",NP
+SE,Guilford Courthouse National Military Park,GUCO,TRAFFIC COUNT AT BATTLEFIELD ROAD (INFO ONLY),"134,922",NMP
+SE,Guilford Courthouse National Military Park,GUCO,TRAFFIC COUNT AT BATTLEGROUND ROAD PARKING AREA,"6,765",NMP
+SE,Guilford Courthouse National Military Park,GUCO,TRAFFIC COUNT AT COUNTER A (NEW GARDEN ROAD),"116,598",NMP
+SE,Guilford Courthouse National Military Park,GUCO,TRAFFIC COUNT AT COUNTER B (VISITOR CENTER ENTRANCE,"3,454",NMP
+SE,Guilford Courthouse National Military Park,GUCO,TRAFFIC COUNT AT COUNTER C (1ST LINE),855,NMP
+SE,Guilford Courthouse National Military Park,GUCO,TRAFFIC COUNT AT COUNTER D (HOLT AVENUE),355,NMP
+SE,Gulf Islands National Seashore,GUIS,TRAFFIC COUNT AT FORT PICKENS,"10,196",NS
+SE,Gulf Islands National Seashore,GUIS,TRAFFIC COUNT AT NAVAL LIVE OAKS (PICNIC AREA),356,NS
+SE,Gulf Islands National Seashore,GUIS,TRAFFIC COUNT AT NAVAL LIVE OAKS (VISITOR CENTER),"2,042",NS
+SE,Gulf Islands National Seashore,GUIS,TRAFFIC COUNT AT OKALOOSA PICNIC AREA,"6,587",NS
+SE,Gulf Islands National Seashore,GUIS,TRAFFIC COUNT AT PARK ROAD,"29,039",NS
+SE,Gulf Islands National Seashore,GUIS,TRAFFIC COUNT AT PERDIDO KEY,"5,500",NS
+SE,Gulf Islands National Seashore,GUIS,TRAFFIC COUNT AT SANTA ROSA (HWY 399) (EASTBOUND),"19,754",NS
+SE,Gulf Islands National Seashore,GUIS,TRAFFIC COUNT AT SANTA ROSA (HWY 399) (WESTBOUND),"21,486",NS
+SE,Gulf Islands National Seashore,GUIS,TRAFFIC COUNT AT YOUTH CAMPGROUND ROAD,0,NS
+PW,Haleakala National Park,HALE,TRAFFIC COUNT AT COASTAL ENTRANCE (Kipahulu) ..pre 2010 was located on HWY 31,"13,296",NP
+PW,Haleakala National Park,HALE,TRAFFIC COUNT AT SUMMIT ENTRANCE,"23,477",NP
+NC,Harpers Ferry National Historical Park,HAFE,TRAFFIC COUNT AT BOLIVAR HEIGHTS,7,NHP
+NC,Harpers Ferry National Historical Park,HAFE,TRAFFIC COUNT AT MAIN ENTRANCE,707,NHP
+NC,Harpers Ferry National Historical Park,HAFE,TRAFFIC COUNT AT MARYLAND HEIGHTS,19,NHP
+NC,Harpers Ferry National Historical Park,HAFE,TRAFFIC COUNT AT RIVER ACCESS,200,NHP
+NC,Harpers Ferry National Historical Park,HAFE,TRAFFIC COUNT AT TRAIN STATION,510,NHP
+PW,Hawaii Volcanoes National Park,HAVO,TRAFFIC COUNT AT CHAINS OF CRATER ROAD (INFO ONLY),"12,573",NP
+PW,Hawaii Volcanoes National Park,HAVO,TRAFFIC COUNT AT ENTRANCE LANE 1,"33,496",NP
+PW,Hawaii Volcanoes National Park,HAVO,TRAFFIC COUNT AT ENTRANCE LANE 2,"30,440",NP
+NE,Home of Franklin D. Roosevelt National Historic Site,HOFR,TRAFFIC COUNT AT MAIN GATE,0,NHS
+MW,Homestead National Monument of America,HOME,TRAFFIC COUNT  at Heritage Center,720,NM
+MW,Homestead National Monument of America,HOME,TRAFFIC COUNT AT Education Center,"1,132",NM
+MW,Homestead National Monument of America,HOME,TRAFFIC COUNT AT FREEMAN SCHOOL,37,NM
+MW,Homestead National Monument of America,HOME,TRAFFIC COUNT AT HIGHWAY 4,"34,422",NM
+MW,Hopewell Culture National Historical Park,HOCU,TRAFFIC COUNT AT SEIP EARTHWORKS,0,NHP
+NE,Hopewell Furnace National Historic Site,HOFU,TRAFFIC COUNT AT MARK BIRD LANE,946,NHS
+MW,Hot Springs National Park,HOSP,TRAFFIC COUNT AT HOT SPRINGS MOUNTAIN,"7,314",NP
+MW,Hot Springs National Park,HOSP,TRAFFIC COUNT AT WEST MOUNTAIN DRIVE (NORTH),"10,263",NP
+MW,Hot Springs National Park,HOSP,TRAFFIC COUNT AT WEST MOUNTAIN DRIVE (SOUTH),"9,313",NP
+MW,Hot Springs National Park,HOSP,TRAFFIC COUNT AT WEST MOUNTAIN SUMMIT DRIVE (NORTH),"3,528",NP
+MW,Hot Springs National Park,HOSP,TRAFFIC COUNT ON GULPHA GORGE HWY (NORTH),"104,250",NP
+MW,Hot Springs National Park,HOSP,TRAFFIC COUNT ON GULPHA GORGE HWY (SOUTH),"91,854",NP
+IM,Hubbell Trading Post National Historic Site,HUTR,TRAFFIC COUNT AT MAIN ENTRANCE,"1,928",NHS
+MW,Indiana Dunes National Lakeshore,INDU,TRAFFIC COUNT AT BAILLY/CHELLBERG,"4,262",NL
+MW,Indiana Dunes National Lakeshore,INDU,TRAFFIC COUNT AT BUELL VISITOR CENTER,"1,908",NL
+MW,Indiana Dunes National Lakeshore,INDU,TRAFFIC COUNT AT CENTRAL BEACH,0,NL
+MW,Indiana Dunes National Lakeshore,INDU,TRAFFIC COUNT AT COWLES BOG,941,NL
+MW,Indiana Dunes National Lakeshore,INDU,TRAFFIC COUNT AT DUNBAR,"2,009",NL
+MW,Indiana Dunes National Lakeshore,INDU,TRAFFIC COUNT AT GREENBELT PARKING AREA,740,NL
+MW,Indiana Dunes National Lakeshore,INDU,TRAFFIC COUNT AT HORSE/SKI TRAIL,"1,732",NL
+MW,Indiana Dunes National Lakeshore,INDU,TRAFFIC COUNT AT INLAND MARSH,687,NL
+MW,Indiana Dunes National Lakeshore,INDU,TRAFFIC COUNT AT KEMIL LOT,"1,203",NL
+MW,Indiana Dunes National Lakeshore,INDU,TRAFFIC COUNT AT LAKEFRONT DRIVE,"5,880",NL
+MW,Indiana Dunes National Lakeshore,INDU,TRAFFIC COUNT AT MOUNT BALDY,0,NL
+MW,Indiana Dunes National Lakeshore,INDU,TRAFFIC COUNT AT PORTAGE LAKE FRONT,"3,950",NL
+MW,Indiana Dunes National Lakeshore,INDU,TRAFFIC COUNT AT PORTER BEACH NORTH,409,NL
+MW,Indiana Dunes National Lakeshore,INDU,TRAFFIC COUNT AT PORTER BEACH SOUTH,0,NL
+MW,Indiana Dunes National Lakeshore,INDU,TRAFFIC COUNT AT TREMONT LOT,0,NL
+MW,Indiana Dunes National Lakeshore,INDU,TRAFFIC COUNT AT WEST BEACH,"1,217",NL
+SE,Jean Lafitte National Historical Park and Preserve,JELA,(CHALMETTE UNIT) TRAFFIC COUNT AT MAIN GATE,"1,265",NHP
+SE,Jean Lafitte National Historical Park and Preserve,JELA,TRAFFIC COUNT AT BAYOU COZUILLE TRAIL,"1,492",NHP
+SE,Jean Lafitte National Historical Park and Preserve,JELA,TRAFFIC COUNT AT PECAN GROVE PICNIC AREA,602,NHP
+SE,Jean Lafitte National Historical Park and Preserve,JELA,TRAFFIC COUNT AT THE VISITOR CENTER,"1,572",NHP
+SE,Jean Lafitte National Historical Park and Preserve,JELA,TRAFFIC COUNT AT TWIN CANALS PARKING AREA,0,NHP
+MW,Jewel Cave National Monument,JECA,Traffic Count at Main Entrance,294,NM
+IM,John D. Rockefeller Jr. Memorial Parkway,JODR,TRAFFIC COUNT ENTERING AT THE NORTH ENTRANCE,0,PKWY
+IM,John D. Rockefeller Jr. Memorial Parkway,JODR,TRAFFIC COUNT ENTERING AT THE SOUTH ENTRANCE,"1,134",PKWY
+IM,John D. Rockefeller Jr. Memorial Parkway,JODR,TRAFFIC COUNT ENTERING AT THE WEST ENTRANCE,45,PKWY
+NE,Johnstown Flood National Memorial,JOFL,TRAFFIC COUNT AT NORTHBOUND LAKE ROAD,"2,899",NMEM
+NE,Johnstown Flood National Memorial,JOFL,TRAFFIC COUNT AT PICNIC AREA,421,NMEM
+NE,Johnstown Flood National Memorial,JOFL,TRAFFIC COUNT AT SOUTH ENTRANCE ROAD,478,NMEM
+NE,Johnstown Flood National Memorial,JOFL,TRAFFIC COUNT AT SOUTHBOUND LAKE ROAD,"4,941",NMEM
+NE,Johnstown Flood National Memorial,JOFL,TRAFFIC COUNT AT VISITOR CENTER,422,NMEM
+PW,Joshua Tree National Park,JOTR,TRAFFIC COUNT AT 29 PALMS,"11,325",NP
+PW,Joshua Tree National Park,JOTR,TRAFFIC COUNT AT BLACK ROCK,"4,196",NP
+PW,Joshua Tree National Park,JOTR,TRAFFIC COUNT AT COTTONWOOD,"8,655",NP
+PW,Joshua Tree National Park,JOTR,TRAFFIC COUNT AT COVINGTON,486,NP
+PW,Joshua Tree National Park,JOTR,TRAFFIC COUNT AT INDIAN COVE,"4,880",NP
+PW,Joshua Tree National Park,JOTR,TRAFFIC COUNT AT JOSHUA TREE,"27,849",NP
+A,Katmai National Park and Preserve,KATM,TRAFFIC COUNT AT LAKE CAMP,0,NP
+A,Kenai Fjords National Park,KEFJ,TRAFFIC COUNT AT EXIT GLACIER,0,NP
+SE,Kennesaw Mountain National Battlefield Park,KEMO,TRAFFIC COUNT AT CHEATHAM HILL DRIVE,"3,171",NBP
+SE,Kennesaw Mountain National Battlefield Park,KEMO,TRAFFIC COUNT AT CHEATHAM RD PICNIC AREA,"4,941",NBP
+SE,Kennesaw Mountain National Battlefield Park,KEMO,TRAFFIC COUNT AT MOUNTAIN ROAD,386,NBP
+SE,Kennesaw Mountain National Battlefield Park,KEMO,TRAFFIC COUNT AT VC PARKING LOT,"17,121",NBP
+PW,Kings Canyon National Park,KICA,TRAFFIC COUNT AT BIG STUMP,"7,462",NP
+PW,Kings Canyon National Park,KICA,TRAFFIC COUNT AT CEDAR GROVE,0,NP
+SE,Kings Mountain National Military Park,KIMO,TRAFFIC COUNT AT THE EAST ENTRANCE,"8,109",NMP
+SE,Kings Mountain National Military Park,KIMO,TRAFFIC COUNT AT THE WEST ENTRANCE,"8,419",NMP
+PW,Lake Mead National Recreation Area,LAKE,6 MILE AND 9 MILE ROAD (TC9),0,NRA
+PW,Lake Mead National Recreation Area,LAKE,BONELLI LANDING ROAD (TC16),62,NRA
+PW,Lake Mead National Recreation Area,LAKE,CALVILLE ACCESS ROAD,"4,586",NRA
+PW,Lake Mead National Recreation Area,LAKE,COTTONWOOD BASIN ROAD AZ (TC13),31,NRA
+PW,Lake Mead National Recreation Area,LAKE,COTTONWOOD COVE ROAD (TC8),778,NRA
+PW,Lake Mead National Recreation Area,LAKE,ECHO BAY ACCESS ROAD,"2,710",NRA
+PW,Lake Mead National Recreation Area,LAKE,ELDORADO ROAD (TC7),"1,016",NRA
+PW,Lake Mead National Recreation Area,LAKE,GOLD BUTTE ROAD,58,NRA
+PW,Lake Mead National Recreation Area,LAKE,GRAND WASH ROAD (TC21),39,NRA
+PW,Lake Mead National Recreation Area,LAKE,GREGG'S HIDEOUT ROAD (TC18),44,NRA
+PW,Lake Mead National Recreation Area,LAKE,KATHERINE ACCESS ROAD,"7,792",NRA
+PW,Lake Mead National Recreation Area,LAKE,KATHERINE CABINSITE ROAD,704,NRA
+PW,Lake Mead National Recreation Area,LAKE,KINGMAN WASH (TC 15),962,NRA
+PW,Lake Mead National Recreation Area,LAKE,LAKE MEAD BOULEVARD (TC3),"13,717",NRA
+PW,Lake Mead National Recreation Area,LAKE,LAKE MEAD MARINA,"2,927",NRA
+PW,Lake Mead National Recreation Area,LAKE,LAKESHORE ROAD BOUNDARY (TC4),"27,204",NRA
+PW,Lake Mead National Recreation Area,LAKE,LAKESHORE ROAD HWY 93 (TC5),"27,959",NRA
+PW,Lake Mead National Recreation Area,LAKE,LAKEVIEW POINT (TC6),"18,739",NRA
+PW,Lake Mead National Recreation Area,LAKE,LAS VEGAS BAY ACCESS,"10,142",NRA
+PW,Lake Mead National Recreation Area,LAKE,NEWBERRY MOUNTAIN ROAD (TC10),941,NRA
+PW,Lake Mead National Recreation Area,LAKE,NORTHSHORE ROAD (TC1),"9,048",NRA
+PW,Lake Mead National Recreation Area,LAKE,OVERTON ACCESS ROAD,0,NRA
+PW,Lake Mead National Recreation Area,LAKE,SHIVWITS PLATEAU ROAD (TC20),31,NRA
+PW,Lake Mead National Recreation Area,LAKE,SOUTH COVE/PEARCE FERRY (TC19),"1,929",NRA
+PW,Lake Mead National Recreation Area,LAKE,TELEPHONE ACCESS ROAD (TC11),957,NRA
+PW,Lake Mead National Recreation Area,LAKE,TEMPLE BAR ROAD (TC17),882,NRA
+PW,Lake Mead National Recreation Area,LAKE,U.S. 93 EASTBOUND-HOOVER DAM,0,NRA
+PW,Lake Mead National Recreation Area,LAKE,U.S. 93 WESTBOUND-HOOVER DAM,0,NRA
+PW,Lake Mead National Recreation Area,LAKE,VILLAGE OF FIRE ROAD (TC2),"10,679",NRA
+PW,Lake Mead National Recreation Area,LAKE,WILLOW BEACH ACCESS ROAD (TC14),"3,391",NRA
+IM,Lake Meredith National Recreation Area,LAMR,TRAFFIC COUNT AT ALIBATES/MCBRIDE,"1,200",NRA
+IM,Lake Meredith National Recreation Area,LAMR,TRAFFIC COUNT AT BIG BLUE,750,NRA
+IM,Lake Meredith National Recreation Area,LAMR,TRAFFIC COUNT AT BLUE WEST,456,NRA
+IM,Lake Meredith National Recreation Area,LAMR,TRAFFIC COUNT AT BUGBEE CANYON,791,NRA
+IM,Lake Meredith National Recreation Area,LAMR,TRAFFIC COUNT AT CEDAR CANYON,797,NRA
+IM,Lake Meredith National Recreation Area,LAMR,TRAFFIC COUNT AT FRITCH FORTRESS,"1,541",NRA
+IM,Lake Meredith National Recreation Area,LAMR,TRAFFIC COUNT AT HARBOR BAY,"1,325",NRA
+IM,Lake Meredith National Recreation Area,LAMR,TRAFFIC COUNT AT NORTH CANYON,0,NRA
+IM,Lake Meredith National Recreation Area,LAMR,TRAFFIC COUNT AT PLUM CREEK,506,NRA
+IM,Lake Meredith National Recreation Area,LAMR,TRAFFIC COUNT AT ROSITA,0,NRA
+IM,Lake Meredith National Recreation Area,LAMR,TRAFFIC COUNT AT SANDFORD-YAKE,"1,385",NRA
+IM,Lake Meredith National Recreation Area,LAMR,TRAFFIC COUNT AT SPRING CANYON,424,NRA
+PW,Lake Roosevelt National Recreation Area,LARO,TRAFFIC COUNT AT BARSTOW FLATS,20,NRA
+PW,Lake Roosevelt National Recreation Area,LARO,TRAFFIC COUNT AT BRADBURY BEACH CA,482,NRA
+PW,Lake Roosevelt National Recreation Area,LARO,TRAFFIC COUNT AT CHINA BEND,657,NRA
+PW,Lake Roosevelt National Recreation Area,LARO,TRAFFIC COUNT AT CLOVERLEAF,0,NRA
+PW,Lake Roosevelt National Recreation Area,LARO,TRAFFIC COUNT AT COLVILLE FLATS,225,NRA
+PW,Lake Roosevelt National Recreation Area,LARO,TRAFFIC COUNT AT CRESCENT BAY,175,NRA
+PW,Lake Roosevelt National Recreation Area,LARO,TRAFFIC COUNT AT DAISY,400,NRA
+PW,Lake Roosevelt National Recreation Area,LARO,TRAFFIC COUNT AT EDEN HARBOR,141,NRA
+PW,Lake Roosevelt National Recreation Area,LARO,TRAFFIC COUNT AT EVANS CA,251,NRA
+PW,Lake Roosevelt National Recreation Area,LARO,TRAFFIC COUNT AT FORT SPOKANE CA,"1,239",NRA
+PW,Lake Roosevelt National Recreation Area,LARO,TRAFFIC COUNT AT FORT SPOKANE SWIM BEACH,472,NRA
+PW,Lake Roosevelt National Recreation Area,LARO,TRAFFIC COUNT AT FORT SPOKANE VISITORS CENTER,59,NRA
+PW,Lake Roosevelt National Recreation Area,LARO,TRAFFIC COUNT AT FRENCH ROCKS,506,NRA
+PW,Lake Roosevelt National Recreation Area,LARO,TRAFFIC COUNT AT GIFFORD CA,335,NRA
+PW,Lake Roosevelt National Recreation Area,LARO,TRAFFIC COUNT AT HAAG COVE CA,62,NRA
+PW,Lake Roosevelt National Recreation Area,LARO,TRAFFIC COUNT AT HANSON HARBOR,216,NRA
+PW,Lake Roosevelt National Recreation Area,LARO,TRAFFIC COUNT AT HAWK CREEK CA,632,NRA
+PW,Lake Roosevelt National Recreation Area,LARO,TRAFFIC COUNT AT HUNTERS CA,"1,028",NRA
+PW,Lake Roosevelt National Recreation Area,LARO,TRAFFIC COUNT AT JONES BAY,120,NRA
+PW,Lake Roosevelt National Recreation Area,LARO,TRAFFIC COUNT AT KAMLOOPS ISLAND CA,366,NRA
+PW,Lake Roosevelt National Recreation Area,LARO,TRAFFIC COUNT AT KELLER FERRY CA,"1,006",NRA
+PW,Lake Roosevelt National Recreation Area,LARO,TRAFFIC COUNT AT KETTLE FALLS CA,"4,581",NRA
+PW,Lake Roosevelt National Recreation Area,LARO,TRAFFIC COUNT AT KETTLE RIVER,0,NRA
+PW,Lake Roosevelt National Recreation Area,LARO,TRAFFIC COUNT AT LINCOLN MILL BOAT LAUNCH,742,NRA
+PW,Lake Roosevelt National Recreation Area,LARO,TRAFFIC COUNT AT MARCUS ISLAND CA,173,NRA
+PW,Lake Roosevelt National Recreation Area,LARO,TRAFFIC COUNT AT NAPOLEON,189,NRA
+PW,Lake Roosevelt National Recreation Area,LARO,TRAFFIC COUNT AT NORTH GORGE CA,146,NRA
+PW,Lake Roosevelt National Recreation Area,LARO,TRAFFIC COUNT AT PORCUPINE BAY,"2,107",NRA
+PW,Lake Roosevelt National Recreation Area,LARO,TRAFFIC COUNT AT SEVEN BAYS MARINA,"1,981",NRA
+PW,Lake Roosevelt National Recreation Area,LARO,TRAFFIC COUNT AT SHERMAN CR HATCHERY,0,NRA
+PW,Lake Roosevelt National Recreation Area,LARO,TRAFFIC COUNT AT SNAG COVE,191,NRA
+PW,Lake Roosevelt National Recreation Area,LARO,TRAFFIC COUNT AT SPRING CANYON CA,776,NRA
+PW,Lake Roosevelt National Recreation Area,LARO,TRAFFIC COUNT AT ST. PAULS MISSION,67,NRA
+PW,Lassen Volcanic National Park,LAVO,TRAFFIC AT CROSSROADS .,0,NP
+PW,Lassen Volcanic National Park,LAVO,TRAFFIC COUNT AT BUTTE LAKE,0,NP
+PW,Lassen Volcanic National Park,LAVO,TRAFFIC COUNT AT JUNIPER LAKE,0,NP
+PW,Lassen Volcanic National Park,LAVO,TRAFFIC COUNT AT MANZANITA,"1,025",NP
+PW,Lassen Volcanic National Park,LAVO,TRAFFIC COUNT AT SOUTHWEST,"2,209",NP
+PW,Lassen Volcanic National Park,LAVO,TRAFFIC COUNT AT WARNER VALLEY,0,NP
+PW,Lava Beds National Monument,LABE,TRAFFIC COUNT AT HILL ROAD,850,NM
+PW,Lava Beds National Monument,LABE,TRAFFIC COUNT AT MEDICINE LAKE ROAD,100,NM
+PW,Lava Beds National Monument,LABE,TRAFFIC COUNT AT NORTHEAST ENTRANCE (CAPTAIN JACK'S),350,NM
+PW,Lava Beds National Monument,LABE,TRAFFIC COUNT AT PETROGLYPH POINT,150,NM
+PW,Lava Beds National Monument,LABE,TRAFFIC COUNT AT SAND BUTTE ROAD,80,NM
+PW,Lewis and Clark National Historical Park,LEWI,TRAFFIC COUNT AT NETUL LANDING,"1,253",NHP
+PW,Lewis and Clark National Historical Park,LEWI,TRAFFIC COUNT AT VISITOR CENTER ENTRANCE,"3,108",NHP
+MW,Lincoln Boyhood National Memorial,LIBO,TRAFFIC COUNT AT FARM ENTRANCE,424,NMEM
+MW,Lincoln Boyhood National Memorial,LIBO,TRAFFIC COUNT AT MAIN ENTRANCE,"1,149",NMEM
+IM,Little Bighorn Battlefield National Monument,LIBI,TRAFFIC COUNT AT MAIN ENTRANCE,775,NM
+SE,Little River Canyon National Preserve,LIRI,TRAFFIC COUNT AT CANYON MOUTH PARK,"2,162",NP
+SE,Little River Canyon National Preserve,LIRI,TRAFFIC COUNT AT FALLS PARKING LOT,"10,738",NP
+SE,Little River Canyon National Preserve,LIRI,TRAFFIC COUNT AT HIGH ROCK,186,NP
+SE,Little River Canyon National Preserve,LIRI,TRAFFIC COUNT AT MARTHA'S FALLS,0,NP
+SE,Little River Canyon National Preserve,LIRI,TRAFFIC COUNT AT ROAD 5,145,NP
+NC,Lyndon Baines Johnson Memorial Grove on the Potomac,LYBA,TRAFFIC COUNT AT ACCESS ROAD TO COLUMBIA/GROVE,"15,650",NMEM
+NC,Manassas National Battlefield Park,MANA,TRAFFIC COUNT AT CHINN RIDGE,"1,029",NBP
+NC,Manassas National Battlefield Park,MANA,TRAFFIC COUNT AT NEW YORK AVENUE,545,NBP
+NC,Manassas National Battlefield Park,MANA,TRAFFIC COUNT AT VC PARKING LOT,"2,263",NBP
+PW,Manzanar National Historic Site,MANZ,TRAFFIC COUNT AT ENTRANCE LANE,"1,575",NHS
+IM,Mesa Verde National Park,MEVE,TRAFFIC COUNT AT MAIN ENTRANCE ON HWY 10,"2,927",NP
+IM,Mesa Verde National Park,MEVE,TRAFFIC COUNT AT WETHERILL,0,NP
+NE,Minute Man National Historical Park,MIMA,TRAFFIC COUNT AT FISKE HILL PARKING LOT,256,NHP
+NE,Minute Man National Historical Park,MIMA,TRAFFIC COUNT AT HARTWELL TAVERN,877,NHP
+NE,Minute Man National Historical Park,MIMA,TRAFFIC COUNT AT MERIAM,842,NHP
+NE,Minute Man National Historical Park,MIMA,TRAFFIC COUNT AT NORTH BRIDGE PARKING LOT,"2,024",NHP
+NE,Minute Man National Historical Park,MIMA,TRAFFIC COUNT AT NORTH BRIDGE VC,863,NHP
+NE,Minute Man National Historical Park,MIMA,TRAFFIC COUNT AT PAUL REVERE,861,NHP
+NE,Minute Man National Historical Park,MIMA,TRAFFIC COUNT AT SARGENT'S FIELD,0,NHP
+NE,Minute Man National Historical Park,MIMA,TRAFFIC COUNT AT WAYSIDE PARKING LOT,67,NHP
+MW,Missouri National Recreational River,MNRR,TRAFFIC COUNT AT CHIEF STANDING BEAR OVERLOOK,506,W&SR
+MW,Missouri National Recreational River,MNRR,TRAFFIC COUNT AT MULBERRY BAND OVERLOOK,0,W&SR
+MW,Missouri National Recreational River,MNRR,TRAFFIC COUNT AT NIOBRARA STATE PARK OVERLOOK,168,W&SR
+MW,Missouri National Recreational River,MNRR,TRAFFIC COUNT AT SPIRIT MOUND HISTOIC PRAIRIE,285,W&SR
+PW,Mojave National Preserve,MOJA,TRAFFIC COUNT AT CIMA ROAD (SOUTHBOUND),"1,288",PRESERVE
+PW,Mojave National Preserve,MOJA,TRAFFIC COUNT AT ESSEX ROAD (NORTHBOUND),"1,152",PRESERVE
+PW,Mojave National Preserve,MOJA,TRAFFIC COUNT AT IVANPAH ROAD (SOUTHBOUND),885,PRESERVE
+PW,Mojave National Preserve,MOJA,TRAFFIC COUNT AT KELBAKER (NORTHBOUND),"7,920",PRESERVE
+PW,Mojave National Preserve,MOJA,TRAFFIC COUNT AT KELBAKER ROAD (SOUTHBOUND),"1,406",PRESERVE
+PW,Mojave National Preserve,MOJA,TRAFFIC COUNT AT LANFAIR ROAD (NORTHBOUND),318,PRESERVE
+NC,Monocacy National Battlefield,MONO,Traffic Count at Visitor Center,950,NB
+NC,Monocacy National Battlefield,MONO,Traffic Count at Worthington Farm,"1,250",NB
+IM,Montezuma Castle National Monument,MOCA,TRAFFIC COUNT AT MONTEZUMA CASTLE,"6,677",NM
+IM,Montezuma Castle National Monument,MOCA,TRAFFIC COUNT AT MONTEZUMA WELL,"2,462",NM
+SE,Moores Creek National Battlefield,MOCR,TRAFFIC COUNT AT PATRIOTS HALL,727,NB
+SE,Moores Creek National Battlefield,MOCR,TRAFFIC COUNT AT VISITOR CENTER,"1,100",NB
+NE,Morristown National Historical Park,MORR,TRAFFIC COUNT AT CROSS ESTATE GATE,"1,663",NHP
+NE,Morristown National Historical Park,MORR,TRAFFIC COUNT AT CROSS ESTATE RESIDENCE SECTION,0,NHP
+NE,Morristown National Historical Park,MORR,TRAFFIC COUNT AT FORT NONSENSE,"1,435",NHP
+NE,Morristown National Historical Park,MORR,TRAFFIC COUNT AT SUGAR LOAF ROAD,888,NHP
+NE,Morristown National Historical Park,MORR,TRAFFIC COUNT AT TEMPE WICK GATE,"7,089",NHP
+NE,Morristown National Historical Park,MORR,TRAFFIC COUNT AT WESTERN AVE GATE,"4,680",NHP
+PW,Mount Rainier National Park,MORA,TRAFFIC  COUNT AT WHITE RIVER ENTRANCE,0,NP
+PW,Mount Rainier National Park,MORA,TRAFFIC COUNT AT CARBON RIVER ENTRANCE,900,NP
+PW,Mount Rainier National Park,MORA,TRAFFIC COUNT AT CAYUSE PASS (410 WEST),0,NP
+PW,Mount Rainier National Park,MORA,TRAFFIC COUNT AT MATHER WYE (410 EAST),0,NP
+PW,Mount Rainier National Park,MORA,TRAFFIC COUNT AT NISQUALLY ENTRANCE,"12,568",NP
+PW,Mount Rainier National Park,MORA,TRAFFIC COUNT AT OHANAPECOSH (123 NORTH),0,NP
+PW,Mount Rainier National Park,MORA,TRAFFIC COUNT AT PAUL PEAK TRAILHEAD,100,NP
+MW,Mount Rushmore National Memorial,MORU,TRAFFIC COUNT AT HIGHWAY 244 EAST,"11,484",NMEM
+MW,Mount Rushmore National Memorial,MORU,TRAFFIC COUNT AT HIGHWAY 244 WEST,"3,793",NMEM
+MW,Mount Rushmore National Memorial,MORU,TRAFFIC COUNT IN PARKING LOT,"3,922",NMEM
+SE,Natchez National Historical Park,NATC,TRAFFIC COUNT AT MAIN ENTRANCE,568,NHP
+SE,Natchez Trace Parkway,NATR,TRAFFIC COUNT AT CHEROKEE (NORTH),"19,530",PKWY
+SE,Natchez Trace Parkway,NATR,TRAFFIC COUNT AT KISCIUSKO (NORTH & SOUTH),"38,843",PKWY
+SE,Natchez Trace Parkway,NATR,TRAFFIC COUNT AT PORT GIBSON (NORTH & SOUTH),"21,607",PKWY
+SE,Natchez Trace Parkway,NATR,TRAFFIC COUNT AT RIDGELAND (NORTH & SOUTH),"177,506",PKWY
+SE,Natchez Trace Parkway,NATR,TRAFFIC COUNT AT TUPELO (NORTH & SOUTH),"199,168",PKWY
+SE,Natchez Trace Parkway,NATR,TRAFFIC COUNTS AT NASHVILLE (NORTH & SOUTH),"7,649",PKWY
+IM,Natural Bridges National Monument,NABR,TRAFFIC COUNT AT ENTRANCE,571,NM
+IM,Navajo National Monument,NAVA,TRAFFIC COUNT AT HORSE BARN,"2,757",NM
+IM,Navajo National Monument,NAVA,TRAFFIC COUNT AT VC,"1,463",NM
+NE,New River Gorge National River,NERI,TRAFFIC COUNT AT CANYON RIM VC,"6,609",RVR
+NE,New River Gorge National River,NERI,TRAFFIC COUNT AT GLADE CREEK,424,RVR
+NE,New River Gorge National River,NERI,TRAFFIC COUNT AT GRANDVIEW,"1,501",RVR
+NE,New River Gorge National River,NERI,TRAFFIC COUNT AT SANDSTONE AREA,619,RVR
+NE,New River Gorge National River,NERI,TRAFFIC COUNT AT SANDSTONE VISITOR CENTER,"1,524",RVR
+NE,New River Gorge National River,NERI,TRAFFIC COUNT AT SANDSTONE VISITOR CENTER,762,RVR
+PW,Nez Perce National Historical Park,NEPE,TRAFFIC COUNT AT CANOE CAMP,478,NHP
+PW,Nez Perce National Historical Park,NEPE,TRAFFIC COUNT AT KAMIAH,183,NHP
+PW,Nez Perce National Historical Park,NEPE,TRAFFIC COUNT AT SOUTH GATE,"1,156",NHP
+PW,Nez Perce National Historical Park,NEPE,TRAFFIC COUNT AT SPALDING MAIN GATE,917,NHP
+PW,Nez Perce National Historical Park,NEPE,TRAFFIC COUNT AT WHITE BIRD,0,NHP
+SE,Ninety Six National Historic Site,NISI,TRAFFIC COUNT AT LEE'S TRENCHES,0,NHS
+SE,Ninety Six National Historic Site,NISI,TRAFFIC COUNT AT MAIN ENTRANCE,"1,501",NHS
+MW,Niobrara National Scenic River,NIOB,CORNELL TOTAL TRAFFIC,53,W&SR
+MW,Niobrara National Scenic River,NIOB,FORT FALLS TOTAL TRAFFIC,200,W&SR
+MW,Niobrara National Scenic River,NIOB,SMITH FALLS TOTAL TRAFFIC,378,W&SR
+PW,North Cascades National Park,NOCA,TRAFFIC COUNT AT CASCADES RIVER ROAD,10,NP
+SE,Obed Wild and Scenic River,OBRI,TRAFFIC COUNT AT BARNETT BRIDGE COUNTER,195,W&SR
+SE,Obed Wild and Scenic River,OBRI,TRAFFIC COUNT AT LILLY BRIDGE COUNTER,"1,306",W&SR
+SE,Obed Wild and Scenic River,OBRI,TRAFFIC COUNT AT NEMO BRIDGE COUNTER,"2,707",W&SR
+SE,Ocmulgee National Monument,OCMU,TRAFFIC COUNT AT MAIN ENTRANCE,"3,087",NM
+PW,Olympic National Park,OLYM,TRAFFIC COUNT AT DEER PARK (ENTRANCE LANE),0,NP
+PW,Olympic National Park,OLYM,TRAFFIC COUNT AT DOSEWALLIPS,0,NP
+PW,Olympic National Park,OLYM,TRAFFIC COUNT AT EAST BEACH ROAD (NORTHBOUND LANE),"2,323",NP
+PW,Olympic National Park,OLYM,TRAFFIC COUNT AT ENTRANCE LANE TO ELWHA,0,NP
+PW,Olympic National Park,OLYM,TRAFFIC COUNT AT ENTRANCE TO RUBY BEACH PARKING AREA,"4,127",NP
+PW,Olympic National Park,OLYM,TRAFFIC COUNT AT EXIT LANE AT STAIRCASE RANGER STATION (HOODSPORT),725,NP
+PW,Olympic National Park,OLYM,TRAFFIC COUNT AT FEE COLLECTION STATION (HURRICANE),"3,629",NP
+PW,Olympic National Park,OLYM,TRAFFIC COUNT AT HIGHWAY 101 (WESTBOUND LANE),"16,923",NP
+PW,Olympic National Park,OLYM,TRAFFIC COUNT AT HOH ENTRANCE STATION (ENTRANCE LANE),"5,303",NP
+PW,Olympic National Park,OLYM,TRAFFIC COUNT AT MORA ENTRANCE ROAD,"1,788",NP
+PW,Olympic National Park,OLYM,TRAFFIC COUNT AT NORTH SHORE ROAD (EASTBOUND LANE),"1,226",NP
+PW,Olympic National Park,OLYM,TRAFFIC COUNT AT NORTHSHORE ROAD (ENTRANCE LANE),"2,601",NP
+PW,Olympic National Park,OLYM,TRAFFIC COUNT AT OZETTE RNGR STATION,298,NP
+PW,Olympic National Park,OLYM,TRAFFIC COUNT AT QUEETS,673,NP
+PW,Olympic National Park,OLYM,TRAFFIC COUNT AT SOLEDUCK ROAD (NORTHBOUND LANE),"1,200",NP
+PW,Olympic National Park,OLYM,TRAFFIC COUNT AT SOUTHSHORE ROAD (ENTRANCE LANE),"1,002",NP
+PW,Oregon Caves National Monument,ORCA,TRAFFIC COUNT AT MAIN ENTRANCE,381,NM
+IM,Organ Pipe Cactus National Monument,ORPI,TRAFFIC COUNT AT AJO MOUNTAIN ROAD,800,NM
+IM,Organ Pipe Cactus National Monument,ORPI,TRAFFIC COUNT AT ALAMO CANYON,245,NM
+IM,Organ Pipe Cactus National Monument,ORPI,TRAFFIC COUNT AT BATES WELL ROAD,"1,001",NM
+IM,Organ Pipe Cactus National Monument,ORPI,TRAFFIC COUNT AT HIGHWAY 85,"22,219",NM
+IM,Organ Pipe Cactus National Monument,ORPI,TRAFFIC COUNT AT PUERTO BLANCO NORTH,957,NM
+IM,Organ Pipe Cactus National Monument,ORPI,TRAFFIC COUNT AT PUERTO BLANCO SOUTH,0,NM
+IM,Organ Pipe Cactus National Monument,ORPI,TRAFFIC COUNT AT VISITOR CENTER,"4,498",NM
+MW,Ozark National Scenic Riverways,OZAR,TRAFFIC COUNT AT  SINKING CREEK,42,RIVERWAYS
+MW,Ozark National Scenic Riverways,OZAR,TRAFFIC COUNT AT AKERS,"1,932",RIVERWAYS
+MW,Ozark National Scenic Riverways,OZAR,TRAFFIC COUNT AT BACKCOUNTRY AREA (SOUTH UNIT),947,RIVERWAYS
+MW,Ozark National Scenic Riverways,OZAR,TRAFFIC COUNT AT BLUE SPRING,249,RIVERWAYS
+MW,Ozark National Scenic Riverways,OZAR,TRAFFIC COUNT AT CAMPGROUND AREA (SOUTH UNIT),36,RIVERWAYS
+MW,Ozark National Scenic Riverways,OZAR,TRAFFIC COUNT AT CEDARGROVE,"1,999",RIVERWAYS
+MW,Ozark National Scenic Riverways,OZAR,TRAFFIC COUNT AT GOOSE NECK,92,RIVERWAYS
+MW,Ozark National Scenic Riverways,OZAR,TRAFFIC COUNT AT HICKORY,39,RIVERWAYS
+MW,Ozark National Scenic Riverways,OZAR,TRAFFIC COUNT AT HWY-103,155,RIVERWAYS
+MW,Ozark National Scenic Riverways,OZAR,TRAFFIC COUNT AT JERKTAIL,105,RIVERWAYS
+MW,Ozark National Scenic Riverways,OZAR,TRAFFIC COUNT AT LOG YARD,299,RIVERWAYS
+MW,Ozark National Scenic Riverways,OZAR,TRAFFIC COUNT AT M-HIGHWAY,153,RIVERWAYS
+MW,Ozark National Scenic Riverways,OZAR,TRAFFIC COUNT AT OWLS BEND,351,RIVERWAYS
+MW,Ozark National Scenic Riverways,OZAR,TRAFFIC COUNT AT PEA VINE,430,RIVERWAYS
+MW,Ozark National Scenic Riverways,OZAR,TRAFFIC COUNT AT PICNIC AREA (SOUTH UNIT),19,RIVERWAYS
+MW,Ozark National Scenic Riverways,OZAR,TRAFFIC COUNT AT PULLTITE,156,RIVERWAYS
+MW,Ozark National Scenic Riverways,OZAR,TRAFFIC COUNT AT ROCKY CREEK,239,RIVERWAYS
+MW,Ozark National Scenic Riverways,OZAR,TRAFFIC COUNT AT ROUND SPRING,408,RIVERWAYS
+MW,Ozark National Scenic Riverways,OZAR,TRAFFIC COUNT AT TWO RIVERS,309,RIVERWAYS
+IM,Padre Island National Seashore,PAIS,ENTER THE VEHICLE COUNT AT SOUTH BEACH (administrative only),"2,871",NS
+IM,Padre Island National Seashore,PAIS,TRAFFIC COUNT AT BIRD ISLAND BASIN,"2,332",NS
+IM,Padre Island National Seashore,PAIS,TRAFFIC COUNT AT ENTRANCE STATION,"10,004",NS
+IM,Padre Island National Seashore,PAIS,TRAFFIC COUNT AT NORTH BEACH ROAD,"2,069",NS
+IM,Palo Alto Battlefield National Historical Park,PAAL,TRAFFIC COUNT AT MAIN ENTRANCE,"1,891",NHP
+MW,Pea Ridge National Military Park,PERI,TRAFFIC COUNT AT MAIN ENTRANCE,"1,511",NMP
+MW,Pea Ridge National Military Park,PERI,TRAFFIC COUNT AT TOUR ROAD,0,NMP
+NE,Petersburg National Battlefield,PETE,TRAFFIC COUNT AT FORT WADSWORTH UNIT,633,NB
+NE,Petersburg National Battlefield,PETE,TRAFFIC COUNT AT HEADQUARTERS UNIT,"1,908",NB
+NE,Petersburg National Battlefield,PETE,TRAFFIC COUNT AT LONG FLANK UNIT,"7,364",NB
+NE,Petersburg National Battlefield,PETE,TRAFFIC COUNT AT POPLAR GROVE NAT'L CEMETERY,0,NB
+IM,Petrified Forest National Park,PEFO,TRAFFIC COUNT AT I-40 COUNTER,"5,953",NP
+IM,Petrified Forest National Park,PEFO,TRAFFIC COUNT AT NORTH ENTRANCE (NORTH LANE #2),"3,622",NP
+IM,Petrified Forest National Park,PEFO,TRAFFIC COUNT AT SOUTH ENTRANCE (NORTH LANE #1),"1,555",NP
+IM,Petroglyph National Monument,PETR,TRAFFIC COUNT AT BOCA NEGRA CANYON,"1,388",NM
+IM,Petroglyph National Monument,PETR,TRAFFIC COUNT AT RINCONADA CANYON,0,NM
+IM,Petroglyph National Monument,PETR,TRAFFIC COUNT AT VISITOR CENTER,0,NM
+IM,Petroglyph National Monument,PETR,TRAFFIC COUNT AT VOLCANOES,0,NM
+MW,Pictured Rocks National Lakeshore,PIRO,TRAFFIC COUNT AT 12 MILE BEACH,4,NL
+MW,Pictured Rocks National Lakeshore,PIRO,TRAFFIC COUNT AT ALGER COUNTY,124,NL
+MW,Pictured Rocks National Lakeshore,PIRO,TRAFFIC COUNT AT CHAPEL,88,NL
+MW,Pictured Rocks National Lakeshore,PIRO,TRAFFIC COUNT AT CITY LIMITS LOT,603,NL
+MW,Pictured Rocks National Lakeshore,PIRO,TRAFFIC COUNT AT LITTLE BEAVER,62,NL
+MW,Pictured Rocks National Lakeshore,PIRO,TRAFFIC COUNT AT LITTLE BEAVER (IF COUNTER IS BROKEN ENTER 0),124,NL
+MW,Pictured Rocks National Lakeshore,PIRO,TRAFFIC COUNT AT LOG SLIDE,52,NL
+MW,Pictured Rocks National Lakeshore,PIRO,TRAFFIC COUNT AT LOWER HURRICANE,178,NL
+MW,Pictured Rocks National Lakeshore,PIRO,TRAFFIC COUNT AT MINERS CASTLE,191,NL
+MW,Pictured Rocks National Lakeshore,PIRO,TRAFFIC COUNT AT MUNISING FALLS,725,NL
+MW,Pictured Rocks National Lakeshore,PIRO,TRAFFIC COUNT AT SABLE FALLS,76,NL
+MW,Pictured Rocks National Lakeshore,PIRO,TRAFFIC COUNT AT SAND POINT,"2,151",NL
+PW,Pinnacles National Park,PINN,TRAFFIC COUNT AT EAST ENTRANCE,"3,516",NP
+PW,Pinnacles National Park,PINN,TRAFFIC COUNT AT WEST ENTRANCE,997,NP
+IM,Pipe Spring National Monument,PISP,TRAFFIC COUNT AT MAIN ENTRANCE,675,NM
+PW,Point Reyes National Seashore,PORE,TRAFFIC COUNT AT BEAR  VALLEY VC,"9,508",NS
+PW,Point Reyes National Seashore,PORE,TRAFFIC COUNT AT BROOKS,870,NS
+PW,Point Reyes National Seashore,PORE,TRAFFIC COUNT AT HEADLANDS,"6,300",NS
+PW,Point Reyes National Seashore,PORE,TRAFFIC COUNT AT LIMANTOUR,"4,103",NS
+PW,Point Reyes National Seashore,PORE,TRAFFIC COUNT AT PALOMARIN,"2,793",NS
+PW,Point Reyes National Seashore,PORE,TRAFFIC COUNT AT PIERCE POINT ROAD,"6,624",NS
+PW,Point Reyes National Seashore,PORE,TRAFFIC COUNT AT SIR FRANCIS DRAKE BLVD,"10,832",NS
+PW,Puukohola Heiau National Historic Site,PUHE,TRAFFIC COUNT AT MAIN ENTRANCE,"30,000",NHS
+PW,Puukohola Heiau National Historic Site,PUHE,TRAFFIC COUNT AT VISITOR CENTER,"5,300",NHS
+PW,Redwood National Park,REDW,TRAFFIC COUNT AT COASTAL DRIVE,0,NP
+PW,Redwood National Park,REDW,TRAFFIC COUNT AT ENDERTS CRESCENT BEACH,"2,078",NP
+PW,Redwood National Park,REDW,TRAFFIC COUNT AT FRESHWATER LAGOON,29,NP
+PW,Redwood National Park,REDW,TRAFFIC COUNT AT KLAMATH RIVER OVERLOOK,748,NP
+PW,Redwood National Park,REDW,TRAFFIC COUNT AT LAGOON CREEK PARKING AREA,"1,959",NP
+PW,Redwood National Park,REDW,TRAFFIC COUNT AT LOST MAN CREEK ROAD,"1,397",NP
+PW,Redwood National Park,REDW,TRAFFIC COUNT AT REDWOOD CREEK TRAIL,"1,804",NP
+NE,Richmond National Battlefield Park,RICH,TRAFFIC COUNT AT BEAVER DAM,269,NBP
+NE,Richmond National Battlefield Park,RICH,TRAFFIC COUNT AT CHICKAHOMINY BLUFFS,579,NBP
+NE,Richmond National Battlefield Park,RICH,TRAFFIC COUNT AT COLD HARBOR ENTRANCE,"3,751",NBP
+NE,Richmond National Battlefield Park,RICH,TRAFFIC COUNT AT FORT DARLING,"1,129",NBP
+NE,Richmond National Battlefield Park,RICH,TRAFFIC COUNT AT FORT HARRISON,"8,243",NBP
+NE,Richmond National Battlefield Park,RICH,TRAFFIC COUNT AT MALVERN HILL,925,NBP
+NE,Richmond National Battlefield Park,RICH,TRAFFIC COUNT AT PARKER'S BATTERY,326,NBP
+NE,Richmond National Battlefield Park,RICH,TRAFFIC COUNT AT RURAL PLAINS,488,NBP
+NE,Richmond National Battlefield Park,RICH,TRAFFIC COUNT AT WATT HOUSE,"1,316",NBP
+MW,River Raisin National Battlefield Park,RIRA,FRENCHTOWN TRAFFIC COUNT,"1,813",NBP
+MW,River Raisin National Battlefield Park,RIRA,HULL'S TRACE TRAFFIC COUNT,"2,002",NBP
+MW,River Raisin National Battlefield Park,RIRA,MAIN ENTRANCE TRAFFIC COUNT,"1,792",NBP
+IM,Rocky Mountain National Park,ROMO,TRAFFIC COUNT AT BEAVER MEADOWS,"21,633",NP
+IM,Rocky Mountain National Park,ROMO,TRAFFIC COUNT AT FALL RIVER,"8,793",NP
+IM,Rocky Mountain National Park,ROMO,TRAFFIC COUNT AT GRAND LAKE,"2,035",NP
+IM,Rocky Mountain National Park,ROMO,TRAFFIC COUNT AT LONGS PEAK,532,NP
+IM,Rocky Mountain National Park,ROMO,TRAFFIC COUNT AT SUN VALLEY ROAD,0,NP
+IM,Rocky Mountain National Park,ROMO,TRAFFIC COUNT AT WILD BASIN,511,NP
+PW,Ross Lake National Recreation Area,ROLA,(WEST BOUNDARY HWY 20) TRAFFIC COUNT ENTERING THE PARK,"1,904",NRA
+PW,Ross Lake National Recreation Area,ROLA,TRAFFIC COUNT AT DIABLO LAKE OVERLOOK,224,NRA
+PW,Ross Lake National Recreation Area,ROLA,TRAFFIC COUNT AT HOZOMEEN ROAD,0,NRA
+PW,Ross Lake National Recreation Area,ROLA,TRAFFIC COUNT AT NORTH COLONIAL CREEK CAMPGROUND,0,NRA
+PW,Ross Lake National Recreation Area,ROLA,TRAFFIC COUNT AT SOUTH COLONIAL CREEK CAMPGROUND,0,NRA
+PW,Ross Lake National Recreation Area,ROLA,TRAFFIC COUNT AT THORNTON CREEK ROAD,67,NRA
+PW,Ross Lake National Recreation Area,ROLA,TRAFFIC COUNT AT UPPER GOODELL CAMPGROUND,0,NRA
+SE,Russell Cave National Monument,RUCA,TRAFFIC COUNT AT MAIN ENTRANCE,362,NM
+IM,Saguaro National Park,SAGU,TRAFFIC COUNT AT CACTUS DRIVE,"2,095",NP
+IM,Saguaro National Park,SAGU,TRAFFIC COUNT AT GOLDEN GATE LANE 3,0,NP
+IM,Saguaro National Park,SAGU,TRAFFIC COUNT AT GOLDEN GATE LANE 4,930,NP
+IM,Saguaro National Park,SAGU,TRAFFIC COUNT AT JAVELINA,"6,013",NP
+IM,Saguaro National Park,SAGU,TRAFFIC COUNT AT KINNEY ROAD AT RED HILLS VC,"21,120",NP
+IM,Saguaro National Park,SAGU,TRAFFIC COUNT AT PICTURED ROCKS LANE 2,"106,950",NP
+IM,Saguaro National Park,SAGU,TRAFFIC COUNT AT PICTURED ROCKS LANE 5,"105,400",NP
+IM,Saguaro National Park,SAGU,TRAFFIC COUNT AT SANDARIO ROAD LANE 1,"42,312",NP
+IM,Saguaro National Park,SAGU,TRAFFIC COUNT AT SANDARIO ROAD LANE 2,"41,540",NP
+NE,Saint-Gaudens National Historic Site,SAGA,AM TRAFFIC COUNT,0,NHS
+NE,Saint-Gaudens National Historic Site,SAGA,CONCERT TRAFFIC COUNT,0,NHS
+NE,Saint-Gaudens National Historic Site,SAGA,LOWER LOT TRAFFIC COUNT,0,NHS
+NE,Saint-Gaudens National Historic Site,SAGA,OVERFLOW TRAFFIC COUNT AT CONCERTS,0,NHS
+NE,Saint-Gaudens National Historic Site,SAGA,PM TRAFFIC COUNT,0,NHS
+NE,Saint-Gaudens National Historic Site,SAGA,TRAFFIC COUNT AT MILL PARKING AREA,50,NHS
+IM,San Antonio Missions National Historical Park,SAAN,TRAFFIC COUNT AT ACEQUIA PARK,"2,121",NHP
+IM,San Antonio Missions National Historical Park,SAAN,TRAFFIC COUNT AT ESPADA PARK,"6,812",NHP
+IM,San Antonio Missions National Historical Park,SAAN,TRAFFIC COUNT AT MISSION CONCEPCION,"7,477",NHP
+IM,San Antonio Missions National Historical Park,SAAN,TRAFFIC COUNT AT MISSION ESPADA EAST,"4,489",NHP
+IM,San Antonio Missions National Historical Park,SAAN,TRAFFIC COUNT AT MISSION ESPADA PARISH,700,NHP
+IM,San Antonio Missions National Historical Park,SAAN,TRAFFIC COUNT AT MISSION ESPADA WEST,"5,115",NHP
+IM,San Antonio Missions National Historical Park,SAAN,TRAFFIC COUNT AT MISSION SAN JOSE EAST,"2,401",NHP
+IM,San Antonio Missions National Historical Park,SAAN,TRAFFIC COUNT AT MISSION SAN JOSE WEST,"7,091",NHP
+IM,San Antonio Missions National Historical Park,SAAN,TRAFFIC COUNT AT MISSION SAN JUAN NORTH PARKING LOT,"1,073",NHP
+IM,San Antonio Missions National Historical Park,SAAN,TRAFFIC COUNT AT MISSION SAN JUAN WEST PARKING LOT,"2,361",NHP
+PW,San Juan Island National Historical Park,SAJH,TRAFFIC COUNT AT AMERICAN CAMP,"4,450",NHP
+PW,San Juan Island National Historical Park,SAJH,TRAFFIC COUNT AT ENGLISH CAMP,"1,980",NHP
+PW,Santa Monica Mountains National Recreation Area,SAMO,TRAFFIC COUNT AT CIRCLE X,"1,907",NRA
+PW,Santa Monica Mountains National Recreation Area,SAMO,TRAFFIC COUNT AT FRANKLIN CANYON RANCH,"8,572",NRA
+PW,Santa Monica Mountains National Recreation Area,SAMO,TRAFFIC COUNT AT PALO COMADO CANYON,"3,038",NRA
+PW,Santa Monica Mountains National Recreation Area,SAMO,TRAFFIC COUNT AT PARAMOUNT RANCH,"5,689",NRA
+PW,Santa Monica Mountains National Recreation Area,SAMO,TRAFFIC COUNT AT PETER STRAUSS,675,NRA
+PW,Santa Monica Mountains National Recreation Area,SAMO,TRAFFIC COUNT AT RANCHO SIERRA,"6,118",NRA
+PW,Santa Monica Mountains National Recreation Area,SAMO,TRAFFIC COUNT AT ROCKY OAKS,425,NRA
+PW,Santa Monica Mountains National Recreation Area,SAMO,TRAFFIC COUNT AT SOLSTICE CANYON,"3,555",NRA
+PW,Santa Monica Mountains National Recreation Area,SAMO,TRAFFIC COUNT AT ZUMA CANYON,983,NRA
+NE,Saratoga National Historical Park,SARA,TRAFFIC COUNT AT PHILLIPS ROAD COUNTER,"4,580",NHP
+NE,Saratoga National Historical Park,SARA,TRAFFIC COUNT AT ROUTE 32 COUNTER,"2,654",NHP
+NE,Saratoga National Historical Park,SARA,TRAFFIC COUNT AT ROUTE 4 COUNTER,"3,848",NHP
+NE,Saratoga National Historical Park,SARA,TRAFFIC COUNT AT TOUR ROAD COUNTER,0,NHP
+MW,Scotts Bluff National Monument,SCBL,TRAFFIC COUNT AT VC PARKING AREA,940,NM
+PW,Sequoia National Park,SEQU,TRAFFIC COUNT AT ASH MOUNTAIN ENTRANCE (Lane 1),"14,400",NP
+PW,Sequoia National Park,SEQU,TRAFFIC COUNT AT ASH MOUNTAIN ENTRANCE (Lane 2),0,NP
+PW,Sequoia National Park,SEQU,TRAFFIC COUNT AT LOOKOUT POINT,13,NP
+PW,Sequoia National Park,SEQU,TRAFFIC COUNT AT LOST GROVE,"1,149",NP
+PW,Sequoia National Park,SEQU,TRAFFIC COUNT AT SOUTH FORK,276,NP
+NE,Shenandoah National Park,SHEN,TRAFFIC COUNT AT FRONT ROYAL ENTRANCE,"2,414",NP
+NE,Shenandoah National Park,SHEN,TRAFFIC COUNT AT ROCKFISH ENTRANCE,"1,502",NP
+NE,Shenandoah National Park,SHEN,TRAFFIC COUNT AT SWIFT RUN ENTRANCE,"2,188",NP
+NE,Shenandoah National Park,SHEN,TRAFFIC COUNT AT THORNTON GAP ENTRANCE,"2,447",NP
+SE,Shiloh National Military Park,SHIL,TRAFFIC COUNT AT FEDERAL ROAD EAST,"1,055",NMP
+SE,Shiloh National Military Park,SHIL,TRAFFIC COUNT AT FEDERAL ROAD WEST,"1,569",NMP
+SE,Shiloh National Military Park,SHIL,TRAFFIC COUNT AT GLADDEN ROAD,596,NMP
+SE,Shiloh National Military Park,SHIL,TRAFFIC COUNT AT GRANT ROAD,"5,556",NMP
+SE,Shiloh National Military Park,SHIL,TRAFFIC COUNT AT PICNIC AREA,489,NMP
+MW,Sleeping Bear Dunes National Lakeshore,SLBE,TRAFFIC COUNT AT AT PLATTE RIVER MOUTH,947,NL
+MW,Sleeping Bear Dunes National Lakeshore,SLBE,TRAFFIC COUNT AT COAST GUARD MUSEUM,569,NL
+MW,Sleeping Bear Dunes National Lakeshore,SLBE,TRAFFIC COUNT AT DUNE CLIMB,"1,433",NL
+MW,Sleeping Bear Dunes National Lakeshore,SLBE,TRAFFIC COUNT AT ESCH ROAD,808,NL
+MW,Sleeping Bear Dunes National Lakeshore,SLBE,TRAFFIC COUNT AT STOCKING SCENIC DRIVE,841,NL
+NE,Steamtown National Historic Site,STEA,TRAFFIC COUNT AT MAIN ENTRANCE,"2,114",NHS
+SE,Stones River National Battlefield,STRI,TRAFFIC COUNT AT BATTLEFIELD ROAD,"6,156",NB
+SE,Stones River National Battlefield,STRI,TRAFFIC COUNT AT CEMETERY,930,NB
+SE,Stones River National Battlefield,STRI,TRAFFIC COUNT AT FORT ROSECRANS,"9,282",NB
+IM,Sunset Crater Volcano National Monument,SUCR,TRAFFIC COUNT AT EAST ENTRANCE,"1,730",NM
+IM,Sunset Crater Volcano National Monument,SUCR,TRAFFIC COUNT AT WEST ENTRANCE,"2,744",NM
+MW,Tallgrass Prairie National Preserve,TAPR,TRAFFIC COUNT AT LOWER FOX CREEK SCHOOLHOUSE,36,NPRE
+MW,Theodore Roosevelt National Park,THRO,TRAFFIC COUNT AT PAINTED CANYON REST AREA,0,NP
+MW,Theodore Roosevelt National Park,THRO,TRAFFIC COUNT AT SCENIC DRIVE (VISITOR CENTER AREA,300,NP
+MW,Theodore Roosevelt National Park,THRO,TRAFFIC COUNT AT SCENIC LOOP DRIVE (MEDORA),"1,600",NP
+SE,Timucuan Ecological and Historic Preserve,TIMU,TRAFFIC COUNT AT BIG TALBOT ISLAND BOAT RAMP,0,NPRES
+SE,Timucuan Ecological and Historic Preserve,TIMU,TRAFFIC COUNT AT CEDAR POINT,"2,558",NPRES
+SE,Timucuan Ecological and Historic Preserve,TIMU,TRAFFIC COUNT AT CLAP BOARD CREEK BOAT RAMP,512,NPRES
+SE,Timucuan Ecological and Historic Preserve,TIMU,TRAFFIC COUNT AT SISTER'S CREEK NORTH,"3,975",NPRES
+SE,Timucuan Ecological and Historic Preserve,TIMU,TRAFFIC COUNT AT SISTER'S CREEK SOUTH,"4,480",NPRES
+SE,Timucuan Ecological and Historic Preserve,TIMU,TRAFFIC COUNT AT THEODORE ROOSEVELT,"3,968",NPRES
+IM,Tonto National Monument,TONT,TRAFFIC COUNT AT MAIN ENTRANCE,0,NM
+IM,Tuzigoot National Monument,TUZI,TRAFFIC COUNT ENTERING THE PARK,"2,531",NM
+NE,Upper Delaware National Scenic and Recreation River,UPDE,TRAFFIC COUNT AT BOTH ROEBLING BRIDGE PARKING LOTS,"1,773",S&RR
+NE,Upper Delaware National Scenic and Recreation River,UPDE,TRAFFIC COUNT AT BUCKINGHAM ACCESS AREA,112,S&RR
+NE,Upper Delaware National Scenic and Recreation River,UPDE,TRAFFIC COUNT AT CALLICOON ACCESS AREA (NY),0,S&RR
+NE,Upper Delaware National Scenic and Recreation River,UPDE,TRAFFIC COUNT AT CALLICOON ACCESS AREA (PA),424,S&RR
+NE,Upper Delaware National Scenic and Recreation River,UPDE,TRAFFIC COUNT AT DAMASCUS ACCESS AREA,329,S&RR
+NE,Upper Delaware National Scenic and Recreation River,UPDE,TRAFFIC COUNT AT DARBYTOWN ACCESS AREA,169,S&RR
+NE,Upper Delaware National Scenic and Recreation River,UPDE,TRAFFIC COUNT AT HANCOCK ACCESS AREA,0,S&RR
+NE,Upper Delaware National Scenic and Recreation River,UPDE,TRAFFIC COUNT AT LACKAWAXEN ACCESS AREA,"1,151",S&RR
+NE,Upper Delaware National Scenic and Recreation River,UPDE,TRAFFIC COUNT AT MONGAUP ACCESS,115,S&RR
+NE,Upper Delaware National Scenic and Recreation River,UPDE,TRAFFIC COUNT AT NARROWSBURG ACCESS AREA,265,S&RR
+NE,Upper Delaware National Scenic and Recreation River,UPDE,TRAFFIC COUNT AT SKINNERS FALLS ACCESS AREA,40,S&RR
+NE,Upper Delaware National Scenic and Recreation River,UPDE,TRAFFIC COUNT AT TEN MILE RIVER ACCESS AREA,291,S&RR
+NE,Valley Forge National Historical Park,VAFO,TRAFFIC COUNT ENTRANCE/EXIT ROAD AT BETZWOOD PICNIC AREA,"3,066",NHP
+NE,Vanderbilt Mansion National Historic Site,VAMA,TRAFFIC COUNT AT MAIN ENTRANCE,"6,500",NHS
+SE,Vicksburg National Military Park,VICK,TRAFFIC COUNT AT CLAY STREET,"8,902",NMP
+SE,Vicksburg National Military Park,VICK,TRAFFIC COUNT AT FORT HILL DRIVE,"1,553",NMP
+SE,Vicksburg National Military Park,VICK,TRAFFIC COUNT AT LOUISIANA CIRCLE,"1,293",NMP
+SE,Vicksburg National Military Park,VICK,TRAFFIC COUNT AT NAVY CIRCLE,"1,603",NMP
+IM,Walnut Canyon National Monument,WACA,TRAFFIC COUNT AT MAIN ENTRANCE,"2,418",NM
+IM,Washita Battlefield National Historic Site,WABA,TRAFFIC COUNT AT EAST PARKING LOT,70,NHS
+IM,Washita Battlefield National Historic Site,WABA,TRAFFIC COUNT AT WEST PARKING LOT,29,NHS
+PW,Whiskeytown National Recreation Area,WHIS,TRAFFIC COUNT AT BRANDY CREEK,"7,150",NRA
+PW,Whiskeytown National Recreation Area,WHIS,TRAFFIC COUNT AT CRYSTAL CREEK,398,NRA
+PW,Whiskeytown National Recreation Area,WHIS,TRAFFIC COUNT AT J.F.C. POWERHOUSE,"1,602",NRA
+PW,Whiskeytown National Recreation Area,WHIS,TRAFFIC COUNT AT OAK BOTTOM,"1,763",NRA
+PW,Whiskeytown National Recreation Area,WHIS,TRAFFIC COUNT AT VISITOR INFO CENTER,"12,027",NRA
+PW,Whiskeytown National Recreation Area,WHIS,TRAFFIC COUNT AT WHISKEY CREEK,"1,359",NRA
+PW,Whitman Mission National Historic Site,WHMI,TRAFFIC COUNT AT WEST ENTRANCE ROAD,420,NHS
+MW,Wilson\u0027s Creek National Battlefield,WICR,TRAFFIC COUNT AT MAIN ENTRANCE,"2,328",NB
+MW,Wilson\u0027s Creek National Battlefield,WICR,TRAFFIC COUNT ON TOUR ROAD,0,NB
+MW,Wind Cave National Park,WICA,TRAFFIC COUNT AT HIGHWAY 385 SOUTH (COUNTER #5),"7,975",NP
+MW,Wind Cave National Park,WICA,TRAFFIC COUNT AT HIGHWAY 385 WEST (COUNTER #4),"7,682",NP
+MW,Wind Cave National Park,WICA,TRAFFIC COUNT AT HIGHWAY 87 NORTH (COUNTER #2),428,NP
+SE,Wright Brothers National Memorial,WRBR,TRAFFIC COUNT AT MAIN ENTRANCE,"3,043",NMEM
+IM,Yellowstone National Park,YELL,TRAFFIC COUNT AT EAST GATE,0,NP
+IM,Yellowstone National Park,YELL,TRAFFIC COUNT AT NORTH GATE,"7,965",NP
+IM,Yellowstone National Park,YELL,TRAFFIC COUNT AT NORTHEAST GATE,0,NP
+IM,Yellowstone National Park,YELL,TRAFFIC COUNT AT SOUTH GATE,0,NP
+IM,Yellowstone National Park,YELL,TRAFFIC COUNT AT WEST GATE,0,NP
+IM,Yellowstone National Park,YELL,TRAFFIC COUNT ON HIGHWAY 191,"45,167",NP
+PW,Yosemite National Park,YOSE,TRAFFIC COUNT AT ARCH ROCK,"21,728",NP
+PW,Yosemite National Park,YOSE,TRAFFIC COUNT AT BADGER PASS,"12,400",NP
+PW,Yosemite National Park,YOSE,TRAFFIC COUNT AT BIG OAK FLAT,"11,484",NP
+PW,Yosemite National Park,YOSE,TRAFFIC COUNT AT BIG TREE,0,NP
+PW,Yosemite National Park,YOSE,TRAFFIC COUNT AT HETCH HETCHY,277,NP
+PW,Yosemite National Park,YOSE,TRAFFIC COUNT AT SOUTH ENTRANCE,"22,052",NP
+PW,Yosemite National Park,YOSE,TRAFFIC COUNT AT TIOGA PASS,0,NP
+IM,Zion National Park,ZION,TRAFFIC COUNT AT CANYON DRIVE,0,NP
+IM,Zion National Park,ZION,TRAFFIC COUNT AT EAST ENTRANCE,"8,544",NP
+IM,Zion National Park,ZION,TRAFFIC COUNT AT KOLOB CANYON,"3,716",NP
+IM,Zion National Park,ZION,TRAFFIC COUNT AT KOLOB TERRACE,0,NP
+IM,Zion National Park,ZION,TRAFFIC COUNT AT SOUTH ENTRANCE,"26,671",NP

@@ -1,0 +1,425 @@
+EmpID,Name,JobTitle,Department,ManagerID,Salary,Status,City,State,Country,BirthDate,HireDate,TermDate
+120101,"Lu, Patrick",Director,Sales Management,120261,"$203,800.00",S,Sydney,,AU,8265,19905,
+120102,"Zhou, Tom",Sales Manager,Sales Management,120101,"$135,318.75",O,Melbourne,,AU,5701,14762,
+120103,"Dawes, Wilson",Sales Manager,Sales Management,120101,"$109,968.75",M,Sydney,,AU,-1805,9132,
+120104,"Billington, Kareen",Administration Manager,Administration,120101,"$57,787.50",M,Sydney,,AU,131,11688,
+120105,"Povey, Liz",Secretary I,Administration,120101,"$33,887.50",S,Melbourne,,AU,7660,18383,
+120106,"Hornsey, John",Office Assistant II,Administration,120104,"$33,700.00",M,Sydney,,AU,-3296,9132,
+120107,"Sheedy, Sherie",Office Assistant III,Administration,120104,"$38,093.75",M,Melbourne,,AU,-1806,9163,
+120108,"Gromek, Gladys",Warehouse Assistant II,Administration,120104,"$34,575.00",S,Melbourne,,AU,11011,21032,
+120109,"Baker, Gabriele",Warehouse Assistant I,Administration,120104,"$33,118.75",M,Sydney,,AU,12037,21093,
+120110,"Entwisle, Dennis",Warehouse Assistant III,Administration,120104,"$35,768.75",M,Sydney,,AU,-1503,11262,
+120111,"Spillane, Ubaldo",Security Guard II,Administration,120104,"$33,618.75",M,Sydney,,AU,-1623,9436,
+120112,"Glattback, Ellis",Security Guard I,Administration,120104,"$33,187.50",M,Melbourne,,AU,5526,15157,
+120113,"Horsey, Riu",Security Guard II,Administration,120104,"$33,587.50",S,Melbourne,,AU,-3523,9132,
+120114,"Buddery, Jeannette",Security Manager,Administration,120104,"$39,106.25",M,Sydney,,AU,-3614,9132,
+120115,"Nichollas, Hugh",Service Assistant I,Administration,120104,"$33,125.00",M,Sydney,,au,11085,20667,
+120116,"Ralston, Austen",Service Assistant II,Administration,120104,"$36,562.50",S,Sydney,,AU,1990,11354,
+120117,"Mccleary, Bill",Cabinet Maker III,Engineering,120104,"$39,587.50",O,Melbourne,,AU,3906,13605,
+120118,"Hartshorn, Darshi",Cabinet Maker II,Engineering,120104,"$35,112.50",M,Sydney,,AU,1980,12965,
+120119,"Elleman, Lal",Electrician IV,Engineering,120104,"$37,818.75",M,Sydney,,AU,5833,17898,
+120120,"Peiris, Krishna",Electrician II,Engineering,120104,"$34,556.25",M,Sydney,,AU,-3528,9132,
+120121,"Elvish, Irenie",Sales Rep. II,Sales,120102,"$33,250.00",M,Sydney,,AU,-3439,9132,
+120122,"Ngan, Christina",Sales Rep. II,Sales,120102,"$34,343.75",S,Melbourne,,AU,208,10774,
+120123,"Hotstone, Kimiko",Sales Rep. I,Sales,120102,"$32,737.50",M,Sydney,,AU,3923,13423,20484
+120124,"Daymond, Lucian",Sales Rep. I,Sales,120102,"$33,100.00",M,Sydney,,AU,1959,11017,
+120125,"Hofmeister, Fong",Sales Rep. IV,Sales,120102,"$40,050.00",M,Sydney,,AU,340,11017,20300
+120126,"Denny, Satyakam",Sales Rep. II,Sales,120102,"$33,475.00",O,Sydney,,AU,12681,21032,
+120127,"Clarkson, Sharryn",Sales Rep. II,Sales,120102,"$35,125.00",M,Sydney,,AU,9135,18202,
+120128,"Kletschkus, Monica",Sales Rep. IV,Sales,120102,"$38,612.50",S,Melbourne,,AU,11883,21124,
+120129,"Roebuck, Alvin",Sales Rep. III,Sales,120102,"$37,587.50",S,Melbourne,,AU,3978,13423,19813
+120130,"Lyon, Kevin",Sales Rep. I,Sales,120102,"$33,693.75",M,Sydney,,AU,11305,20940,
+120131,"Surawski, Marinus",Sales Rep. I,Sales,120102,"$33,637.50",S,Sydney,,AU,9399,19724,
+120132,"Kaiser, Fancine",Sales Rep. III,Sales,120102,"$35,656.25",S,Sydney,,AU,-1732,10866,
+120133,"Soltau, Petrea",Sales Rep. II,Sales,120102,"$34,300.00",S,Melbourne,,AU,11800,21093,
+120134,"Shannan, Sian",Sales Rep. II,Sales,120102,"$35,018.75",M,Sydney,,AU,-1670,9132,21000
+120135,"Platts, Alexei",Sales Rep. IV,Sales,120102,"$40,612.50",M,Sydney,,AU,5504,17806,20208
+120136,"Leyden, Atul",Sales Rep. I,Sales,120102,"$33,256.25",M,Sydney,,AU,9390,19755,
+120137,"Iyengar, Marina",Sales Rep. III,Sales,120102,"$37,143.75",S,Melbourne,,AU,9202,20879,
+120138,"Duckett, Shani",Sales Rep. I,Sales,120102,"$32,243.75",S,Melbourne,,AU,9323,21001,
+120139,"Wilson, Fang",Sales Rep. II,Sales,120102,"$33,512.50",S,Sydney,,AU,11918,21063,
+120140,"Minas, Michael",Sales Rep. I,Sales,120103,"$33,712.50",M,Sydney,,AU,12633,21093,
+120141,"Liebman, Amanda",Sales Rep. II,Sales,120103,"$34,331.25",M,Sydney,,AU,12489,20940,
+120142,"Eastley, Vincent",Sales Rep. III,Sales,120103,"$37,118.75",S,Melbourne,,AU,11853,21001,
+120143,"Sloey, Phu",Sales Rep. II,Sales,120103,"$33,487.50",S,Sydney,,AU,1963,12327,
+120144,"Barbis, Viney",Sales Rep. III,Sales,120103,"$37,831.25",S,Sydney,,AU,11754,21093,
+120145,"Aisbitt, Sandy",Sales Rep. II,Sales,120103,"$32,575.00",O,Melbourne,,AU,3674,13301,
+120146,"Cederlund, Wendall",Sales Rep. I,Sales,120103,"$32,481.25",M,Sydney,,AU,2101,11535,20727
+120147,"Rusli, Skev",Sales Rep. II,Sales,120103,"$33,225.00",M,Sydney,,AU,12437,21093,
+120148,"Zubak, Michael",Sales Rep. III,Sales,120103,"$35,600.00",S,Sydney,,AU,-1571,10744,
+120149,"Chantharasy, Judy",Sales Rep. I,Sales,120103,"$32,987.50",O,Melbourne,,AU,7630,16071,
+120150,"Filo, John",Sales Rep. III,Sales,120103,"$37,456.25",M,Melbourne,,AU,190,12266,20208
+120151,"Phaiyakounh, Julianna",Sales Rep. II,Sales,120103,"$33,150.00",M,Sydney,,AU,-3328,9132,
+120152,"Dives, Sean",Sales Rep. I,Sales,120102,"$33,143.75",M,Sydney,,AU,9252,20545,
+120153,"Waal, Samantha",Sales Rep. I,Sales,120102,"$34,075.00",M,Sydney,,AU,9258,17898,20850
+120154,"Hayawardhana, Caterina",Sales Rep. III,Sales,120102,"$38,112.50",M,Sydney,,AU,-3452,9132,
+120155,"James, Narelle",Sales Rep. III,Sales,120102,"$37,487.50",M,Melbourne,,AU,11069,20910,
+120156,"Snellings, Gerry",Sales Rep. I,Sales,120102,"$33,056.25",O,Sydney,,AU,12662,20879,
+120157,"Karavdic, Leonid",Sales Rep. II,Sales,120102,"$34,825.00",S,Sydney,,AU,11739,21154,
+120158,"Pilgrim, Daniel",Sales Rep. III,Sales,120102,"$45,756.25",S,Sydney,,AU,3847,14061,20697
+120159,"Phoumirath, Lynelle",Sales Rep. IV,Sales,120102,"$38,456.25",M,Sydney,,AU,3707,13696,
+120160,"Segrave, Chuck",Sales Rep. I,Sales,120102,"$33,893.75",M,Sydney,,AU,252,9405,
+120161,"Martines, Rosette",Sales Rep. III,Sales,120102,"$38,481.25",S,Melbourne,,AU,12484,21093,
+120162,"Scordia, Randal",Sales Rep. I,Sales,120102,"$34,018.75",M,Melbourne,,AU,12666,20851,
+120163,"Magrath, Brett",Sales Rep. II,Sales,120102,"$33,418.75",M,Melbourne,,AU,3794,15341,
+120164,"Stamalis, Ranj",Sales Rep. II,Sales,120102,"$34,312.50",M,Melbourne,,AU,2156,12085,
+120165,"Pretorius, Tadashi",Sales Rep. I,Sales,120102,"$33,812.50",S,Sydney,,AU,11035,20879,
+120166,"Nowd, Fadi",Sales Rep. IV,Sales,120102,"$38,325.00",S,Sydney,,AU,-3488,9132,21062
+120167,"Tilley, Kimiko",Sales Rep. I,Sales,120102,"$31,481.25",S,Sydney,,AU,124,9163,20909
+120168,"Barcoe, Selina",Sales Rep. I,Sales,120102,"$31,593.75",M,Melbourne,,AU,11040,21124,
+120169,"Tannous, Cos",Sales Rep. III,Sales,120102,"$35,168.75",M,Melbourne,,AU,10959,20940,
+120170,"Kingston, Alban",Sales Rep. III,Sales,120102,"$36,037.50",S,Sydney,,au,7360,15979,21123
+120171,"Moody, Alena",Sales Rep. II,Sales,120102,"$32,756.25",M,Sydney,,AU,11157,21063,
+120172,"Comber, Edwin",Sales Rep. III,Sales,120102,"$35,431.25",M,Sydney,,AU,-3562,9132,
+120173,"Osborn, Hernani",Sales Rep. I,Sales,120102,"$33,393.75",M,Melbourne,,AU,53,10379,20300
+120174,"Simms, Doungkamol",Sales Rep. I,Sales,120102,"$33,562.50",S,Melbourne,,AU,-3643,9132,20757
+120175,"Conolly, Andrew",Sales Rep. I,Sales,120102,"$32,181.25",S,Sydney,,AU,12648,21093,
+120176,"Pa, Koavea",Sales Rep. I,Sales,120102,"$32,618.75",M,Melbourne,,AU,12001,21124,
+120177,"Kierce, Franca",Sales Rep. III,Sales,120102,"$35,931.25",S,Sydney,,AU,9226,17929,
+120178,"Plested, Billy",Sales Rep. II,Sales,120102,"$32,706.25",M,Sydney,,AU,327,9222,
+120179,"Wills, Matsuoka",Sales Rep. III,Sales,120102,"$35,637.50",M,Melbourne,,AU,7379,20089,20331
+120180,"George, Vino",Sales Rep. II,Sales,120102,"$33,712.50",S,Melbourne,,AU,178,10927,
+120181,"Cantatore, Lorian",Temp. Sales Rep.,Sales,120103,"$33,831.25",S,Sydney,,AU,12750,21154,21274
+120182,"Barreto, Geok-Seng",Temp. Sales Rep.,Sales,120103,"$31,275.00",M,Sydney,,AU,11235,21154,21184
+120183,"Blanton, Brig",Temp. Sales Rep.,Sales,120103,"$33,637.50",M,Melbourne,,AU,5731,21154,21184
+120184,"Moore, Ari",Temp. Sales Rep.,Sales,120103,"$32,275.00",O,Sydney,,AU,-1492,21154,21304
+120185,"Bahlman, Sharon",Temp. Sales Rep.,Sales,120103,"$31,350.00",M,Sydney,,AU,7402,21154,21215
+120186,"Quinby, Merryn",Temp. Sales Rep.,Sales,120103,"$33,493.75",O,Sydney,,AU,9240,21154,21365
+120187,"Catenacci, Reyne",Temp. Sales Rep.,Sales,120103,"$33,331.25",M,Melbourne,,AU,11301,21154,21335
+120188,"Baran, Shanmuganathan",Temp. Sales Rep.,Sales,120103,"$33,393.75",M,Sydney,,AU,60,21154,21184
+120189,"Lachlan, Mihailo",Temp. Sales Rep.,Sales,120103,"$31,475.00",S,Sydney,,AU,11141,21154,21274
+120190,"Czernezkyi, Ivor",Trainee,Sales,120103,"$30,125.00",M,Sydney,,AU,11296,20393,20574
+120191,"Graham-Rowe, Jannene",Trainee,Sales,120103,"$30,018.75",S,Melbourne,,AU,1843,19724,19904
+120192,"Nichollas, Anthony",Trainee,Sales,120103,"$32,731.25",M,Sydney,,AU,11085,20606,20788
+120193,"Streit, Russell",Trainee,Sales,120103,"$30,643.75",S,Melbourne,,AU,11297,20698,20878
+120194,"Harwood, Reece",Trainee,Sales,120103,"$32,481.25",M,Melbourne,,AU,11223,20485,20666
+120195,"Fiocca, Jina",Trainee,Sales,120103,"$31,237.50",S,Melbourne,,AU,11316,21001,21184
+120196,"Hieds, Merle",Trainee,Sales,120103,"$30,031.25",S,Melbourne,,AU,10988,19724,19904
+120197,"Dillin, Kerrin",Trainee,Sales,120103,"$31,975.00",M,Melbourne,,AU,220,19724,19904
+120198,"Body, Meera",Sales Rep. III,Sales,120103,"$35,031.25",M,Sydney,,AU,12439,21154,
+120259,"Miller, Anthony",Chief Executive Officer,Executives,,"$433,800.00",M,Miami-Dade,FL,US,3677,14854,
+120260,"Fletcher, Christine",Chief Marketing Officer,Executives,120259,"$207,885.00",M,San Diego,CA,US,3988,13088,
+120261,"Highpoint, Harry",Chief Sales Officer,Executives,120259,"$243,190.00",O,Miami-Dade,FL,US,5530,14092,
+120262,"Crown, Max",Chief Financial Officer,Executives,120259,"$268,455.00",M,Philadelphia,PA,US,5772,14488,
+120263,"Cleverley, Bobby",Financial Analyst III,Group Financials,120262,"$53,256.25",S,San Diego,CA,US,3693,12692,20088
+120264,"Croome, Latonya",Financial Analyst II,Group Financials,120262,"$46,887.50",S,San Diego,CA,US,10980,21154,
+120265,"Branly, Wanda",Auditor III,Group Financials,120262,"$64,937.50",M,Philadelphia,PA,US,-3376,9132,19723
+120266,"Krafve, Bao",Secretary IV,Secretary of the Board,120259,"$39,687.50",M,San Diego,CA,US,5660,14701,
+120267,"Rink, Belanda",Secretary III,Secretary of the Board,120259,"$35,731.25",M,San Diego,CA,US,11841,19755,
+120268,"Villeneuve, Jacques",Senior Strategist,Strategy,120260,"$95,131.25",S,Philadelphia,PA,US,7549,17653,
+120269,"Kagolanu, Shrimatee",Strategist II,Strategy,120260,"$65,675.00",M,Philadelphia,PA,US,-3383,9132,20208
+120270,"Nuss, Grezegorz",Concession Director,Concession Management,120261,"$60,543.75",O,Miami-Dade,FL,US,84,9132,
+120271,"Winge, Kenisha",Concession Manager,Concession Management,120270,"$54,543.75",M,Miami-Dade,FL,US,3870,13758,
+120272,"Flow, Febin",Concession Consultant II,Concession Management,120271,"$42,987.50",S,Philadelphia,PA,US,-3579,9132,
+120273,"Antonini, Doris",Concession Assistant III,Concession Management,120271,"$35,568.75",M,Miami-Dade,FL,US,11846,20879,
+120274,"Landry, Angela",Concession Assistant I,Concession Management,120271,"$33,550.00",O,Philadelphia,PA,US,3661,16406,
+120275,"Lattimer, Brandy",Concession Consultant II,Concession Management,120271,"$40,243.75",M,San Diego,CA,US,2187,13057,
+120276,"Plybon, Nicholas",Concession Assistant II,Concession Management,120271,"$35,112.50",M,Philadelphia,Pa,US,-3303,9132,19874
+120277,"Shirts, Wesley",Concession Consultant I,Concession Management,120271,"$40,806.25",S,Miami-Dade,FL,US,12646,20209,20605
+120278,"Jongleux, Binit",Concession Assistant III,Concession Management,120271,"$34,606.25",M,San Diego,CA,US,12039,21032,
+120279,"Dunlap, Kareema",Concession Consultant I,Concession Management,120271,"$41,156.25",S,San Diego,CA,US,5771,17287,
+120280,"Laurer, Jaime",Concession Consultant III,Concession Management,120271,"$46,162.50",M,Philadelphia,PA,US,3967,14365,19539
+120656,"Amos, Salley",Logistics Coordinator II,Logistics Management,120660,"$53,212.50",O,San Diego,CA,US,7332,18322,
+120657,"Weisbarth, Theresa",Logistics Coordinator I,Logistics Management,120660,"$45,137.50",S,San Diego,CA,US,3659,15280,
+120658,"Kennedy, Kenneth",Logistics Coordinator II,Logistics Management,120660,"$53,106.25",O,San Diego,CA,US,354,11719,
+120659,"Havasy, Jay",Director,Logistics Management,120259,"$201,612.50",M,Philadelphia,PA,US,-1630,9132,
+120660,"Smith, Robert",Logistics Manager,Logistics Management,120659,"$76,406.25",S,Miami-Dade,FL,US,8923,20514,
+120661,"Racine, Cynthia",Senior Logistics Manager,Logistics Management,120659,"$106,868.75",M,San Diego,CA,US,331,12784,19904
+120662,"Burroughs, Lemonica",Secretary II,Logistics Management,120659,"$33,806.25",S,Miami-Dade,FL,US,12594,21124,
+120663,"Kornblith, Anglar",Pricing Manager,Logistics Management,120659,"$70,481.25",S,Miami-Dade,FL,US,5563,17592,
+120664,"Senchak, Brock",Pricing Specialist,Logistics Management,120663,"$59,506.25",M,Philadelphia,PA,US,48,9617,
+120665,"Leacock, Jill",Senior Logistics Manager,Logistics Management,120659,"$100,087.50",M,San Diego,CA,US,7602,19418,
+120666,"Onuscheck, John",Logistics Manager,Logistics Management,120659,"$80,693.75",S,San Diego,CA,US,5651,15675,20208
+120667,"Droste, Edwin",Office Assistant III,Logistics Management,120666,"$37,475.00",S,Miami-Dade,FL,US,9303,20851,
+120668,"Dolan, Thyland",Services Manager,Logistics Management,120659,"$59,731.25",O,Miami-Dade,FL,US,-1531,10927,
+120669,"Hill, Ronald",Services Assistant IV,Logistics Management,120668,"$45,462.50",S,Philadelphia,PA,US,-3449,9132,
+120670,"Zisek, Odudu",Shipping Manager,Stock & Shipping,120659,"$81,775.00",S,Philadelphia,PA,US,-3568,9132,19723
+120671,"Latty, William",Shipping Agent III,Stock & Shipping,120670,"$50,100.00",S,Philadelphia,PA,US,147,12450,
+120672,"Guscott, Verne",Shipping Manager,Stock & Shipping,120659,"$76,225.00",M,Sydney,,au,3889,15765,
+120673,"Santomaggio, Pearl",Shipping Agent II,Stock & Shipping,120672,"$44,918.75",S,Melbourne,,AU,-3475,9132,
+120677,"Sochacki, Suad",Shipping Manager,Stock & Shipping,120659,"$81,943.75",M,Miami-Dade,FL,US,5723,16102,
+120678,"Octetree, Lucretta",Shipping Agent III,Stock & Shipping,120677,"$50,043.75",S,San Diego,CA,US,-1815,10713,19966
+120679,"Cutucache, Chrisy",Shipping Manager,Stock & Shipping,120659,"$57,737.50",M,San Diego,CA,US,8346,19540,
+120680,"Desaulniers, Raymondria",Shipping Agent I,Stock & Shipping,120679,"$34,118.75",S,Philadelphia,PA,US,5715,15461,
+120681,"Tolbet, Elery",Shipping Agent II,Stock & Shipping,120679,"$38,687.50",M,Miami-Dade,FL,US,9355,20179,
+120682,"Kennedy, Barbara",Shipping Agent I,Stock & Shipping,120679,"$33,450.00",M,Philadelphia,PA,US,5832,17257,
+120683,"Kochneff, Deven",Shipping Agent III,Stock & Shipping,120679,"$45,393.75",M,Philadelphia,PA,US,316,9132,19782
+120684,"Woyach, Suzon",Warehouse Assistant I,Stock & Shipping,120679,"$33,700.00",S,Miami-Dade,FL,US,12018,21124,
+120685,"Howard, Anita",Warehouse Assistant I,Stock & Shipping,120679,"$31,412.50",M,Philadelphia,PA,US,11017,21124,
+120686,"Tucker, Berether",Warehouse Assistant II,Stock & Shipping,120679,"$33,362.50",M,San Diego,CA,US,-3526,9132,
+120687,"Dannin, Freda",Warehouse Assistant I,Stock & Shipping,120679,"$33,500.00",O,Miami-Dade,FL,US,9276,20301,20484
+120688,"Carcaterra, Lisa",Warehouse Assistant I,Stock & Shipping,120679,"$32,381.25",S,San Diego,Ca,US,-1468,9132,19601
+120689,"Pongor, Katherine",Warehouse Assistant III,Stock & Shipping,120679,"$34,725.00",S,Philadelphia,PA,US,9332,21001,
+120690,"Langston, Taronda",Warehouse Assistant I,Stock & Shipping,120679,"$31,481.25",S,Philadelphia,PA,US,10974,20423,
+120691,"Habres, Sek",Shipping Manager,Stock & Shipping,120659,"$61,550.00",S,Sydney,,AU,-3395,9132,
+120692,"Tregonning, Rit",Shipping Agent II,Stock & Shipping,120691,"$40,606.25",M,Sydney,,AU,326,12144,
+120693,"Tellam, Diaz",Shipping Agent I,Stock & Shipping,120691,"$33,281.25",M,Sydney,,AU,1948,11109,
+120694,"Leazer, Sharon",Warehouse Assistant I,Stock & Shipping,120691,"$34,206.25",O,Sydney,,AU,12646,20910,
+120695,"Moffat, Trent",Warehouse Assistant II,Stock & Shipping,120691,"$35,225.00",S,Melbourne,,AU,3846,14792,21031
+120696,"Pettolino, Peter",Warehouse Assistant I,Stock & Shipping,120691,"$33,268.75",M,Melbourne,,AU,226,9191,20909
+120697,"Fouche, Madelaine",Warehouse Assistant IV,Stock & Shipping,120691,"$37,031.25",O,Melbourne,,AU,12596,20971,
+120698,"Kistanna, Geoff",Warehouse Assistant I,Stock & Shipping,120691,"$32,700.00",O,Sydney,,AU,137,10074,20512
+120710,"Baltzell, Timothy",Business Analyst II,Marketing,120719,"$68,550.00",O,Philadelphia,PA,US,7633,17898,
+120711,"Drew, Gloria",Business Analyst III,Marketing,120719,"$73,912.50",O,Philadelphia,PA,US,5626,16496,
+120712,"Motashaw, Elisabeth",Marketing Manager,Marketing,120719,"$79,550.00",S,Miami-Dade,FL,US,-1664,9132,
+120713,"Campbell, Carston",Marketing Assistant III,Marketing,120712,"$39,537.50",M,San Diego,CA,US,-3599,9132,
+120714,"Dinley, Robert",Marketing Manager,Marketing,120719,"$78,281.25",M,Miami-Dade,FL,US,8129,18141,
+120715,"Neal, Angelia",Marketing Assistant II,Marketing,120714,"$35,668.75",M,San Diego,CA,US,9294,20485,
+120716,"Juif, Kenneth",Events Manager,Marketing,120719,"$66,268.75",M,Philadelphia,PA,US,7510,16284,
+120717,"Sleva, Jon",Marketing Assistant II,Marketing,120716,"$37,693.75",O,Miami-Dade,FL,US,8,11901,
+120718,"Hennington, Charles",Marketing Assistant II,Marketing,120716,"$36,487.50",S,Philadelphia,PA,US,3841,15096,
+120719,"Ridley, Roya",Senior Marketing Manager,Marketing,120260,"$109,275.00",M,San Diego,CA,US,5500,17198,
+120720,"Spingola, John",Corp. Comm. Manager,Marketing,120719,"$58,225.00",M,Philadelphia,PA,US,3779,15796,
+120721,"Knust, Dlutomi",Marketing Assistant II,Marketing,120720,"$37,337.50",M,Philadelphia,PA,US,-3359,9132,
+120722,"Sheffield, Ishmar",Corp. Comm. Specialist I,Marketing,120720,"$40,575.00",S,Miami-Dade,FL,US,2091,13423,
+120723,"Olsen, Deanna",Corp. Comm. Specialist II,Marketing,120720,"$42,437.50",O,Philadelphia,PA,US,-1605,9132,
+120724,"Brown, Hampie",Marketing Manager,Marketing,120719,"$79,631.25",S,San Diego,CA,US,3679,15796,
+120725,"Whitlock, Robert",Marketing Assistant II,Marketing,120724,"$37,462.50",S,San Diego,CA,US,9428,20240,20453
+120726,"Obermeyer, Lutezenia",Marketing Assistant I,Marketing,120724,"$34,225.00",M,Philadelphia,PA,US,12600,21063,
+120727,"Marples, Donald",Marketing Assistant IV,Marketing,120724,"$43,656.25",M,San Diego,CA,US,3828,13666,
+120728,"Borge, Kathryn",Purchasing Agent II,Purchasing,120735,"$43,837.50",M,Miami-Dade,FL,US,338,12054,
+120729,"Howell, Kimberly",Purchasing Agent I,Purchasing,120735,"$39,368.75",M,Miami-Dade,FL,US,12511,19838,20720
+120730,"Burt, Woodson",Purchasing Agent I,Purchasing,120735,"$37,743.75",M,San Diego,CA,US,4002,14518,
+120731,"Lerew, Robert",Purchasing Agent II,Purchasing,120735,"$42,687.50",O,San Diego,CA,US,1900,12662,
+120732,"Uenking, Kent",Purchasing Agent III,Purchasing,120736,"$44,837.50",M,Miami-Dade,FL,US,-1601,9132,
+120733,"Bezinque, Michael",Purchasing Agent I,Purchasing,120736,"$39,700.00",M,Miami-Dade,FL,US,3745,15280,
+120734,"Saylor, Svein",Purchasing Agent III,Purchasing,120736,"$42,837.50",S,Philadelphia,PA,US,9247,20879,
+120735,"Bilobran, Brenda",Purchasing Manager,Purchasing,120261,"$77,481.25",S,Miami-Dade,FL,US,164,10713,
+120736,"Kiemle, Parie",Purchasing Manager,Purchasing,120261,"$79,981.25",S,Miami-Dade,FL,US,3983,15614,
+120737,"Toner, Brenner",Purchasing Manager,Purchasing,120261,"$79,506.25",M,San Diego,CA,US,1913,14549,
+120738,"Swaiti, Huilun",Purchasing Agent I,Purchasing,120737,"$37,531.25",S,Philadelphia,PA,US,-1640,9132,
+120739,"Cooper, Bryon",Purchasing Agent III,Purchasing,120737,"$46,212.50",S,Miami-Dade,FL,us,11907,20940,
+120740,"Koonce, Lisa",Purchasing Agent II,Purchasing,120737,"$43,887.50",O,Miami-Dade,FL,US,-1535,9132,19966
+120741,"Court, Keisha",Purchasing Agent III,Purchasing,120737,"$45,456.25",M,Philadelphia,PA,US,-3321,9132,
+120742,"Shewitz, Ronald",Purchasing Agent I,Purchasing,120737,"$38,775.00",S,Philadelphia,PA,US,-3618,9132,
+120743,"Harrison, Chimena",Purchasing Agent II,Purchasing,120737,"$43,275.00",S,San Diego,CA,US,5510,17684,
+120744,"Feigenbaum, Alden",Purchasing Agent II,Purchasing,120737,"$41,862.50",M,San Diego,CA,US,12588,20270,20757
+120745,"Harvill, Barbara",Purchasing Agent I,Purchasing,120737,"$39,206.25",M,Philadelphia,PA,US,11874,20971,
+120746,"Kimmerle, Kevie",Account Manager,Accounts,120262,"$57,612.50",M,Philadelphia,PA,US,7588,19449,
+120747,"Farthing, Zashia",Financial Controller I,Accounts,120746,"$54,487.50",M,San Diego,CA,US,7476,17014,
+120748,"Post, Nahliah",Building Admin. Manager,Accounts,120262,"$60,475.00",M,Miami-Dade,FL,US,8221,19783,
+120749,"Niemann, Kevin",Office Assistant II,Accounts,120748,"$33,181.25",S,San Diego,CA,US,7568,17440,
+120750,"Woods, Connie",Accountant I,Accounts,120751,"$40,843.75",M,Miami-Dade,FL,US,158,10989,19389
+120751,"Mea, Azavi0us",Finance Manager,Accounts,120262,"$72,750.00",M,Miami-Dade,FL,US,3747,14457,
+120752,"Van Damme, Jean-Claude",Accountant I,Accounts,120751,"$38,237.50",S,Miami-Dade,FL,US,47,9709,19843
+120753,"Ferrari, Ralph",Financial Controller II,Accounts,120751,"$58,750.00",S,Miami-Dade,FL,US,8201,16649,
+120754,"Atkins, John",Accountant II,Accounts,120751,"$43,450.00",M,Miami-Dade,FL,US,12571,20940,
+120755,"Thoits, Elizabeth",Accountant III,Accounts,120751,"$45,550.00",M,San Diego,CA,US,3888,12631,
+120756,"Asta, Wendy",Financial Controller III,Accounts,120751,"$65,368.75",M,Philadelphia,PA,US,7355,17348,
+120757,"Knopfmacher, Paul",Accountant III,Accounts,120751,"$48,181.25",M,San Diego,CA,US,-3576,9132,20269
+120758,"Voltz, Sal",Accountant II,Accounts,120751,"$42,550.00",S,Miami-Dade,FL,US,3947,15979,
+120759,"Apr, Nishan",Accountant II,Accounts,120746,"$45,287.50",S,San Diego,CA,US,3960,12419,
+120760,"Miller, Pamela",Financial Controller III,Accounts,120746,"$66,843.75",S,San Diego,CA,US,5484,16192,
+120761,"Akinfolarin, Tameaka",Accountant I,Accounts,120746,"$38,700.00",O,Philadelphia,PA,US,12050,21001,
+120762,"Leone, Marvin",Accountant I,Accounts,120746,"$38,281.25",M,Philadelphia,PA,US,9437,20879,
+120763,"Capps, Ramond",Auditor II,Accounts Management,120766,"$56,375.00",O,San Diego,CA,US,-3354,9132,
+120764,"Worton, Steven",Auditor I,Accounts Management,120766,"$50,562.50",S,San Diego,CA,US,7661,19693,
+120765,"Kokoszka, Nikeisha",Financial Controller III,Accounts Management,120766,"$64,937.50",S,San Diego,Ca,US,351,9132,
+120766,"Kempster, Janelle",Auditing Manager,Accounts Management,120262,"$66,750.00",M,Miami-Dade,FL,US,7614,19053,
+120767,"Terricciano, Legette",Accountant I,Accounts Management,120766,"$41,206.25",S,Philadelphia,PA,US,3781,13970,
+120768,"Rayburn, Roland",Accountant II,Accounts Management,120766,"$56,193.75",M,Philadelphia,PA,US,203,11962,20057
+120769,"Lightbourne, Abelino",Auditor II,Accounts Management,120766,"$59,987.50",S,Miami-Dade,FL,US,7449,17257,
+120770,"Pascoe, Julia",Auditor I,Accounts Management,120766,"$54,912.50",S,Miami-Dade,FL,US,3766,13970,19843
+120771,"Xing Moore, Wei",Accountant II,Accounts Management,120766,"$45,543.75",S,Miami-Dade,FL,US,216,10196,
+120772,"Overdorff, Erich",HR Generalist I,Group HR Management,120780,"$34,206.25",S,Miami-Dade,FL,US,12516,21032,
+120773,"Horne, Entrisse",HR Generalist II,Group HR Management,120780,"$34,212.50",M,Miami-Dade,FL,US,1879,11779,
+120774,"El-Amin, Sue",HR Specialist II,Group HR Management,120780,"$56,443.75",M,Philadelphia,PA,US,9026,19418,20758
+120775,"Thompson, Tanya",HR Analyst II,Group HR Management,120780,"$51,975.00",M,Miami-Dade,FL,US,5520,17471,
+120776,"Silverthorne, Ratna",HR Generalist III,Group HR Management,120780,"$40,725.00",S,Miami-Dade,FL,US,9395,19084,
+120777,"Sacher, Kary",HR Specialist I,Group HR Management,120780,"$51,193.75",S,San Diego,CA,US,5563,16557,
+120778,"Gardner, Angela",HR Specialist I,Group HR Management,120780,"$54,562.50",S,Philadelphia,PA,US,342,12815,
+120779,"Eggleston, Jennifer",HR Analyst II,Group HR Management,120780,"$54,612.50",S,Miami-Dade,FL,US,8312,17592,
+120780,"Walcott, Kimberly",HR Manager,Group HR Management,120262,"$78,743.75",M,Philadelphia,PA,US,5722,15614,
+120781,"Sitnik, Sarah",Recruiter I,Group HR Management,120782,"$40,775.00",M,San Diego,CA,US,12441,20423,20819
+120782,"Sines, Rilma",Recruitment Manager,Group HR Management,120262,"$79,893.75",S,Philadelphia,PA,US,7638,18414,
+120783,"Karp, Davis",Recruiter III,Group HR Management,120782,"$53,718.75",S,Philadelphia,PA,US,7659,17167,
+120784,"Pinol, Jennifer",Recruiter II,Group HR Management,120782,"$44,643.75",O,Philadelphia,PA,US,9245,20332,
+120785,"Donnell, Damesha",Training Manager,Group HR Management,120780,"$60,418.75",O,San Diego,CA,US,5499,16223,
+120786,"Delafuente, Chris-Anne",Trainer I,Group HR Management,120785,"$40,812.50",S,Miami-Dade,FL,US,-3576,9132,
+120787,"Peachey, Carl",Trainer II,Group HR Management,120785,"$42,500.00",M,San Diego,CA,US,5712,17167,
+120788,"Lisowe, Smitty",Trainer I,Group HR Management,120785,"$41,912.50",O,San Diego,CA,US,5642,16771,
+120789,"Denhollem, Julius",Trainer III,Group HR Management,120785,"$49,162.50",M,Miami-Dade,FL,US,3847,12388,19874
+120790,"O'Toole, Tara",ETL Specialist II,IS,120791,"$67,175.00",S,Philadelphia,Pa,US,7646,16922,
+120791,"Chiseloff, Richard",Systems Architect IV,IS,120798,"$76,393.75",M,San Diego,CA,US,3859,13788,
+120792,"Horne, Omeba",Systems Architect II,IS,120791,"$68,450.00",M,Philadelphia,PA,US,8113,17745,
+120793,"Mamo, William",ETL Specialist I,IS,120791,"$58,943.75",S,Miami-Dade,FL,US,5698,17318,
+120794,"Cross, Samantha",Applications Developer IV,IS,120800,"$64,081.25",S,Miami-Dade,FL,US,9131,19905,
+120795,"Deacon, David",Applications Developer II,IS,120794,"$61,381.25",S,Miami-Dade,FL,US,5494,14457,19754
+120796,"Kellis, Philip",Applications Developer II,IS,120794,"$58,787.50",M,Philadelphia,PA,US,132,12478,
+120797,"Jones, Sherrie",Applications Developer I,IS,120794,"$54,231.25",M,Miami-Dade,FL,US,321,10562,
+120798,"Ardskin, Elizabeth",Senior Project Manager,IS,120800,"$100,943.75",O,Miami-Dade,FL,US,2000,13880,
+120799,"Stefandonovan, Jeffery",Office Assistant III,IS,120800,"$36,337.50",M,Philadelphia,PA,US,9213,18202,
+120800,"Benyami, Fred",IS Director,IS,120262,"$100,262.50",S,San Diego,CA,US,7659,17684,19754
+120801,"Kennedy, Kathryn",Applications Developer I,IS,120798,"$50,050.00",M,Philadelphia,PA,US,7370,18444,
+120802,"Parker, U'Vonda",Applications Developer IV,IS,120798,"$81,406.25",S,Philadelphia,PA,US,-1696,10593,20269
+120803,"Droste, Victor",Applications Developer I,IS,120798,"$54,537.50",S,San Diego,CA,US,157,10593,
+120804,"Zied, Ahmed",IS Administrator III,IS,120798,"$69,250.00",S,Miami-Dade,FL,US,-3611,9132,
+120805,"Walker, Robert",BI Administrator IV,IS,120798,"$73,162.50",M,Philadelphia,PA,US,8944,18718,
+120806,"Ousley, Lorna",IS Administrator II,IS,120798,"$59,106.25",M,Miami-Dade,FL,US,7360,15737,
+120807,"Peppers, Gerlinde",IS Administrator I,IS,120798,"$54,156.25",S,San Diego,CA,US,2174,12054,20331
+120808,"Dupree, Marcel",BI Specialist II,IS,120798,"$55,531.25",S,San Diego,CA,US,3804,12935,
+120809,"Marion, Chiorene",BI Architect II,IS,120798,"$58,943.75",S,Miami-Dade,FL,US,-3639,9132,
+120810,"Esguerra, Loyal",IS Architect III,IS,120798,"$72,968.75",S,Miami-Dade,FL,US,277,11382,
+120811,"Bergeron-Jeter, Dale",Applications Developer I,IS,120814,"$54,981.25",S,Miami-Dade,FL,US,5747,16253,
+120812,"Arruza, Fauver",Applications Developer II,IS,120814,"$57,262.50",O,Miami-Dade,FL,US,7354,19206,
+120813,"Heinsler, John",Applications Developer IV,IS,120814,"$63,581.25",S,Miami-Dade,FL,us,5735,16071,20088
+120814,"Scroggin, Victor",Project Manager,IS,120800,"$73,925.00",M,San Diego,CA,US,1980,11201,
+120815,"Honore, Craig",Service Administrator III,Marketing,120719,"$39,487.50",M,Miami-Dade,FL,US,12779,20910,
+120816,"Hart, Tessia",Service Administrator I,Marketing,120719,"$38,106.25",S,Miami-Dade,FL,US,5601,16284,
+120992,"Kicak, Lisa",Office Assistant I,Administration,120996,"$33,675.00",S,Miami-Dade,FL,US,9179,18840,
+120993,"Boatright, Lorraine",Office Assistant I,Administration,120996,"$32,825.00",M,San Diego,CA,US,5830,17592,
+120994,"Sergeant, Danelle",Office Administrator I,Administration,120996,"$39,556.25",S,San Diego,CA,US,7472,16741,
+120995,"Gordo, Lily-Ann",Office Administrator II,Administration,120996,"$43,562.50",M,Philadelphia,PA,US,11121,21032,
+120996,"Wade, Johannes",Office Assistant IV,Administration,121000,"$40,931.25",M,San Diego,CA,US,7507,19602,
+120997,"Donathan, Mary",Shipping Administrator I,Administration,121000,"$34,275.00",S,Philadelphia,PA,US,7630,17410,
+120998,"Benedicto, Tondelayo",Clerk I,Administration,120997,"$32,912.50",M,San Diego,CA,US,9471,20545,
+120999,"Heilmann, Sherelyn",Clerk I,Administration,120997,"$34,018.75",S,San Diego,CA,US,2188,12874,
+121000,"Supple, Herman",Administration Manager,Administration,121141,"$60,750.00",M,Miami-Dade,Fl,US,3677,16406,
+121001,"House, Tony",Warehouse Manager,Administration,121000,"$54,518.75",S,Miami-Dade,FL,US,1847,10471,
+121002,"Clark, Terry-Ann",Warehouse Assistant II,Administration,121001,"$33,312.50",M,San Diego,CA,US,261,11292,20331
+121003,"Der Wiele, Troyce Van",Warehouse Assistant I,Administration,121001,"$32,500.00",S,Philadelphia,PA,US,12543,21001,
+121004,"Smith, Kellen",Security Manager,Administration,121000,"$38,618.75",S,San Diego,CA,US,-3438,9132,
+121005,"Mclamb, Yuh-Lang",Security Guard I,Administration,121004,"$31,275.00",O,Miami-Dade,FL,US,11153,20120,
+121006,"Bolster, Bernard",Security Guard I,Administration,121004,"$32,681.25",M,San Diego,CA,US,11973,20393,20758
+121007,"Banaszak, John",Security Guard II,Administration,121004,"$34,112.50",M,Philadelphia,PA,US,3937,13911,
+121008,"Mckenzie, Eron",Security Guard II,Administration,121004,"$34,843.75",M,Philadelphia,PA,US,5662,16284,
+121009,"Goodwin, Robert",Service Administrator I,Administration,121000,"$41,193.75",S,San Diego,CA,US,9469,18475,
+121010,"Lamp, Donald",Service Assistant I,Administration,121009,"$31,493.75",S,Miami-Dade,FL,US,11183,20879,
+121011,"Banchi, Steven",Service Assistant I,Administration,121009,"$32,168.75",S,Miami-Dade,FL,US,-3583,9132,
+121012,"Broome, Carmelo",Service Assistant II,Administration,121009,"$36,968.75",S,Miami-Dade,FL,US,11713,20422,19967
+121013,"Hargrave, Seco",Electrician II,Engineering,121016,"$33,343.75",S,Philadelphia,PA,US,9249,18718,
+121014,"Liguori, Donelle",Electrician III,Engineering,121016,"$35,637.50",M,Miami-Dade,FL,US,7426,18475,
+121015,"Elmoslamy, Wilson",Technician I,Engineering,121016,"$32,675.00",S,San Diego,CA,US,9478,18871,
+121016,"Sullivan, Lutezenia",Technical Manager,Engineering,121000,"$60,093.75",S,Miami-Dade,FL,US,8054,20332,
+121017,"Arizmendi, Gilbert",Technician II,Engineering,121016,"$36,531.25",S,San Diego,CA,US,10963,20514,
+121018,"Magolan, Julienne",Sales Rep. II,Sales,121144,"$34,450.00",M,Miami-Dade,FL,US,-3650,9132,19843
+121019,"Desanctis, Scott",Sales Rep. IV,Sales,121144,"$39,150.00",M,Philadelphia,PA,US,11864,20240,20666
+121020,"Ridley, Cherda",Sales Rep. IV,Sales,121144,"$39,687.50",M,Philadelphia,PA,US,11011,19479,
+121021,"Farren, Priscilla",Sales Rep. IV,Sales,121144,"$41,231.25",S,San Diego,CA,US,7649,16496,
+121022,"Stevens, Robert",Sales Rep. IV,Sales,121144,"$40,262.50",S,San Diego,CA,US,9432,19390,20331
+121023,"Fuller, Shawn",Sales Rep. I,Sales,121144,"$32,512.50",M,San Diego,CA,US,3724,14731,20697
+121024,"Westlund, Michael",Sales Rep. II,Sales,121144,"$33,250.00",M,San Diego,CA,US,11221,20209,
+121025,"Cassey, Barnaby",Sales Rep. II,Sales,121144,"$35,368.75",S,Miami-Dade,FL,us,-1544,9740,
+121026,"Jaime, Terrill",Sales Rep. IV,Sales,121144,"$39,393.75",M,Philadelphia,PA,US,12000,20910,
+121027,"Rudder, Allan",Sales Rep. II,Sales,121144,"$32,706.25",M,San Diego,CA,US,3777,14945,
+121028,"Smades, William",Sales Rep. I,Sales,121144,"$33,231.25",S,Miami-Dade,FL,US,12535,21124,
+121029,"Mcelwee, Kuo-Chung",Sales Rep. I,Sales,121144,"$34,031.25",M,San Diego,CA,US,4008,14945,
+121030,"Areu, Jeryl",Sales Rep. I,Sales,121144,"$33,431.25",S,Miami-Dade,Fl,US,9447,19024,
+121031,"Filan, Scott",Sales Rep. III,Sales,121144,"$35,075.00",M,Philadelphia,PA,US,3842,13362,
+121032,"Smith, Nasim",Sales Rep. IV,Sales,121144,"$39,168.75",M,San Diego,CA,US,12473,20879,
+121033,"Snitzer, Kristie",Sales Rep. III,Sales,121144,"$37,218.75",M,Philadelphia,PA,US,11998,20240,
+121034,"Kirkman, John",Sales Rep. II,Sales,121144,"$33,887.50",S,Miami-Dade,FL,US,12653,21185,
+121035,"Blackley, James",Sales Rep. II,Sales,121144,"$33,075.00",M,San Diego,CA,US,-3569,9132,
+121036,"Mesley, Teresa",Sales Rep. I,Sales,121144,"$32,456.25",O,Philadelphia,PA,US,12617,19997,20758
+121037,"Miketa, Muthukumar",Sales Rep. III,Sales,121144,"$35,387.50",M,Miami-Dade,FL,US,7468,19418,
+121038,"Anstey, David",Sales Rep. I,Sales,121144,"$31,606.25",S,Miami-Dade,FL,US,12462,21032,21216
+121039,"Washington, Donald",Sales Rep. II,Sales,121144,"$34,325.00",M,Miami-Dade,FL,US,154,11443,
+121040,"Darrohn, Brienne",Sales Rep. III,Sales,121144,"$36,906.25",M,Philadelphia,PA,US,2013,12358,
+121041,"Wetherington, Jaime",Sales Rep. II,Sales,121144,"$32,650.00",S,San Diego,CA,US,-3618,9132,
+121042,"Robbin-Coker, Joseph",Sales Rep. III,Sales,121144,"$36,056.25",M,San Diego,CA,US,9225,18567,
+121043,"Kagarise, Sigrid",Sales Rep. II,Sales,121144,"$35,281.25",M,Philadelphia,PA,US,5791,15765,
+121044,"Abbott, Ray",Sales Rep. I,Sales,121144,"$32,075.00",S,Miami-Dade,FL,US,345,9709,
+121045,"Hampton, Cascile",Sales Rep. II,Sales,121143,"$35,700.00",M,San Diego,CA,US,3816,16437,20147
+121046,"Mandzak, Roger",Sales Rep. I,Sales,121143,"$32,306.25",M,Philadelphia,PA,US,11207,21001,21185
+121047,"Grzebien, Karen",Sales Rep. I,Sales,121143,"$32,275.00",M,San Diego,CA,US,9461,21063,21244
+121048,"Clark, Lawrie",Sales Rep. I,Sales,121143,"$33,200.00",M,Miami-Dade,FL,US,11132,21063,21244
+121049,"Bataineh, Perrior",Sales Rep. I,Sales,121143,"$33,662.50",M,San Diego,CA,us,11732,21154,
+121050,"Capristo-Abramczyk, Patricia",Sales Rep. II,Sales,121143,"$32,600.00",M,San Diego,CA,US,11699,21154,
+121051,"Myers, Glorina",Sales Rep. I,Sales,121143,"$32,531.25",M,San Diego,CA,US,-1705,10897,
+121052,"Fay, Richard",Sales Rep. II,Sales,121143,"$33,625.00",S,Philadelphia,PA,US,11696,21124,
+121053,"Mcdade, Tywanna",Sales Rep. III,Sales,121143,"$37,443.75",M,San Diego,CA,US,-3387,9163,
+121054,"Pulliam, Daniel",Sales Rep. III,Sales,121143,"$37,256.25",S,San Diego,CA,US,316,10166,
+121055,"Davis, Clement",Sales Rep. III,Sales,121143,"$37,731.25",M,Miami-Dade,FL,US,12426,21032,
+121056,"Lyszyk, Stacey",Sales Rep. II,Sales,121143,"$35,406.25",O,San Diego,CA,US,11143,19844,
+121057,"Voron, Tachaun",Sales Rep. I,Sales,121143,"$31,406.25",M,Philadelphia,PA,US,2186,11657,
+121058,"Kohake, Del",Sales Rep. I,Sales,121143,"$32,837.50",M,San Diego,CA,US,7498,19632,
+121059,"Carhide, Jacqulin",Sales Rep. II,Sales,121143,"$34,281.25",S,San Diego,CA,US,2124,11779,20088
+121060,"Spofford, Elizabeth",Sales Rep. III,Sales,121143,"$36,000.00",M,Miami-Dade,FL,US,-3494,9132,
+121061,"Hassam, Lauris",Sales Rep. III,Sales,121143,"$37,268.75",S,Miami-Dade,FL,US,197,12965,
+121062,"Armant, Debra",Sales Rep. IV,Sales,121145,"$37,881.25",M,San Diego,CA,US,11258,21032,
+121063,"Kinol, Regi",Sales Rep. II,Sales,121145,"$44,987.50",S,Miami-Dade,FL,US,9339,20667,
+121064,"Polky, Asishana",Sales Rep. I,Sales,121145,"$31,387.50",M,San Diego,CA,US,3680,15584,
+121065,"Malta, Corneille",Sales Rep. III,Sales,121145,"$35,050.00",M,San Diego,CA,US,11205,20910,
+121066,"Norman, Ceresh",Sales Rep. II,Sales,121145,"$34,062.50",O,Philadelphia,PA,US,-3418,9132,20758
+121067,"Macnair, Jeanilla",Sales Rep. IV,Sales,121145,"$39,831.25",S,San Diego,CA,US,11705,20879,21063
+121068,"Osuba, Salaheloin",Sales Rep. II,Sales,121145,"$34,437.50",O,San Diego,CA,US,5814,15949,
+121069,"Lapsley, Jason",Sales Rep. II,Sales,121145,"$32,743.75",M,San Diego,CA,US,5556,15249,
+121070,"Holthouse, Agnieszka",Sales Rep. III,Sales,121145,"$36,731.25",O,Miami-Dade,FL,US,11265,20851,
+121071,"Hoppmann, John",Sales Rep. III,Sales,121145,"$35,781.25",M,Miami-Dade,FL,US,2079,10471,
+121072,"North, Christer",Sales Rep. I,Sales,121145,"$32,631.25",M,Philadelphia,PA,US,9141,20332,20758
+121073,"Court, Donald",Sales Rep. I,Sales,121145,"$33,875.00",M,Miami-Dade,FL,US,-1692,9132,
+121074,"Michonski, Eric",Sales Rep. I,Sales,121145,"$33,737.50",S,San Diego,CA,US,1886,14518,
+121075,"Sugg, Kasha",Sales Rep. II,Sales,121145,"$35,493.75",M,San Diego,CA,US,-3296,9132,
+121076,"Cobb, Micah",Sales Rep. II,Sales,121143,"$33,356.25",M,Philadelphia,Pa,US,3934,12419,20239
+121077,"Smotherly, Bryce",Sales Rep. III,Sales,121143,"$35,731.25",S,Miami-Dade,FL,US,11205,21093,
+121078,"Wende, Lionel",Sales Rep. I,Sales,121143,"$34,356.25",M,Miami-Dade,FL,US,-1706,10897,
+121079,"Mees, Azmi",Sales Rep. I,Sales,121143,"$32,212.50",M,Philadelphia,PA,US,7459,17837,
+121080,"Chinnis, Kumar",Sales Rep. I,Sales,121143,"$40,293.75",S,Miami-Dade,FL,US,1850,14123,
+121081,"Knudson, Susie",Sales Rep. III,Sales,121143,"$37,793.75",M,San Diego,CA,US,-1740,9952,
+121082,"Debank, Richard",Sales Rep. III,Sales,121143,"$35,637.50",M,Miami-Dade,FL,US,-1641,10501,
+121083,"Sutton, Tingmei",Sales Rep. I,Sales,121143,"$34,056.25",S,Miami-Dade,FL,US,1896,11017,
+121084,"Ould, Tulsidas",Sales Rep. I,Sales,121143,"$28,387.50",M,San Diego,Ca,US,3880,15341,
+121085,"Huslage, Rebecca",Sales Rep. IV,Sales,121143,"$40,293.75",S,San Diego,CA,US,12004,21185,
+121086,"Plybon, John-Michael",Sales Rep. I,Sales,121143,"$33,525.00",M,Miami-Dade,FL,US,-3303,9132,
+121087,"O'Suilleabhain, Virtina",Sales Rep. II,Sales,121143,"$35,406.25",M,Miami-Dade,FL,US,7646,18322,20909
+121088,"Kernitzki, Momolu",Sales Rep. I,Sales,121143,"$34,050.00",S,Philadelphia,PA,US,12579,21185,
+121089,"Sauder, Gregory",Sales Rep. II,Sales,121143,"$35,118.75",M,Miami-Dade,FL,US,233,9313,21123
+121090,"Klibbe, Betty",Sales Rep. I,Sales,121143,"$33,250.00",M,San Diego,CA,US,170,11354,
+121091,"Kadiri, Ernest",Sales Rep. II,Sales,121143,"$34,156.25",M,Philadelphia,Pa,US,5528,14610,
+121092,"Pritt, Gynell",Sales Rep. I,Sales,121143,"$32,100.00",S,San Diego,CA,US,7372,19571,
+121093,"Vasconcellos, Carl",Sales Rep. I,Sales,121143,"$34,262.50",M,San Diego,CA,US,3851,16437,19904
+121094,"Tate, Larry",Sales Rep. I,Sales,121143,"$33,193.75",S,San Diego,CA,US,6,10836,
+121095,"Kratzke, Sara",Sales Rep. II,Sales,121143,"$35,012.50",S,San Diego,CA,US,5582,15522,
+121096,"Newstead, Robert",Sales Rep. I,Sales,121143,"$32,918.75",S,Miami-Dade,FL,US,5616,16922,
+121097,"Chernega, Willeta",Sales Rep. II,Sales,121143,"$33,537.50",M,Philadelphia,PA,US,7601,17075,
+121098,"Heatwole, Hal",Sales Rep. I,Sales,121143,"$34,343.75",S,Philadelphia,PA,US,12499,20940,
+121099,"Mrvichin, Royall",Sales Rep. IV,Sales,121143,"$40,906.25",M,Philadelphia,PA,US,9209,18748,
+121100,"Cormell, Tzue-Ing",Sales Rep. II,Sales,121143,"$35,168.75",S,San Diego,CA,US,-1710,9952,
+121101,"Buckner, Burnetta",Sales Rep. I,Sales,121143,"$31,737.50",O,San Diego,CA,US,11928,21124,
+121102,"Flammia, Rocheal",Sales Rep. I,Sales,121143,"$33,893.75",M,San Diego,CA,US,9308,20971,
+121103,"Farnsworth, Brian",Sales Rep. I,Sales,121143,"$34,075.00",S,San Diego,Ca,US,12536,21063,
+121104,"Johnson, Leoma",Sales Rep. II,Sales,121143,"$35,393.75",S,Philadelphia,PA,US,3968,13605,19389
+121105,"Savacool, Jessica",Sales Rep. III,Sales,121143,"$36,931.25",S,Miami-Dade,FL,US,9260,19724,
+121106,"Hilburger, James",Sales Rep. I,Sales,121143,"$32,350.00",M,Miami-Dade,FL,US,5511,17198,
+121107,"Anger, Rose",Sales Rep. IV,Sales,121143,"$39,225.00",M,Philadelphia,PA,US,11802,21001,
+121108,"Levi, Libby",Sales Rep. I,Sales,121143,"$32,412.50",S,Miami-Dade,FL,US,12603,21124,21305
+121109,"Boulus, Harold",Sales Rep. I,Sales,121143,"$32,543.75",M,San Diego,CA,US,5787,15096,
+121110,"Knapp, Albert",Temp. Sales Rep.,Sales,121145,"$32,962.50",M,Miami-Dade,FL,US,-3549,21154,21184
+121111,"Maholo, Salim",Temp. Sales Rep.,Sales,121145,"$33,606.25",S,San Diego,CA,US,-3455,21154,21304
+121112,"Stouchko, Lee",Temp. Sales Rep.,Sales,121145,"$33,568.75",S,Miami-Dade,FL,US,12035,21154,21184
+121113,"Costine, Karen",Temp. Sales Rep.,Sales,121145,"$34,350.00",O,Miami-Dade,FL,US,51,21154,21215
+121114,"Whipkey, Okema",Temp. Sales Rep.,Sales,121145,"$33,143.75",M,San Diego,CA,US,-3345,21154,21365
+121115,"O'Carroll, Aquilla",Temp. Sales Rep.,Sales,121145,"$33,037.50",S,San Diego,CA,US,1870,21154,21304
+121116,"Bond-Teague, Mary",Temp. Sales Rep.,Sales,121145,"$33,337.50",M,San Diego,CA,US,3918,21154,21274
+121117,"Sergi, Teresa",Temp. Sales Rep.,Sales,121145,"$33,300.00",S,Philadelphia,PA,US,7382,21154,21184
+121118,"Lawson, Paul",Temp. Sales Rep.,Sales,121145,"$32,156.25",S,Philadelphia,Pa,US,9191,21154,21335
+121119,"Armogida, Bruce",Temp. Sales Rep.,Sales,121145,"$31,506.25",M,Philadelphia,PA,US,3959,21154,21243
+121120,"Labach, Susan",Temp. Sales Rep.,Sales,121145,"$31,275.00",S,Philadelphia,PA,US,7603,21154,21243
+121121,"Cassone, Halouise",Temp. Sales Rep.,Sales,121145,"$32,168.75",S,Philadelphia,PA,US,11752,21154,21335
+121122,"Scarbrough, Stancey",Temp. Sales Rep.,Sales,121145,"$32,831.25",S,Miami-Dade,FL,US,11748,21154,21274
+121123,"Helyar, Randy",Temp. Sales Rep.,Sales,121145,"$33,012.50",M,Philadelphia,PA,US,-3536,21154,21274
+121124,"Gonzalez, Deginald",Temp. Sales Rep.,Sales,121145,"$33,656.25",S,Miami-Dade,FL,US,5524,21154,21184
+121125,"Holt, Michael",Trainee,Sales,121145,"$31,643.75",S,Philadelphia,PA,US,7412,19724,19904
+121126,"Penhale, James",Trainee,Sales,121145,"$32,518.75",M,Philadelphia,PA,US,299,19724,19904
+121127,"Mangini, Keyna",Trainee,Sales,121145,"$31,793.75",M,San Diego,CA,US,11934,20606,20788
+121128,"Nazar, Glacia",Trainee,Sales,121145,"$31,756.25",M,San Diego,CA,US,7482,19724,19904
+121129,"Hafley, Yusef",Trainee,Sales,121145,"$38,681.25",S,Miami-Dade,FL,US,3773,19724,19904
+121130,"Herndon, Gary",Trainee,Sales,121145,"$31,568.75",S,Philadelphia,PA,US,10978,20120,20300
+121131,"Pantages, William",Trainee,Sales,121145,"$31,806.25",M,San Diego,CA,US,5659,19724,19904
+121132,"Digiorgio, Shia-Ling",Trainee,Sales,121145,"$30,487.50",M,San Diego,CA,US,38,19724,19904
+121133,"Pringley, Peter",Trainee,Sales,121145,"$31,756.25",M,Philadelphia,PA,US,9445,19724,19904
+121134,"Tacosa, Paul",Trainee,Sales,121145,"$31,981.25",S,San Diego,CA,US,3835,19724,19904
+121135,"Ruta, Tammy",Sales Rep. I,Sales,121145,"$33,762.50",S,Philadelphia,PA,US,158,9344,
+121136,"Galarneau, Lesia",Sales Rep. I,Sales,121145,"$34,325.00",S,Philadelphia,PA,US,7501,19693,20361
+121137,"Boocks, Michael. R.",Sales Rep. I,Sales,121145,"$33,818.75",O,Miami-Dade,FL,US,12436,20910,
+121138,"Tolley, Hershell",Sales Rep. I,Sales,121145,"$34,081.25",M,Philadelphia,PA,US,-1768,9132,
+121139,"Mckee, Diosdado",Sales Rep. II,Sales,121145,"$34,625.00",M,San Diego,CA,US,2057,14061,
+121140,"Briggi, Saunders",Sales Rep. I,Sales,121145,"$32,918.75",S,San Diego,CA,US,9154,19084,20850
+121141,"Bleu, Henri Le",Vice President,Sales Management,120261,"$243,606.25",S,Philadelphia,PA,US,-3483,9132,
+121142,"Steiber, Reginald",Director,Sales Management,121141,"$195,081.25",M,Philadelphia,PA,US,5523,16192,
+121143,"Favaron, Louis",Senior Sales Manager,Sales Management,121142,"$118,862.50",M,Miami-Dade,FL,us,5808,17714,
+121144,"Capachietti, Renee",Sales Manager,Sales Management,121142,"$104,381.25",M,Miami-Dade,FL,US,3831,15645,
+121145,"Lansberry, Dennis",Sales Manager,Sales Management,121142,"$105,325.00",M,Miami-Dade,FL,US,-1501,9952,
+121146,"Sangiorgio, Julieanne",Secretary III,Sales Management,121141,"$36,650.00",M,Philadelphia,PA,US,12031,20910,
+121147,"Sneed, Christine",Secretary II,Sales Management,121142,"$36,431.25",M,Miami-Dade,FL,US,5626,14123,
+121148,"Sadig, Shane",Business Analyst II,Sales Management,121141,"$66,162.50",M,Miami-Dade,FL,US,5479,17898,19754

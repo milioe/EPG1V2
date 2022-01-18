@@ -1,0 +1,136 @@
+Region,Type,ParkName,DayVisits,Campers,OtherLodging,Acres
+Alaska,MONUMENT,Cape Krusenstern National Monument,"15,000",6375,0,"649,096.15"
+Alaska,PARK,Kenai Fjords National Park,"346,534",2162,0,"669,650.05"
+Alaska,PARK,Kobuk Valley National Park,"15,500",7050,0,"1,750,716.16"
+Alaska,PRESERVE,Yukon-Charley Rivers National Preserve,"1,146",3063,0,"2,523,512.44"
+Alaska,PRESERVE,Bering Land Bridge National Preserve,"2,642",1123,0,"2,697,391.01"
+Alaska,PRESERVE,Noatak National Preserve,"17,000",5500,0,"6,587,071.39"
+Intermountain,MONUMENT,Alibates Flint Quarries National Monument,"8,153",0,0,"1,370.97"
+Intermountain,MONUMENT,Aztec Ruins National Monument,"57,692",0,0,318.40
+Intermountain,MONUMENT,Bandelier National Monument,"198,478",10533,0,"33,676.67"
+Intermountain,MONUMENT,Canyon De Chelly National Monument,"821,406",11918,"23,259","83,840.00"
+Intermountain,MONUMENT,Capulin Volcano National Monument,"60,132",0,0,792.84
+Intermountain,MONUMENT,Casa Grande Ruins National Monument,"75,752",0,0,472.50
+Intermountain,MONUMENT,Cedar Breaks National Monument,"899,676",4277,0,"6,154.60"
+Intermountain,MONUMENT,Chiricahua National Monument,"51,277",11674,0,"12,024.73"
+Intermountain,MONUMENT,Colorado National Monument,"391,075",31161,0,"20,536.39"
+Intermountain,MONUMENT,Devils Tower National Monument,"496,210",17383,0,"1,347.21"
+Intermountain,MONUMENT,Dinosaur National Monument,"304,312",65402,0,"210,281.92"
+Intermountain,MONUMENT,El Malpais National Monument,"157,440",0,0,"114,347.11"
+Intermountain,MONUMENT,El Morro National Monument,"59,422",2995,0,"1,278.72"
+Intermountain,MONUMENT,Florissant Fossil Beds National Monument,"73,564",0,0,"5,998.09"
+Intermountain,MONUMENT,Fort Union National Monument,"11,953",0,0,720.60
+Intermountain,MONUMENT,Fossil Butte National Monument,"20,737",0,0,"8,198.00"
+Intermountain,MONUMENT,Gila Cliff Dwellings National Monument,"41,519",0,0,533.13
+Intermountain,MONUMENT,Hovenweep National Monument,"42,862",2395,0,784.93
+Intermountain,MONUMENT,Little Bighorn Battlefield National Monument,"332,328",0,0,765.34
+Intermountain,MONUMENT,Montezuma Castle National Monument,"392,168",0,0,"1,015.52"
+Intermountain,MONUMENT,Natural Bridges National Monument,"101,843",7015,0,"7,636.49"
+Intermountain,MONUMENT,Navajo National Monument,"65,705",3377,0,360.00
+Intermountain,MONUMENT,Organ Pipe Cactus National Monument,"234,186",27178,0,"330,688.86"
+Intermountain,MONUMENT,Rainbow Bridge National Monument,"86,369",0,0,160.00
+Intermountain,MONUMENT,Salinas Pueblo Missions National Monument,"32,414",0,0,"1,071.42"
+Intermountain,MONUMENT,Sunset Crater Volcano National Monument,"60,233",0,0,"3,040.00"
+Intermountain,MONUMENT,Timpanogos Cave National Monument,"91,261",0,0,250.00
+Intermountain,MONUMENT,Tonto National Monument,"38,048",0,0,"1,120.00"
+Intermountain,MONUMENT,Tuzigoot National Monument,"104,604",0,0,811.89
+Intermountain,MONUMENT,Walnut Canyon National Monument,"152,444",0,0,"3,529.26"
+Intermountain,MONUMENT,White Sands National Monument,"555,793",4331,0,"143,733.25"
+Intermountain,MONUMENT,Wupatki National Monument,"223,172",8,0,"35,422.13"
+Intermountain,PARK,Arches National Park,"1,585,718",47878,0,"76,678.98"
+Intermountain,PARK,Big Bend National Park,"388,290",145425,"48,280","801,163.21"
+Intermountain,PARK,Black Canyon of the Gunnison National Park,"238,018",32884,0,"30,749.75"
+Intermountain,PARK,Bryce Canyon National Park,"2,365,110",103644,"56,844","35,835.08"
+Intermountain,PARK,Canyonlands National Park,"776,218",108028,0,"337,597.83"
+Intermountain,PARK,Capitol Reef National Park,"1,064,904",43420,0,"241,904.26"
+Intermountain,PARK,Carlsbad Caverns National Park,"466,773",251,0,"46,766.45"
+Intermountain,PARK,Glacier National Park,"2,946,681",301953,"99,550","1,013,128.94"
+Intermountain,PARK,Grand Canyon National Park,"5,969,811",650186,"600,307","1,201,647.03"
+Intermountain,PARK,Grand Teton National Park,"3,270,076",333290,"196,577","310,043.96"
+Intermountain,PARK,Guadalupe Mountains National Park,"181,839",19862,0,"86,367.10"
+Intermountain,PARK,Mesa Verde National Park,"583,527",56998,"26,800","52,485.17"
+Intermountain,PARK,Petrified Forest National Park,"643,274",486,0,"221,415.77"
+Intermountain,PARK,Pinnacles National Park,"215,555",0,0,"26,685.73"
+Intermountain,PARK,Rocky Mountain National Park,"4,517,585",223525,0,"265,795.20"
+Intermountain,PARK,Saguaro National Park,"820,426",1868,0,"91,715.72"
+Intermountain,PARK,Yellowstone National Park,"4,257,177",798361,"579,227","2,219,790.71"
+Intermountain,PARK,Zion National Park,"4,295,127",236418,"86,456","147,237.02"
+Intermountain,SEASHORE,Padre Island National Seashore,"634,012",66812,0,"130,434.27"
+Intermountain,PRESERVE,Big Thicket National Preserve,"192,809",3339,0,"112,500.81"
+Midwest,MONUMENT,Agate Fossil Beds National Monument,"15,555",0,0,"3,057.87"
+Midwest,MONUMENT,Effigy Mounds National Monument,"77,195",0,0,"2,526.39"
+Midwest,MONUMENT,George Washington Carver National Monument,"46,397",0,0,210.00
+Midwest,MONUMENT,Grand Portage National Monument,"95,862",36,0,709.97
+Midwest,MONUMENT,Jewel Cave National Monument,"137,275",0,0,"1,273.51"
+Midwest,MONUMENT,Petroglyph National Monument,"124,177",0,0,"7,209.30"
+Midwest,MONUMENT,Pipe Spring National Monument,"46,710",0,0,40.00
+Midwest,MONUMENT,Scotts Bluff National Monument,"130,085",0,0,"3,004.73"
+Midwest,PARK,Badlands National Park,"996,263",57975,"9,875","242,755.94"
+Midwest,PARK,Cuyahoga Valley National Park,"2,423,390",0,"7,797","32,572.35"
+Midwest,PARK,Hot Springs National Park,"1,544,300",24021,0,"5,549.10"
+Midwest,PARK,Isle Royale National Park,"24,966",25935,"10,128","571,790.11"
+Midwest,PARK,Theodore Roosevelt National Park,"753,880",32797,0,"70,446.89"
+Midwest,PARK,Voyageurs National Park,"241,912",46451,"3,983","218,200.15"
+Midwest,PARK,Wind Cave National Park,"617,377",8987,0,"33,970.84"
+Midwest,PRESERVE,Tallgrass Prairie National Preserve,"29,378",0,0,"10,882.67"
+Midwest,RIVERWAYS,Ozark National Scenic Riverways,"1,241,480",87152,0,"80,785.04"
+Midwest,RIVERH,Buffalo National River,"1,785,359",85131,"3,150","94,293.31"
+National Capital,MONUMENT,Pipestone National Monument,"67,489",0,0,281.78
+Northeast,MONUMENT,African Burial Ground National Monument,"46,526",0,0,0.35
+Northeast,MONUMENT,Booker T. Washington National Monument,"23,440",0,0,239.01
+Northeast,MONUMENT,Castle Clinton National Monument,"4,812,930",0,0,1.00
+Northeast,MONUMENT,Fort Stanwix National Monument,"94,006",0,0,15.52
+Northeast,MONUMENT,George Washington Birthplace National Monument,"129,750",0,0,653.18
+Northeast,MONUMENT,Governors Island National Monument,"522,859",0,0,22.91
+Northeast,MONUMENT,Statue of Liberty National Monument,"4,501,547",0,0,58.38
+Northeast,PARK,Acadia National Park,"3,303,393",201741,0,"49,057.36"
+Northeast,PARK,Shenandoah National Park,"1,437,341",229674,"101,538","199,195.27"
+Northeast,SEASHORE,Assateague Island National Seashore,"2,267,821",62534,0,"41,346.50"
+Northeast,SEASHORE,Cape Cod National Seashore,"4,692,796",0,"3,365","43,608.43"
+Northeast,SEASHORE,Fire Island National Seashore,"431,303",4056,0,"19,580.42"
+Northeast,RIVERH,New River Gorge National River,"1,197,931",5491,0,"72,185.76"
+Pacific West,MONUMENT,Cabrillo National Monument,"959,145",0,0,159.94
+Pacific West,MONUMENT,Devils Postpile National Monument,"135,404",0,0,800.19
+Pacific West,MONUMENT,Hagerman Fossil Beds National Monument,"25,982",0,0,"4,351.15"
+Pacific West,MONUMENT,John Day Fossil Beds National Monument,"210,110",0,0,"14,062.02"
+Pacific West,MONUMENT,Lava Beds National Monument,"127,699",10406,0,"46,692.42"
+Pacific West,MONUMENT,Muir Woods National Monument,"1,123,121",0,0,553.55
+Pacific West,PARK,Channel Islands National Park,"364,807",22885,0,"249,561.00"
+Pacific West,PARK,Crater Lake National Park,"756,344",61747,"35,871","183,224.05"
+Pacific West,PARK,Death Valley National Park,"1,296,283",217495,"24,668","3,373,063.14"
+Pacific West,PARK,Great Basin National Park,"144,846",42558,0,"77,180.00"
+Pacific West,PARK,Haleakala National Park,"1,263,558",10724,0,"33,264.62"
+Pacific West,PARK,Hawaii Volcanoes National Park,"1,887,580",11302,"30,606","323,431.38"
+Pacific West,PARK,Joshua Tree National Park,"2,505,286",319568,0,"790,635.74"
+Pacific West,PARK,Kings Canyon National Park,"607,479",155222,"50,079","461,901.20"
+Pacific West,PARK,Lassen Volcanic National Park,"536,068",96432,"6,182","106,589.02"
+Pacific West,PARK,Mount Rainier National Park,"1,356,913",150882,"42,223","236,381.64"
+Pacific West,PARK,North Cascades National Park,"28,646",25516,0,"504,780.94"
+Pacific West,PARK,Olympic National Park,"3,390,221",310980,"85,450","922,650.10"
+Pacific West,PARK,Redwood National Park,"536,297",9660,0,"138,999.97"
+Pacific West,PARK,Sequoia National Park,"1,254,688",255693,"63,940","404,062.63"
+Pacific West,PARK,Yosemite National Park,"5,028,868",1084164,"743,546","761,747.50"
+Pacific West,SEASHORE,Point Reyes National Seashore,"2,438,442",43412,"10,347","71,055.41"
+Pacific West,PRESERVE,Mojave National Preserve,"585,635",2962,0,"1,542,775.80"
+Southeast,MONUMENT,Buck Island Reef National Monument,"38,929",0,0,"19,015.47"
+Southeast,MONUMENT,Castillo De San Marcos National Monument,"854,664",0,0,19.38
+Southeast,MONUMENT,Fort Frederica National Monument,"192,906",0,0,284.49
+Southeast,MONUMENT,Fort Matanzas National Monument,"557,810",0,0,300.11
+Southeast,MONUMENT,Fort Pulaski National Monument,"344,921",0,0,"5,623.10"
+Southeast,MONUMENT,Fort Sumter National Monument,"888,330",0,0,234.74
+Southeast,MONUMENT,Ocmulgee National Monument,"162,260",0,0,703.70
+Southeast,MONUMENT,Russell Cave National Monument,"24,649",0,0,310.45
+Southeast,PARK,Biscayne National Park,"514,709",2522,0,"172,971.11"
+Southeast,PARK,Congaree National Park,"143,843",286,0,"26,275.82"
+Southeast,PARK,Dry Tortugas National Park,"73,661",5934,0,"64,701.22"
+Southeast,PARK,Everglades National Park,"930,907",31935,0,"1,400,539.30"
+Southeast,PARK,Great Smoky Mountains National Park,"11,312,786",411603,"11,493","522,426.88"
+Southeast,PRESERVE,Little River Canyon National Preserve,"462,700",0,0,"15,288.53"
+Southeast,PARK,Mammoth Cave National Park,"586,514",60972,"16,365","52,830.19"
+Southeast,PARK,Virgin Islands National Park,"411,343",15842,"14,214","14,948.46"
+Southeast,SEASHORE,Canaveral National Seashore,"1,629,944",2636,0,"57,661.69"
+Southeast,SEASHORE,Cape Hatteras National Seashore,"2,411,711",66062,0,"30,350.65"
+Southeast,SEASHORE,Cape Lookout National Seashore,"458,000",37197,"10,118","28,243.36"
+Southeast,SEASHORE,Cumberland Island National Seashore,"61,896",19163,0,"36,346.83"
+Southeast,SEASHORE,Gulf Islands National Seashore,"4,771,309",178701,0,"138,305.52"
+Southeast,PRESERVE,Big Cypress National Preserve,"1,102,148",17714,0,"574,453.32"

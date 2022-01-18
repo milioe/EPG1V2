@@ -1,0 +1,55 @@
+Year,Basin,Name,StartDate,EndDate,MaxWindMPH,MinPressure,Location
+2017,NA,ARLENE,19APR2017,21APR2017,50,990,None
+2017,NA,BRET,19JUN2017,20JUN2017,45,1007,"Guyana, Venezuela, Trinidad and Tobago, Windward Islands"
+2017,NA,CINDY,20JUN2017,23JUN2017,60,992,"Honduras, Belize, Cayman Islands, Yucatán Peninsula, Cuba, Southern United States, Eastern United States"
+2017,NA,DON,17JUL2017,18JUL2017,50,1007,"Windward Islands, Barbados, Grenada, Trinidad and Tobago"
+2017,NA,EMILY,31JUL2017,02AUG2017,45,1005,Florida
+2017,NA,FRANKLIN,07AUG2017,10AUG2017,85,981,"Nicaragua, Honduras, Guatemala, Belize, Yucatán Peninsula, Central Mexico"
+2017,NA,GERT,13AUG2017,17AUG2017,105,967,"Bermuda, East Coast of the United States, Atlantic Canada"
+2017,NA,HARVEY,17AUG2017,01SEP2017,130,938,"Barbados, Suriname, Guyana, Windward Islands, Nicaragua, Belize, Yucatán Peninsula, Northeastern Mexico, Southern United States (Texas, Louisiana), Eastern United States"
+2017,NA,IRMA,30AUG2017,12SEP2017,185,914,"Cape Verde, Leeward Islands (Barbuda, Saint Martin, Saint Barthelemy, U.S. Virgin Islands), Puerto Rico, Hispaniola, Turks and Caicos Islands, The Bahamas, Cuba, Southeastern United States (Florida and Georgia), Northeastern United States"
+2017,NA,JOSE,05SEP2017,22SEP2017,155,938,"Leeward Islands, East Coast of the United States"
+2017,NA,KATIA,05JUN2017,09SEP2017,105,972,Eastern Mexico
+2017,NA,LEE,15SEP2017,30SEP2017,115,962,Cabo Verde
+2017,NA,MARIA,16SEP2017,30SEP2017,175,908,"Lesser Antilles (Dominica, Guadeloupe, Martinique, Saint Croix), Puerto Rico, Hispaniola, Turks and Caicos Islands, The Bahamas, Southeastern United States, Mid-Atlantic States, United Kingdom, Ireland, France, Spain"
+2017,NA,NATE,04OCT2017,09OCT2017,90,981,"Nicaragua, Honduras, Costa Rica, El Salvador, Panama, Mexico, Cayman Islands, Cuba, Southeastern United States (Louisiana, Alabama, Mississippi, and Florida Panhandle), Northeastern United States, Atlantic Canada"
+2017,NA,OPHELIA,09OCT2017,16OCT2017,115,960,"Azores, Portugal, Spain, France, Ireland, United Kingdom, Norway, Sweden, Finland, Estonia, Russia"
+2017,NA,PHILIPPE,28OCT2017,29OCT2017,60,997,"Central America, Yucatán Peninsula, Cuba, Florida, Cayman Islands, The Bahamas, East Coast of the United States, Atlantic Canada"
+2017,NA,RINA,06NOV2017,09NOV2017,60,995,"United Kingdom, Ireland"
+2017,EP,ADRIAN,09MAY2017,10MAY2017,45,1004,None
+2017,EP,BEATRIZ,31MAY2017,02JUN2017,45,1001,Southwestern Mexico
+2017,EP,CALVIN,11JUN2017,13JUN2017,45,1004,"Southwestern Mexico, Guatemala"
+2017,EP,DORA,25JUN2017,28JUN2017,105,974,"Southwestern Mexico, Revillagigedo Islands"
+2017,EP,EUGENE,07JUL2017,12JUL2017,115,966,"Baja California Peninsula, California"
+2017,EP,FERNANDA,12JUL2017,22JUL2017,145,947,Hawaii
+2017,EP,GREG,17JUL2017,26JUL2017,60,1001,None
+2017,EP,EIGHT-E,18JUL2017,20JUL2017,35,1007,None
+2017,EP,HILARY,21JUL2017,31JUL2017,105,972,Southwestern Mexico
+2017,EP,IRWIN,22JUL2017,01AUG2017,90,980,None
+2017,EP,ELEVEN-E,04AUG2017,05AUG2017,35,1006,Revillagigedo Islands
+2017,EP,JOVA,12AUG2017,14AUG2017,40,1003,"Western Mexico, Revillagigedo Islands"
+2017,EP,KENNETH,18AUG2017,23AUG2017,130,952,None
+2017,EP,LIDIA,31AUG2017,03SEP2017,65,986,"Revillagigedo Islands, Western Mexico, Baja California Peninsula, Arizona, California"
+2017,EP,OTIS,11SEP2017,19SEP2017,115,965,None
+2017,EP,MAX,13SEP2017,15SEP2017,85,985,Southern Mexico
+2017,EP,NORMA,14SEP2017,20SEP2017,75,985,"Revillagigedo Islands, Baja California Peninsula"
+2017,EP,PILAR,23SEP2017,25SEP2017,45,1002,Western Mexico
+2017,EP,RAMON,03OCT2017,04OCT2017,45,1002,Southern Mexico
+2017,EP,SELMA,27OCT2017,28OCT2017,40,1005,"Nicaragua, Costa Rica, El Salvador, Guatemala, Honduras"
+2017,NI,MAARUTHA,15APR2017,17APR2017,45,996,"Myanmar, Andaman and Nicobar Islands, Thailand, Yunnan"
+2017,NI,MORA,28MAY2017,31MAY2017,70,978,"Sri Lanka, Andaman and Nicobar Islands, East India, Northeast India, Bangladesh, Myanmar, Bhutan, Tibet"
+2017,NI,OCKHI,29NOV2017,06DEC2017,100,976,"Sri Lanka, India, Maldives"
+2017,SI,ALFRED,16FEB2017,22FEB2017,50,994,"Queensland, Northern Territory"
+2017,SI,BLANCHE,02MAR2017,07MAR2017,65,984,"Northern Territory, Western Australia"
+2017,SI,CALEB,23MAR2017,27MAR2017,50,989,Cocos (Keeling) Islands
+2017,SP,DEBBIE,23MAR2017,30MAR2017,120,943,"Queensland, New South Wales, New Zealand"
+2017,SI,ERNIE,05APR2017,10APR2017,140,922,None
+2017,SI,FRANCES,21APR2017,01MAY2017,75,981,"New Guinea, Maluku, Northern Territory,Timor, Western Australia"
+2017,SI,GREG,29APR2017,03MAY2017,40,997,None
+2017,SI,CEMPAKA,22NOV2017,01DEC2017,40,998,Java
+2017,SI,DAHLIA,24NOV2017,05DEC2017,60,985,"Sumatra, Java"
+2017,SI,HILDA,24DEC2017,30DEC2017,60,980,"Timor, Western Australia"
+2017,SP,BART,19FEB2017,22FEB2017,45,994,Cook Islands
+2017,SP,COOK,06APR2017,11APR2017,100,961,"Vanuatu, New Caledonia, New Zealand"
+2017,SP,DONNA,01MAY2017,10MAY2017,125,935,"Solomon Islands, Vanuatu, New Caledonia, New Zealand"
+2017,SP,ELLA,07MAY2017,15MAY2017,70,977,"Samoan Islands, Tonga, Wallis and Futuna"
